@@ -1,10 +1,9 @@
-[![Test, Lint & Deploy Site to Github Pages](https://github.com/yuhonas/free-exercise-db/actions/workflows/ci.yaml/badge.svg)](https://github.com/yuhonas/free-exercise-db/actions/workflows/ci.yaml)
+[![Test, Lint & Deploy Site to Github Pages](https://github.com/gfauredev/free-exercise-db/actions/workflows/ci.yaml/badge.svg)](https://github.com/gfauredev/free-exercise-db/actions/workflows/ci.yaml)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 <!--toc:start-->
 
 - [Free Exercise DB 💪](#free-exercise-db-💪)
-  - [Why?](#why)
   - [What do they look like?](#what-do-they-look-like)
   - [How do I use them?](#how-do-i-use-them)
     - [Alternatively](#alternatively)
@@ -29,18 +28,8 @@
 
 # Free Exercise DB 💪
 
-Open Public Domain Exercise Dataset in `JSON` format, 800+ exercises with a
-browsable public searchable frontend
-
-### Why?
-
-I started building another fitness related app and was looking for free/open
-source exercise lists and imagery I stumbled upon
-[exercises.json](https://github.com/wrkout/exercises.json) which was amazing
-though the data wasn't structured the way I wanted it and I also wanted a
-browsable/searchable frontend to the data inspired by
-[this issue](https://github.com/wrkout/exercises.json/issues/5) so I
-restructured the data and built a simple frontend to it :)
+My fork of the `JSON` (800+) Exercise Dataset by [yuhonas] that I use in my
+training app [LogOut].
 
 ### What do they look like?
 
@@ -75,8 +64,7 @@ following [JSON Schema](./schema.json) eg.
 See
 [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbell_Curl.json)
 
-To further explore the data, you can use
-[lite.datasette.io](https://lite.datasette.io/?json=https://github.com/yuhonas/free-exercise-db/blob/main/dist/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment)
+To further explore the data, you can use [datasette].
 
 ### How do I use them?
 
@@ -85,14 +73,10 @@ You can check the repo out and use the `JSON` files and images locally
 #### Alternatively
 
 You can leverage github's hosting and access the single or combined
-[exercises.json](https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/dist/exercises.json)
-and prefix any of image path's contained in the `JSON` with
-`https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/` to
-get a hosted version of the image eg.
-[Air_Bike/0.jpg](https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg)
-or leverage something like [imagekit.io](https://imagekit.io/) for dynamic image
-resizing which is utlized on the frontend
-[example site](https://github.com/yuhonas/free-exercise-db/blob/main/site/src/components/PhotoGallery.vue#L44-L54)
+[exercises.json] and prefix any of image path's contained in the `JSON` with
+`https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/exercises/`
+to get a hosted version of the image, eg.
+[Air_Bike/0.jpg](https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/exercises/Air_Bike/0.jpg).
 
 ### Build tasks
 
@@ -116,18 +100,14 @@ the following make task
 make dist/exercises.json
 ```
 
-_Note: requires [jq](https://stedolan.github.io/jq/)_
-
 #### Importing into PostgreSQL
 
-To combine all `JSON` files into [Newline Delimeted JSON](http://ndjson.org/)
+To combine all `JSON` files into [Newline Delimeted JSON](http://ndjson.org)
 suitable for import into PostgreSQL use the following make task
 
 ```sh
 make dist/exercises.nd.json
 ```
-
-_Note: requires [jq](https://stedolan.github.io/jq/)_
 
 See also
 [Importing JSON into PostgreSQL using COPY](https://konbert.com/blog/import-json-into-postgres-using-copy)
@@ -136,10 +116,9 @@ See also
 
 <img src="./site/public/screenshot.png" alt="Screenshot of browsable frontend" width="500">
 
-There is a simple searchable/browsable frontend to the data written in
-[Vue.js](https://vuejs.org/) available at
-[yuhonas.github.io/free-exercise-db](https://yuhonas.github.io/free-exercise-db/)
-all related code is in the [site](./site) directory
+There is a simple searchable/browsable frontend to the data written in [Vue.js]
+available at [yuhonas.github.io/free-exercise-db] all related code is in the
+[site](./site) directory
 
 #### Setup
 
@@ -210,23 +189,14 @@ Scanning: 2620 files, 874 items (in 1 specified)
 25 duplicate files (in 22 sets), occupying 809 KB
 ```
 
-### Contributors
-
-<a href="https://github.com/yuhonas/free-exercise-db/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yuhonas/free-exercise-db" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
-
-Contributions are always welcome! Please read the contribution guidelines first.
-
-### Special Thanks 🙇
-
-- [Ollie Jennings](https://github.com/OllieJennings) for the original dataset at
-  [exercises.json](https://github.com/wrkout/exercises.json)
-- flaticon for the favicon see
-  [Sports-and-competition icons created by Dragon Icons - Flaticon](https://www.flaticon.com/free-icons/sports-and-competition)
-
-[Vitest]: https://vitest.dev
 [Cypress]: https://www.cypress.io
 [Eslint]: https://eslint.org
+[exercises.json]: https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/dist/exercises.json
+[LogOut]: https://github.com/gfauredev/LogOut
+[logout]: https://github.com/gfauredev/LogOut
+[Vitest]: https://vitest.dev
+[Vue.js]: https://vuejs.org
+[yuhonas]: https://github.com/yuhonas/free-exercise-db
+[yuhonas.github.io/free-exercise-db]: https://yuhonas.github.io/free-exercise-db
+[lite.datasette.io]: https://lite.datasette.io/?json=https://github.com/gfauredev/free-exercise-db/blob/main/dist/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment
+[datasette]: https://lite.datasette.io/?json=https://github.com/gfauredev/free-exercise-db/blob/main/dist/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment

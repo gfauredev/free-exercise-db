@@ -1,4 +1,3 @@
-[![Test, Lint & Deploy Site to Github Pages](https://github.com/gfauredev/free-exercise-db/actions/workflows/ci.yaml/badge.svg)](https://github.com/gfauredev/free-exercise-db/actions/workflows/ci.yaml)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 <!--toc:start-->
@@ -113,8 +112,6 @@ See also
 [Importing JSON into PostgreSQL using COPY](https://konbert.com/blog/import-json-into-postgres-using-copy)
 
 ### Browsable frontend
-
-<img src="./site/public/screenshot.png" alt="Screenshot of browsable frontend" width="500">
 
 There is a simple searchable/browsable frontend to the data written in [Vue.js]
 available at [yuhonas.github.io/free-exercise-db] all related code is in the

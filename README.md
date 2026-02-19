@@ -20,8 +20,6 @@
   - [TODO](#todo)
     - [Incomplete fields](#incomplete-fields)
     - [Images](#images)
-  - [Contributors](#contributors)
-  - [Special Thanks 🙇](#special-thanks-🙇)
 
 <!--toc:end-->
 

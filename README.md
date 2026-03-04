@@ -1,29 +1,30 @@
+---
+lang: en
+---
+
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
+# Free Exercise DB 💪
 
 <!--toc:start-->
 
-- [Free Exercise DB 💪](#free-exercise-db-💪)
-  - [What do they look like?](#what-do-they-look-like)
-  - [How do I use them?](#how-do-i-use-them)
-    - [Alternatively](#alternatively)
-  - [Build tasks](#build-tasks)
-    - [Linting](#linting)
-    - [Combining into a single JSON file](#combining-into-a-single-json-file)
-    - [Importing into PostgreSQL](#importing-into-postgresql)
-  - [Browsable frontend](#browsable-frontend)
-    - [Setup](#setup)
-    - [Compile and Hot-Reload for Development](#compile-and-hot-reload-for-development)
-    - [Compile and Minify for Production](#compile-and-minify-for-production)
-    - [Run Unit Tests with Vitest](#run-unit-tests-with-vitest)
-    - [Run End-to-End Tests with Cypress](#run-end-to-end-tests-with-cypress)
-    - [Lint with ESLint](#lint-with-eslint)
-  - [TODO](#todo)
-    - [Incomplete fields](#incomplete-fields)
-    - [Images](#images)
+- [What do they look like?](#what-do-they-look-like)
+- [How do I use them?](#how-do-i-use-them)
+  - [Alternatively](#alternatively)
+- [Build tasks](#build-tasks)
+  - [Linting](#linting)
+  - [Combining into a single JSON file](#combining-into-a-single-json-file)
+  - [Importing into PostgreSQL](#importing-into-postgresql)
+- [Browsable frontend](#browsable-frontend)
+  - [Setup](#setup)
+  - [Compile and Hot-Reload for Development](#compile-and-hot-reload-for-development)
+  - [Compile and Minify for Production](#compile-and-minify-for-production)
+  - [Run Unit Tests with Vitest](#run-unit-tests-with-vitest)
+  - [Run End-to-End Tests with Cypress](#run-end-to-end-tests-with-cypress)
+  - [Lint with ESLint](#lint-with-eslint)
+- [TODO](#todo)
 
 <!--toc:end-->
-
-# Free Exercise DB 💪
 
 My fork of the `JSON` (800+) Exercise Dataset by [yuhonas] that I use in my
 training app [LogOut].
@@ -164,25 +165,19 @@ npm run lint
 
 ### TODO
 
-#### Incomplete fields
-
-The following fields are incomplete in _some_ `JSON` files and in such have had
-to allow `null` in [schema.json](./schema.json)
-
-- force
-- mechanic
-- equipment
-
-#### Images
-
-There are also a small number of duplicate images eg.
-
-```sh
-jdupes --summarize --recurse .
-
-Scanning: 2620 files, 874 items (in 1 specified)
-25 duplicate files (in 22 sets), occupying 809 KB
-```
+- Add bodyweight only missing exercises, with images, all fields properly filled
+  - Pistol Squat
+  - Standing Calf Raise
+  - Road Running
+- Harmonize exercise data
+  - Use consistent casing and word separating for names
+  - Make IDs lowercase ASCII letters only
+  - Fill currently null `force`, `mechanic` and `equipment` fields
+  - Remove `null` from schema
+- Internationalize
+  - Allow exercises to have `name` and `instructions` in different languages
+  - Create `i18n.json` with translations of muscles, forces, categories, levels…
+  - Add translations, at least in French
 
 [Cypress]: https://www.cypress.io
 [Eslint]: https://eslint.org

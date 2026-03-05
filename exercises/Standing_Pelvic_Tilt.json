@@ -3,7 +3,6 @@
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
-  "equipment": null,
   "primaryMuscles": [
     "lower back"
   ],
@@ -20,5 +19,5 @@
     "Standing_Pelvic_Tilt/0.jpg",
     "Standing_Pelvic_Tilt/1.jpg"
   ],
-  "id": "Standing_Pelvic_Tilt"
+  "id": "standing_pelvic_tilt"
 }

@@ -3,7 +3,6 @@
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
-  "equipment": null,
   "primaryMuscles": [
     "lats"
   ],
@@ -20,5 +19,5 @@
     "Chair_Lower_Back_Stretch/0.jpg",
     "Chair_Lower_Back_Stretch/1.jpg"
   ],
-  "id": "Chair_Lower_Back_Stretch"
+  "id": "chair_lower_back_stretch"
 }

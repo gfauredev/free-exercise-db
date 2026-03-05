@@ -3,7 +3,6 @@
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": null,
   "primaryMuscles": [
     "quadriceps"
   ],
@@ -22,5 +21,5 @@
     "Side_Standing_Long_Jump/0.jpg",
     "Side_Standing_Long_Jump/1.jpg"
   ],
-  "id": "Side_Standing_Long_Jump"
+  "id": "side_standing_long_jump"
 }

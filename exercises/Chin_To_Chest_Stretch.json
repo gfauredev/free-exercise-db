@@ -2,8 +2,7 @@
   "name": "Chin To Chest Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "neck"
   ],
@@ -19,5 +18,5 @@
     "Chin_To_Chest_Stretch/0.jpg",
     "Chin_To_Chest_Stretch/1.jpg"
   ],
-  "id": "Chin_To_Chest_Stretch"
+  "id": "chin_to_chest_stretch"
 }

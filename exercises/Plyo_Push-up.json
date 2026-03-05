@@ -1,9 +1,8 @@
 {
-  "name": "Plyo Push-up",
+  "name": "Plyo Push-Up",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "chest"
   ],
@@ -24,5 +23,5 @@
     "Plyo_Push-up/0.jpg",
     "Plyo_Push-up/1.jpg"
   ],
-  "id": "Plyo_Push-up"
+  "id": "plyo_push-up"
 }

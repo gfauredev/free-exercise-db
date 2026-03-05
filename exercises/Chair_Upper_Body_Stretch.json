@@ -2,7 +2,7 @@
   "name": "Chair Upper Body Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "shoulders"
@@ -20,5 +20,5 @@
     "Chair_Upper_Body_Stretch/0.jpg",
     "Chair_Upper_Body_Stretch/1.jpg"
   ],
-  "id": "Chair_Upper_Body_Stretch"
+  "id": "chair_upper_body_stretch"
 }

@@ -2,8 +2,7 @@
   "name": "Standing Gastrocnemius Calf Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "calves"
   ],
@@ -20,5 +19,5 @@
     "Standing_Gastrocnemius_Calf_Stretch/0.jpg",
     "Standing_Gastrocnemius_Calf_Stretch/1.jpg"
   ],
-  "id": "Standing_Gastrocnemius_Calf_Stretch"
+  "id": "standing_gastrocnemius_calf_stretch"
 }

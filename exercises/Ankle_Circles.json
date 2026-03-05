@@ -3,13 +3,10 @@
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
-  "equipment": null,
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Use a sturdy object like a squat rack to hold yourself.",
     "Lift the right leg in the air (just around 2 inches from the floor) and perform a circular motion with the big toe. Pretend that you are drawing a big circle with it. Tip: One circle equals 1 repetition. Breathe normally as you perform the movement.",
@@ -20,5 +17,5 @@
     "Ankle_Circles/0.jpg",
     "Ankle_Circles/1.jpg"
   ],
-  "id": "Ankle_Circles"
+  "id": "ankle_circles"
 }

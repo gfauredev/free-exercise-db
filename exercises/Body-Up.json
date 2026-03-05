@@ -3,7 +3,6 @@
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
-  "equipment": "body only",
   "primaryMuscles": [
     "triceps"
   ],
@@ -22,5 +21,5 @@
     "Body-Up/0.jpg",
     "Body-Up/1.jpg"
   ],
-  "id": "Body-Up"
+  "id": "body-up"
 }

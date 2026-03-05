@@ -2,7 +2,7 @@
   "name": "Reverse Hyperextension",
   "force": "pull",
   "level": "intermediate",
-  "mechanic": null,
+  "mechanic": "compound",
   "equipment": "machine",
   "primaryMuscles": [
     "hamstrings"
@@ -23,5 +23,5 @@
     "Reverse_Hyperextension/0.jpg",
     "Reverse_Hyperextension/1.jpg"
   ],
-  "id": "Reverse_Hyperextension"
+  "id": "reverse_hyperextension"
 }

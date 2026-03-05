@@ -1,9 +1,8 @@
 {
-  "name": "Gorilla Chin/Crunch",
+  "name": "Gorilla Chin and Crunch",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "abdominals"
   ],
@@ -23,5 +22,5 @@
     "Gorilla_Chin_Crunch/0.jpg",
     "Gorilla_Chin_Crunch/1.jpg"
   ],
-  "id": "Gorilla_Chin_Crunch"
+  "id": "gorilla_chin_crunch"
 }

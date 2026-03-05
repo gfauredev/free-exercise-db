@@ -2,8 +2,7 @@
   "name": "Dancer's Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "lower back"
   ],
@@ -22,5 +21,5 @@
     "Dancers_Stretch/0.jpg",
     "Dancers_Stretch/1.jpg"
   ],
-  "id": "Dancers_Stretch"
+  "id": "dancers_stretch"
 }

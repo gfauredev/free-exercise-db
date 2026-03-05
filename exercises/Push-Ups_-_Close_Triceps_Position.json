@@ -3,7 +3,6 @@
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "triceps"
   ],
@@ -22,5 +21,5 @@
     "Push-Ups_-_Close_Triceps_Position/0.jpg",
     "Push-Ups_-_Close_Triceps_Position/1.jpg"
   ],
-  "id": "Push-Ups_-_Close_Triceps_Position"
+  "id": "push-ups_-_close_triceps_position"
 }

@@ -3,7 +3,6 @@
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
-  "equipment": "body only",
   "primaryMuscles": [
     "glutes"
   ],
@@ -20,5 +19,5 @@
     "Butt_Lift_Bridge/0.jpg",
     "Butt_Lift_Bridge/1.jpg"
   ],
-  "id": "Butt_Lift_Bridge"
+  "id": "butt_lift_bridge"
 }

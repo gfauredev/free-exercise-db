@@ -2,14 +2,11 @@
   "name": "Ankle On The Knee",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "glutes"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "From a lying position, bend your knees and keep your feet on the floor.",
     "Place your ankle of one foot on your opposite knee.",
@@ -20,5 +17,5 @@
     "Ankle_On_The_Knee/0.jpg",
     "Ankle_On_The_Knee/1.jpg"
   ],
-  "id": "Ankle_On_The_Knee"
+  "id": "ankle_on_the_knee"
 }

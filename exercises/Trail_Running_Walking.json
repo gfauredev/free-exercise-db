@@ -1,9 +1,8 @@
 {
-  "name": "Trail Running/Walking",
-  "force": null,
+  "name": "Trail Running and Walking",
+  "force": "push",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "compound",
   "primaryMuscles": [
     "quadriceps"
   ],
@@ -21,5 +20,5 @@
     "Trail_Running_Walking/0.jpg",
     "Trail_Running_Walking/1.jpg"
   ],
-  "id": "Trail_Running_Walking"
+  "id": "trail_running_walking"
 }

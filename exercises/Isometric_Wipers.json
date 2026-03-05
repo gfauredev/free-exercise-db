@@ -3,7 +3,6 @@
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "chest"
   ],
@@ -23,5 +22,5 @@
     "Isometric_Wipers/0.jpg",
     "Isometric_Wipers/1.jpg"
   ],
-  "id": "Isometric_Wipers"
+  "id": "isometric_wipers"
 }

@@ -1,8 +1,8 @@
 {
-  "name": "Bicycling, Stationary",
-  "force": null,
+  "name": "Stationary Bicycling",
+  "force": "push",
   "level": "beginner",
-  "mechanic": null,
+  "mechanic": "compound",
   "equipment": "machine",
   "primaryMuscles": [
     "quadriceps"
@@ -21,5 +21,5 @@
     "Bicycling_Stationary/0.jpg",
     "Bicycling_Stationary/1.jpg"
   ],
-  "id": "Bicycling_Stationary"
+  "id": "bicycling_stationary"
 }

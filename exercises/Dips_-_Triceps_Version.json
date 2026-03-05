@@ -3,7 +3,6 @@
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "triceps"
   ],
@@ -22,5 +21,5 @@
     "Dips_-_Triceps_Version/0.jpg",
     "Dips_-_Triceps_Version/1.jpg"
   ],
-  "id": "Dips_-_Triceps_Version"
+  "id": "dips_-_triceps_version"
 }

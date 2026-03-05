@@ -2,8 +2,7 @@
   "name": "Crossover Reverse Lunge",
   "force": "pull",
   "level": "intermediate",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "compound",
   "primaryMuscles": [
     "lower back"
   ],
@@ -24,5 +23,5 @@
     "Crossover_Reverse_Lunge/0.jpg",
     "Crossover_Reverse_Lunge/1.jpg"
   ],
-  "id": "Crossover_Reverse_Lunge"
+  "id": "crossover_reverse_lunge"
 }

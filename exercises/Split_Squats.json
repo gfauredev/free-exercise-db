@@ -2,8 +2,7 @@
   "name": "Split Squats",
   "force": "push",
   "level": "intermediate",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "compound",
   "primaryMuscles": [
     "hamstrings"
   ],
@@ -21,5 +20,5 @@
     "Split_Squats/0.jpg",
     "Split_Squats/1.jpg"
   ],
-  "id": "Split_Squats"
+  "id": "split_squats"
 }

@@ -3,7 +3,6 @@
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
-  "equipment": null,
   "primaryMuscles": [
     "middle back"
   ],
@@ -24,5 +23,5 @@
     "Spinal_Stretch/0.jpg",
     "Spinal_Stretch/1.jpg"
   ],
-  "id": "Spinal_Stretch"
+  "id": "spinal_stretch"
 }

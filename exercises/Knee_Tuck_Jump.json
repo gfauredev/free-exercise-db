@@ -3,7 +3,6 @@
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "hamstrings"
   ],
@@ -24,5 +23,5 @@
     "Knee_Tuck_Jump/0.jpg",
     "Knee_Tuck_Jump/1.jpg"
   ],
-  "id": "Knee_Tuck_Jump"
+  "id": "knee_tuck_jump"
 }

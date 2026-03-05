@@ -3,7 +3,6 @@
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "quadriceps"
   ],
@@ -25,5 +24,5 @@
     "Freehand_Jump_Squat/0.jpg",
     "Freehand_Jump_Squat/1.jpg"
   ],
-  "id": "Freehand_Jump_Squat"
+  "id": "freehand_jump_squat"
 }

@@ -2,8 +2,7 @@
   "name": "Standing Toe Touches",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "hamstrings"
   ],
@@ -19,5 +18,5 @@
     "Standing_Toe_Touches/0.jpg",
     "Standing_Toe_Touches/1.jpg"
   ],
-  "id": "Standing_Toe_Touches"
+  "id": "standing_toe_touches"
 }

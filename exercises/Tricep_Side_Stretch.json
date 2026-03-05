@@ -2,8 +2,7 @@
   "name": "Tricep Side Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "triceps"
   ],
@@ -18,5 +17,5 @@
     "Tricep_Side_Stretch/0.jpg",
     "Tricep_Side_Stretch/1.jpg"
   ],
-  "id": "Tricep_Side_Stretch"
+  "id": "tricep_side_stretch"
 }

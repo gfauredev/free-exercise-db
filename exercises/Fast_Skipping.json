@@ -3,7 +3,6 @@
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "quadriceps"
   ],
@@ -24,5 +23,5 @@
     "Fast_Skipping/0.jpg",
     "Fast_Skipping/1.jpg"
   ],
-  "id": "Fast_Skipping"
+  "id": "fast_skipping"
 }

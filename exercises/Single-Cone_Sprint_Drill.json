@@ -2,7 +2,7 @@
   "name": "Single-Cone Sprint Drill",
   "force": "push",
   "level": "beginner",
-  "mechanic": null,
+  "mechanic": "compound",
   "equipment": "other",
   "primaryMuscles": [
     "quadriceps"
@@ -22,5 +22,5 @@
     "Single-Cone_Sprint_Drill/0.jpg",
     "Single-Cone_Sprint_Drill/1.jpg"
   ],
-  "id": "Single-Cone_Sprint_Drill"
+  "id": "single-cone_sprint_drill"
 }

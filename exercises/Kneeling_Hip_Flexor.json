@@ -3,7 +3,6 @@
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
-  "equipment": null,
   "primaryMuscles": [
     "quadriceps"
   ],
@@ -19,5 +18,5 @@
     "Kneeling_Hip_Flexor/0.jpg",
     "Kneeling_Hip_Flexor/1.jpg"
   ],
-  "id": "Kneeling_Hip_Flexor"
+  "id": "kneeling_hip_flexor"
 }

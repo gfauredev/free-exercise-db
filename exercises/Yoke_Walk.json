@@ -1,6 +1,6 @@
 {
   "name": "Yoke Walk",
-  "force": null,
+  "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
@@ -26,5 +26,5 @@
     "Yoke_Walk/0.jpg",
     "Yoke_Walk/1.jpg"
   ],
-  "id": "Yoke_Walk"
+  "id": "yoke_walk"
 }

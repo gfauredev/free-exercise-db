@@ -1,8 +1,8 @@
 {
   "name": "Rope Jumping",
-  "force": null,
+  "force": "push",
   "level": "intermediate",
-  "mechanic": null,
+  "mechanic": "compound",
   "equipment": "other",
   "primaryMuscles": [
     "quadriceps"
@@ -20,5 +20,5 @@
     "Rope_Jumping/0.jpg",
     "Rope_Jumping/1.jpg"
   ],
-  "id": "Rope_Jumping"
+  "id": "rope_jumping"
 }

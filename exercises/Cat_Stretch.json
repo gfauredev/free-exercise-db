@@ -2,8 +2,7 @@
   "name": "Cat Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "lower back"
   ],
@@ -21,5 +20,5 @@
     "Cat_Stretch/0.jpg",
     "Cat_Stretch/1.jpg"
   ],
-  "id": "Cat_Stretch"
+  "id": "cat_stretch"
 }

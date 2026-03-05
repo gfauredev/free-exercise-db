@@ -3,7 +3,6 @@
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": null,
   "primaryMuscles": [
     "quadriceps"
   ],
@@ -21,5 +20,5 @@
     "Mountain_Climbers/0.jpg",
     "Mountain_Climbers/1.jpg"
   ],
-  "id": "Mountain_Climbers"
+  "id": "mountain_climbers"
 }

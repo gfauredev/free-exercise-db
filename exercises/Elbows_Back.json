@@ -3,7 +3,6 @@
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
-  "equipment": null,
   "primaryMuscles": [
     "chest"
   ],
@@ -20,5 +19,5 @@
     "Elbows_Back/0.jpg",
     "Elbows_Back/1.jpg"
   ],
-  "id": "Elbows_Back"
+  "id": "elbows_back"
 }

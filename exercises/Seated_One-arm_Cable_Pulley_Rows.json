@@ -1,5 +1,5 @@
 {
-  "name": "Seated One-arm Cable Pulley Rows",
+  "name": "Seated One-Arm Cable Pulley Rows",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,5 @@
     "Seated_One-arm_Cable_Pulley_Rows/0.jpg",
     "Seated_One-arm_Cable_Pulley_Rows/1.jpg"
   ],
-  "id": "Seated_One-arm_Cable_Pulley_Rows"
+  "id": "seated_one-arm_cable_pulley_rows"
 }

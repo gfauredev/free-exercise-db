@@ -2,8 +2,7 @@
   "name": "Knee Across The Body",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "glutes"
   ],
@@ -20,5 +19,5 @@
     "Knee_Across_The_Body/0.jpg",
     "Knee_Across_The_Body/1.jpg"
   ],
-  "id": "Knee_Across_The_Body"
+  "id": "knee_across_the_body"
 }

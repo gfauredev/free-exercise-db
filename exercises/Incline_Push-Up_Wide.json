@@ -3,7 +3,6 @@
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "chest"
   ],
@@ -24,5 +23,5 @@
     "Incline_Push-Up_Wide/0.jpg",
     "Incline_Push-Up_Wide/1.jpg"
   ],
-  "id": "Incline_Push-Up_Wide"
+  "id": "incline_push-up_wide"
 }

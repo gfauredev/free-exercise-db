@@ -1,6 +1,6 @@
 {
   "name": "Conan's Wheel",
-  "force": null,
+  "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
@@ -25,5 +25,5 @@
     "Conans_Wheel/0.jpg",
     "Conans_Wheel/1.jpg"
   ],
-  "id": "Conans_Wheel"
+  "id": "conans_wheel"
 }

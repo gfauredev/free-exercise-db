@@ -1,6 +1,6 @@
 {
   "name": "Smith Machine Decline Press",
-  "force": null,
+  "force": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",
@@ -23,5 +23,5 @@
     "Smith_Machine_Decline_Press/0.jpg",
     "Smith_Machine_Decline_Press/1.jpg"
   ],
-  "id": "Smith_Machine_Decline_Press"
+  "id": "smith_machine_decline_press"
 }

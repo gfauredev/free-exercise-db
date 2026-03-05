@@ -2,8 +2,7 @@
   "name": "Seated Hamstring",
   "force": "static",
   "level": "expert",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "hamstrings"
   ],
@@ -20,5 +19,5 @@
     "Seated_Hamstring/0.jpg",
     "Seated_Hamstring/1.jpg"
   ],
-  "id": "Seated_Hamstring"
+  "id": "seated_hamstring"
 }

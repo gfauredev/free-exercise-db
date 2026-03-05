@@ -2,7 +2,7 @@
   "name": "Overhead Lat",
   "force": "static",
   "level": "expert",
-  "mechanic": null,
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "lats"
@@ -20,5 +20,5 @@
     "Overhead_Lat/0.jpg",
     "Overhead_Lat/1.jpg"
   ],
-  "id": "Overhead_Lat"
+  "id": "overhead_lat"
 }

@@ -3,7 +3,6 @@
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "lats"
   ],
@@ -24,5 +23,5 @@
     "Chin-Up/0.jpg",
     "Chin-Up/1.jpg"
   ],
-  "id": "Chin-Up"
+  "id": "chin-up"
 }

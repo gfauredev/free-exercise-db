@@ -1,6 +1,6 @@
 {
   "name": "Band Assisted Pull-Up",
-  "force": null,
+  "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
@@ -23,5 +23,5 @@
     "Band_Assisted_Pull-Up/0.jpg",
     "Band_Assisted_Pull-Up/1.jpg"
   ],
-  "id": "Band_Assisted_Pull-Up"
+  "id": "band_assisted_pull-up"
 }

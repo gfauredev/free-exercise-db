@@ -3,7 +3,6 @@
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "quadriceps"
   ],
@@ -24,5 +23,5 @@
     "Bench_Jump/0.jpg",
     "Bench_Jump/1.jpg"
   ],
-  "id": "Bench_Jump"
+  "id": "bench_jump"
 }

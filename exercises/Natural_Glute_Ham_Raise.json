@@ -3,7 +3,6 @@
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "hamstrings"
   ],
@@ -23,5 +22,5 @@
     "Natural_Glute_Ham_Raise/0.jpg",
     "Natural_Glute_Ham_Raise/1.jpg"
   ],
-  "id": "Natural_Glute_Ham_Raise"
+  "id": "natural_glute_ham_raise"
 }

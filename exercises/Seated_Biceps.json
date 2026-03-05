@@ -3,7 +3,6 @@
   "force": "static",
   "level": "expert",
   "mechanic": "isolation",
-  "equipment": "body only",
   "primaryMuscles": [
     "biceps"
   ],
@@ -21,5 +20,5 @@
     "Seated_Biceps/0.jpg",
     "Seated_Biceps/1.jpg"
   ],
-  "id": "Seated_Biceps"
+  "id": "seated_biceps"
 }

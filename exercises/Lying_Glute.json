@@ -2,8 +2,7 @@
   "name": "Lying Glute",
   "force": "static",
   "level": "expert",
-  "mechanic": null,
-  "equipment": "body only",
+  "mechanic": "isolation",
   "primaryMuscles": [
     "glutes"
   ],
@@ -21,5 +20,5 @@
     "Lying_Glute/0.jpg",
     "Lying_Glute/1.jpg"
   ],
-  "id": "Lying_Glute"
+  "id": "lying_glute"
 }

@@ -3,7 +3,6 @@
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
-  "equipment": null,
   "primaryMuscles": [
     "quadriceps"
   ],
@@ -21,5 +20,5 @@
     "Frog_Hops/0.jpg",
     "Frog_Hops/1.jpg"
   ],
-  "id": "Frog_Hops"
+  "id": "frog_hops"
 }

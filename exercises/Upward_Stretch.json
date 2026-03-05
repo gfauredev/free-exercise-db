@@ -2,8 +2,7 @@
   "name": "Upward Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "shoulders"
   ],
@@ -20,5 +19,5 @@
     "Upward_Stretch/0.jpg",
     "Upward_Stretch/1.jpg"
   ],
-  "id": "Upward_Stretch"
+  "id": "upward_stretch"
 }

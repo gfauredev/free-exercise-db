@@ -1,8 +1,8 @@
 {
-  "name": "Rowing, Stationary",
-  "force": null,
+  "name": "Stationary Rowing",
+  "force": "pull",
   "level": "intermediate",
-  "mechanic": null,
+  "mechanic": "compound",
   "equipment": "machine",
   "primaryMuscles": [
     "quadriceps"
@@ -25,5 +25,5 @@
     "Rowing_Stationary/0.jpg",
     "Rowing_Stationary/1.jpg"
   ],
-  "id": "Rowing_Stationary"
+  "id": "rowing_stationary"
 }

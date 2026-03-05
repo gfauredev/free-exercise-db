@@ -1,9 +1,8 @@
 {
-  "name": "Step-up with Knee Raise",
+  "name": "Step-Up with Knee Raise",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "glutes"
   ],
@@ -21,5 +20,5 @@
     "Step-up_with_Knee_Raise/0.jpg",
     "Step-up_with_Knee_Raise/1.jpg"
   ],
-  "id": "Step-up_with_Knee_Raise"
+  "id": "step-up_with_knee_raise"
 }

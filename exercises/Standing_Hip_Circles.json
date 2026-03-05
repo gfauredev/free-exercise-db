@@ -3,7 +3,6 @@
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
-  "equipment": "body only",
   "primaryMuscles": [
     "abductors"
   ],
@@ -21,5 +20,5 @@
     "Standing_Hip_Circles/0.jpg",
     "Standing_Hip_Circles/1.jpg"
   ],
-  "id": "Standing_Hip_Circles"
+  "id": "standing_hip_circles"
 }

@@ -3,7 +3,6 @@
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "calves"
   ],
@@ -21,5 +20,5 @@
     "Knee_Circles/0.jpg",
     "Knee_Circles/1.jpg"
   ],
-  "id": "Knee_Circles"
+  "id": "knee_circles"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Rocky Pull-Ups/Pulldowns",
+  "name": "Rocky Pull-Ups and Pulldowns",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,5 @@
     "Rocky_Pull-Ups_Pulldowns/0.jpg",
     "Rocky_Pull-Ups_Pulldowns/1.jpg"
   ],
-  "id": "Rocky_Pull-Ups_Pulldowns"
+  "id": "rocky_pull-ups_pulldowns"
 }

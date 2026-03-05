@@ -3,7 +3,6 @@
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "triceps"
   ],
@@ -23,5 +22,5 @@
     "Incline_Push-Up_Close-Grip/0.jpg",
     "Incline_Push-Up_Close-Grip/1.jpg"
   ],
-  "id": "Incline_Push-Up_Close-Grip"
+  "id": "incline_push-up_close-grip"
 }

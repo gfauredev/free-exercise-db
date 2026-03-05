@@ -1,9 +1,8 @@
 {
   "name": "Moving Claw Series",
-  "force": null,
+  "force": "push",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": null,
   "primaryMuscles": [
     "hamstrings"
   ],
@@ -21,5 +20,5 @@
     "Moving_Claw_Series/0.jpg",
     "Moving_Claw_Series/1.jpg"
   ],
-  "id": "Moving_Claw_Series"
+  "id": "moving_claw_series"
 }

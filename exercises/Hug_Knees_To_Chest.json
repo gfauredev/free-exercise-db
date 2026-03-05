@@ -2,8 +2,7 @@
   "name": "Hug Knees To Chest",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "lower back"
   ],
@@ -20,5 +19,5 @@
     "Hug_Knees_To_Chest/0.jpg",
     "Hug_Knees_To_Chest/1.jpg"
   ],
-  "id": "Hug_Knees_To_Chest"
+  "id": "hug_knees_to_chest"
 }

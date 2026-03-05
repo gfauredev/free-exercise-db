@@ -3,7 +3,6 @@
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "chest"
   ],
@@ -24,5 +23,5 @@
     "Push_Up_to_Side_Plank/0.jpg",
     "Push_Up_to_Side_Plank/1.jpg"
   ],
-  "id": "Push_Up_to_Side_Plank"
+  "id": "push_up_to_side_plank"
 }

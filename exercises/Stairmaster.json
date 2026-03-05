@@ -1,8 +1,8 @@
 {
   "name": "Stairmaster",
-  "force": null,
+  "force": "push",
   "level": "intermediate",
-  "mechanic": null,
+  "mechanic": "compound",
   "equipment": "machine",
   "primaryMuscles": [
     "quadriceps"
@@ -22,5 +22,5 @@
     "Stairmaster/0.jpg",
     "Stairmaster/1.jpg"
   ],
-  "id": "Stairmaster"
+  "id": "stairmaster"
 }

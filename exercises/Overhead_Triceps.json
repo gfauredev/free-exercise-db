@@ -2,8 +2,7 @@
   "name": "Overhead Triceps",
   "force": "static",
   "level": "expert",
-  "mechanic": null,
-  "equipment": "body only",
+  "mechanic": "isolation",
   "primaryMuscles": [
     "triceps"
   ],
@@ -20,5 +19,5 @@
     "Overhead_Triceps/0.jpg",
     "Overhead_Triceps/1.jpg"
   ],
-  "id": "Overhead_Triceps"
+  "id": "overhead_triceps"
 }

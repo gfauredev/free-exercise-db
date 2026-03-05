@@ -3,7 +3,6 @@
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "lats"
   ],
@@ -23,5 +22,5 @@
     "Pullups/0.jpg",
     "Pullups/1.jpg"
   ],
-  "id": "Pullups"
+  "id": "pullups"
 }

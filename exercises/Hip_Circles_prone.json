@@ -3,7 +3,6 @@
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
-  "equipment": "body only",
   "primaryMuscles": [
     "abductors"
   ],
@@ -20,5 +19,5 @@
     "Hip_Circles_prone/0.jpg",
     "Hip_Circles_prone/1.jpg"
   ],
-  "id": "Hip_Circles_prone"
+  "id": "hip_circles_prone"
 }

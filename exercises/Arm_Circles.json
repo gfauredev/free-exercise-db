@@ -3,7 +3,6 @@
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
-  "equipment": null,
   "primaryMuscles": [
     "shoulders"
   ],
@@ -20,5 +19,5 @@
     "Arm_Circles/0.jpg",
     "Arm_Circles/1.jpg"
   ],
-  "id": "Arm_Circles"
+  "id": "arm_circles"
 }

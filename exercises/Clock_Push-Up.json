@@ -3,7 +3,6 @@
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "chest"
   ],
@@ -24,5 +23,5 @@
     "Clock_Push-Up/0.jpg",
     "Clock_Push-Up/1.jpg"
   ],
-  "id": "Clock_Push-Up"
+  "id": "clock_push-up"
 }

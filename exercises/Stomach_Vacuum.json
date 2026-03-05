@@ -3,13 +3,10 @@
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
-  "equipment": "body only",
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To begin, stand straight with your feet shoulder width apart from each other. Place your hands on your hips. This is the starting position.",
     "Now slowly inhale as much air as possible and then start to exhale as much as possible while bringing your stomach in as much as possible and hold this position. Try to visualize your navel touching your backbone.",
@@ -22,5 +19,5 @@
     "Stomach_Vacuum/0.jpg",
     "Stomach_Vacuum/1.jpg"
   ],
-  "id": "Stomach_Vacuum"
+  "id": "stomach_vacuum"
 }

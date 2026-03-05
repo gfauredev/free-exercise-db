@@ -1,8 +1,8 @@
 {
-  "name": "Walking, Treadmill",
-  "force": null,
+  "name": "Treadmill Walking",
+  "force": "push",
   "level": "beginner",
-  "mechanic": null,
+  "mechanic": "compound",
   "equipment": "machine",
   "primaryMuscles": [
     "quadriceps"
@@ -21,5 +21,5 @@
     "Walking_Treadmill/0.jpg",
     "Walking_Treadmill/1.jpg"
   ],
-  "id": "Walking_Treadmill"
+  "id": "walking_treadmill"
 }

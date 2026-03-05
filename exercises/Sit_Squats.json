@@ -2,8 +2,7 @@
   "name": "Sit Squats",
   "force": "push",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "compound",
   "primaryMuscles": [
     "quadriceps"
   ],
@@ -22,5 +21,5 @@
     "Sit_Squats/0.jpg",
     "Sit_Squats/1.jpg"
   ],
-  "id": "Sit_Squats"
+  "id": "sit_squats"
 }

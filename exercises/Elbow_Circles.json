@@ -3,7 +3,6 @@
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
-  "equipment": null,
   "primaryMuscles": [
     "shoulders"
   ],
@@ -20,5 +19,5 @@
     "Elbow_Circles/0.jpg",
     "Elbow_Circles/1.jpg"
   ],
-  "id": "Elbow_Circles"
+  "id": "elbow_circles"
 }

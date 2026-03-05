@@ -3,7 +3,6 @@
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
-  "equipment": null,
   "primaryMuscles": [
     "triceps"
   ],
@@ -18,5 +17,5 @@
     "Triceps_Stretch/0.jpg",
     "Triceps_Stretch/1.jpg"
   ],
-  "id": "Triceps_Stretch"
+  "id": "triceps_stretch"
 }

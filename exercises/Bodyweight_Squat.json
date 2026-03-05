@@ -3,7 +3,6 @@
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "quadriceps"
   ],
@@ -21,5 +20,5 @@
     "Bodyweight_Squat/0.jpg",
     "Bodyweight_Squat/1.jpg"
   ],
-  "id": "Bodyweight_Squat"
+  "id": "bodyweight_squat"
 }

@@ -2,8 +2,7 @@
   "name": "Seated Calf Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "calves"
   ],
@@ -22,5 +21,5 @@
     "Seated_Calf_Stretch/0.jpg",
     "Seated_Calf_Stretch/1.jpg"
   ],
-  "id": "Seated_Calf_Stretch"
+  "id": "seated_calf_stretch"
 }

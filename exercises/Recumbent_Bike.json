@@ -1,8 +1,8 @@
 {
   "name": "Recumbent Bike",
-  "force": null,
+  "force": "push",
   "level": "beginner",
-  "mechanic": null,
+  "mechanic": "compound",
   "equipment": "machine",
   "primaryMuscles": [
     "quadriceps"
@@ -22,5 +22,5 @@
     "Recumbent_Bike/0.jpg",
     "Recumbent_Bike/1.jpg"
   ],
-  "id": "Recumbent_Bike"
+  "id": "recumbent_bike"
 }

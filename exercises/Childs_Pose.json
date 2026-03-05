@@ -2,8 +2,7 @@
   "name": "Child's Pose",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "lower back"
   ],
@@ -21,5 +20,5 @@
     "Childs_Pose/0.jpg",
     "Childs_Pose/1.jpg"
   ],
-  "id": "Childs_Pose"
+  "id": "childs_pose"
 }

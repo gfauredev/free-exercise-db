@@ -2,8 +2,7 @@
   "name": "One Half Locust",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "quadriceps"
   ],
@@ -23,5 +22,5 @@
     "One_Half_Locust/0.jpg",
     "One_Half_Locust/1.jpg"
   ],
-  "id": "One_Half_Locust"
+  "id": "one_half_locust"
 }

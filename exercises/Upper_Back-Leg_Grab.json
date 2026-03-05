@@ -2,8 +2,7 @@
   "name": "Upper Back-Leg Grab",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "hamstrings"
   ],
@@ -20,5 +19,5 @@
     "Upper_Back-Leg_Grab/0.jpg",
     "Upper_Back-Leg_Grab/1.jpg"
   ],
-  "id": "Upper_Back-Leg_Grab"
+  "id": "upper_back-leg_grab"
 }

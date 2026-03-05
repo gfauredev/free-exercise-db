@@ -1,8 +1,8 @@
 {
   "name": "Skating",
-  "force": null,
+  "force": "push",
   "level": "intermediate",
-  "mechanic": null,
+  "mechanic": "compound",
   "equipment": "other",
   "primaryMuscles": [
     "quadriceps"
@@ -23,5 +23,5 @@
     "Skating/0.jpg",
     "Skating/1.jpg"
   ],
-  "id": "Skating"
+  "id": "skating"
 }

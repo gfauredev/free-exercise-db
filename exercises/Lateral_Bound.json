@@ -3,7 +3,6 @@
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "adductors"
   ],
@@ -26,5 +25,5 @@
     "Lateral_Bound/0.jpg",
     "Lateral_Bound/1.jpg"
   ],
-  "id": "Lateral_Bound"
+  "id": "lateral_bound"
 }

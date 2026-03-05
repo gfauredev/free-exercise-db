@@ -2,7 +2,7 @@
   "name": "Pyramid",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
+  "mechanic": "isolation",
   "equipment": "exercise ball",
   "primaryMuscles": [
     "lower back"
@@ -19,5 +19,5 @@
     "Pyramid/0.jpg",
     "Pyramid/1.jpg"
   ],
-  "id": "Pyramid"
+  "id": "pyramid"
 }

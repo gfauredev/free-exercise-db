@@ -2,8 +2,7 @@
   "name": "All Fours Quad Stretch",
   "force": "static",
   "level": "intermediate",
-  "mechanic": null,
-  "equipment": "body only",
+  "mechanic": "isolation",
   "primaryMuscles": [
     "quadriceps"
   ],
@@ -20,5 +19,5 @@
     "All_Fours_Quad_Stretch/0.jpg",
     "All_Fours_Quad_Stretch/1.jpg"
   ],
-  "id": "All_Fours_Quad_Stretch"
+  "id": "all_fours_quad_stretch"
 }

@@ -3,7 +3,6 @@
   "force": "static",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": null,
   "primaryMuscles": [
     "abdominals"
   ],
@@ -22,5 +21,5 @@
     "Overhead_Stretch/0.jpg",
     "Overhead_Stretch/1.jpg"
   ],
-  "id": "Overhead_Stretch"
+  "id": "overhead_stretch"
 }

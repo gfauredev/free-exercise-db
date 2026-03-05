@@ -2,7 +2,7 @@
   "name": "Rhomboids-SMR",
   "force": "static",
   "level": "intermediate",
-  "mechanic": null,
+  "mechanic": "isolation",
   "equipment": "foam roll",
   "primaryMuscles": [
     "middle back"
@@ -19,5 +19,5 @@
     "Rhomboids-SMR/0.jpg",
     "Rhomboids-SMR/1.jpg"
   ],
-  "id": "Rhomboids-SMR"
+  "id": "rhomboids-smr"
 }

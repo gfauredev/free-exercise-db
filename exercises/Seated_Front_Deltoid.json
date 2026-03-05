@@ -2,8 +2,7 @@
   "name": "Seated Front Deltoid",
   "force": "static",
   "level": "expert",
-  "mechanic": null,
-  "equipment": "body only",
+  "mechanic": "isolation",
   "primaryMuscles": [
     "shoulders"
   ],
@@ -20,5 +19,5 @@
     "Seated_Front_Deltoid/0.jpg",
     "Seated_Front_Deltoid/1.jpg"
   ],
-  "id": "Seated_Front_Deltoid"
+  "id": "seated_front_deltoid"
 }

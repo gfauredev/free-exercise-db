@@ -2,8 +2,7 @@
   "name": "Upper Back Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "isolation",
   "primaryMuscles": [
     "middle back"
   ],
@@ -18,5 +17,5 @@
     "Upper_Back_Stretch/0.jpg",
     "Upper_Back_Stretch/1.jpg"
   ],
-  "id": "Upper_Back_Stretch"
+  "id": "upper_back_stretch"
 }

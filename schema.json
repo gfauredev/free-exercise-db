@@ -4,15 +4,14 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^[0-9a-zA-Z_-]+$"
+      "pattern": "^[0-9a-z_-]+$"
     },
     "name": {
       "type": "string"
     },
     "force": {
-      "type": [ "string", "null" ],
+      "type": "string",
       "enum": [
-        null,
         "static",
         "pull",
         "push"
@@ -27,20 +26,17 @@
       ]
     },
     "mechanic": {
-      "type": [ "string", "null" ],
+      "type": "string",
       "enum": [
         "isolation",
-        "compound",
-        null
+        "compound"
       ]
     },
     "equipment": {
-      "type": [ "string", "null" ],
+      "type": "string",
       "enum": [
-        null,
         "medicine ball",
         "dumbbell",
-        "body only",
         "bands",
         "kettlebells",
         "foam roll",
@@ -138,9 +134,9 @@
   "required": [
     "id",
     "name",
+    "force",
     "level",
     "mechanic",
-    "equipment",
     "primaryMuscles",
     "secondaryMuscles",
     "instructions",

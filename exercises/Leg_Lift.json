@@ -3,7 +3,6 @@
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
-  "equipment": "body only",
   "primaryMuscles": [
     "glutes"
   ],
@@ -22,5 +21,5 @@
     "Leg_Lift/0.jpg",
     "Leg_Lift/1.jpg"
   ],
-  "id": "Leg_Lift"
+  "id": "leg_lift"
 }

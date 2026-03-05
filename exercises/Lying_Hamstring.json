@@ -2,7 +2,7 @@
   "name": "Lying Hamstring",
   "force": "static",
   "level": "expert",
-  "mechanic": null,
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "hamstrings"
@@ -20,5 +20,5 @@
     "Lying_Hamstring/0.jpg",
     "Lying_Hamstring/1.jpg"
   ],
-  "id": "Lying_Hamstring"
+  "id": "lying_hamstring"
 }

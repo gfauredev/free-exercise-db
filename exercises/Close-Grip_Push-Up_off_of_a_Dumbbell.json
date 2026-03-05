@@ -3,7 +3,6 @@
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "triceps"
   ],
@@ -23,5 +22,5 @@
     "Close-Grip_Push-Up_off_of_a_Dumbbell/0.jpg",
     "Close-Grip_Push-Up_off_of_a_Dumbbell/1.jpg"
   ],
-  "id": "Close-Grip_Push-Up_off_of_a_Dumbbell"
+  "id": "close-grip_push-up_off_of_a_dumbbell"
 }

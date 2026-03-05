@@ -3,7 +3,6 @@
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": null,
   "primaryMuscles": [
     "quadriceps"
   ],
@@ -23,5 +22,5 @@
     "Bodyweight_Walking_Lunge/0.jpg",
     "Bodyweight_Walking_Lunge/1.jpg"
   ],
-  "id": "Bodyweight_Walking_Lunge"
+  "id": "bodyweight_walking_lunge"
 }

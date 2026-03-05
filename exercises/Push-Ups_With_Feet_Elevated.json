@@ -3,7 +3,6 @@
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "chest"
   ],
@@ -23,5 +22,5 @@
     "Push-Ups_With_Feet_Elevated/0.jpg",
     "Push-Ups_With_Feet_Elevated/1.jpg"
   ],
-  "id": "Push-Ups_With_Feet_Elevated"
+  "id": "push-ups_with_feet_elevated"
 }

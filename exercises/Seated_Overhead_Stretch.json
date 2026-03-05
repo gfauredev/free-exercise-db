@@ -3,13 +3,10 @@
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
-  "equipment": null,
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit up straight on an exercise mat.",
     "Touch the soles of your feet together with your feet six to eight inches in front of your hips.",
@@ -21,5 +18,5 @@
     "Seated_Overhead_Stretch/0.jpg",
     "Seated_Overhead_Stretch/1.jpg"
   ],
-  "id": "Seated_Overhead_Stretch"
+  "id": "seated_overhead_stretch"
 }

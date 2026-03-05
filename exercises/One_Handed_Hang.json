@@ -2,7 +2,7 @@
   "name": "One Handed Hang",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "lats"
@@ -18,5 +18,5 @@
     "One_Handed_Hang/0.jpg",
     "One_Handed_Hang/1.jpg"
   ],
-  "id": "One_Handed_Hang"
+  "id": "one_handed_hang"
 }

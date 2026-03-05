@@ -1,8 +1,8 @@
 {
   "name": "Step Mill",
-  "force": null,
+  "force": "push",
   "level": "intermediate",
-  "mechanic": null,
+  "mechanic": "compound",
   "equipment": "machine",
   "primaryMuscles": [
     "quadriceps"
@@ -21,5 +21,5 @@
     "Step_Mill/0.jpg",
     "Step_Mill/1.jpg"
   ],
-  "id": "Step_Mill"
+  "id": "step_mill"
 }

@@ -2,8 +2,7 @@
   "name": "Kneeling Arm Drill",
   "force": "pull",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "compound",
   "primaryMuscles": [
     "shoulders"
   ],
@@ -21,5 +20,5 @@
     "Kneeling_Arm_Drill/0.jpg",
     "Kneeling_Arm_Drill/1.jpg"
   ],
-  "id": "Kneeling_Arm_Drill"
+  "id": "kneeling_arm_drill"
 }

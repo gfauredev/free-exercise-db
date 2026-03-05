@@ -3,7 +3,6 @@
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
-  "equipment": "body only",
   "primaryMuscles": [
     "abdominals"
   ],
@@ -22,5 +21,5 @@
     "Spider_Crawl/0.jpg",
     "Spider_Crawl/1.jpg"
   ],
-  "id": "Spider_Crawl"
+  "id": "spider_crawl"
 }

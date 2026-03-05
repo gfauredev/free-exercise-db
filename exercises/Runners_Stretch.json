@@ -2,8 +2,7 @@
   "name": "Runner's Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanic": null,
-  "equipment": null,
+  "mechanic": "compound",
   "primaryMuscles": [
     "hamstrings"
   ],
@@ -20,5 +19,5 @@
     "Runners_Stretch/0.jpg",
     "Runners_Stretch/1.jpg"
   ],
-  "id": "Runners_Stretch"
+  "id": "runners_stretch"
 }

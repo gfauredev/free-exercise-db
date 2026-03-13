@@ -1,5 +1,5 @@
 {
-  "name": "Dip Triceps Version",
+  "name": "Triceps Dip",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,8 +18,8 @@
   ],
   "category": "strength",
   "images": [
-    "dip_triceps_version/0.jpg",
-    "dip_triceps_version/1.jpg"
+    "triceps_dip/0.jpg",
+    "triceps_dip/1.jpg"
   ],
-  "id": "dip_triceps_version"
+  "id": "triceps_dip"
 }

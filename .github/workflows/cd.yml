@@ -1,0 +1,69 @@
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v6
+    - uses: cachix/install-nix-action@v31
+      with:
+        github_access_token: ${{ secrets.GITHUB_TOKEN }}
+        extra_nix_config: |
+          extra-substituters = https://cache.garnix.io
+          extra-trusted-public-keys = cache.garnix.io:CTFPyKSLcx5RMJKfLo5EEPUObbA78b0YQ2DTCJXqr9g=
+    - uses: DeterminateSystems/magic-nix-cache-action@v13
+    - run: |
+        nix develop -c just build
+        nix develop -c just build-fr
+    - run: |
+        if [[ $GITHUB_REF == refs/tags/v* ]]; then
+          echo "tag_name=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+          echo "prerelease=false" >> $GITHUB_OUTPUT
+          echo "title=Release ${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+        else
+          TAG="pre-$(date +'%Y%m%d%H%M%S')"
+          echo "tag_name=$TAG" >> $GITHUB_OUTPUT
+          echo "prerelease=true" >> $GITHUB_OUTPUT
+          echo "title=Pre-release $TAG" >> $GITHUB_OUTPUT
+        fi
+      id: prep
+    - uses: softprops/action-gh-release@v2
+      with:
+        tag_name: ${{ steps.prep.outputs.tag_name }}
+        name: ${{ steps.prep.outputs.title }}
+        prerelease: ${{ steps.prep.outputs.prerelease }}
+        files: |
+          exercises.json
+          exercises.*.json
+          i18n.json
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - if: github.ref == 'refs/heads/main'
+      run: | # Cleanup old releases
+        # Get all releases
+        RELEASES=$(gh release list --limit 100 --json tagName,createdAt,isPrerelease)
+        NOW=$(date +%s)
+        TWELVE_HOURS_AGO=$((NOW - 12 * 3600))
+        ONE_WEEK_AGO=$((NOW - 7 * 24 * 3600))
+        echo "$RELEASES" | jq -c '.[] | select(.isPrerelease == true)' | while read -r row; do
+          TAG=$(echo "$row" | jq -r '.tagName')
+          CREATED_AT=$(echo "$row" | jq -r '.createdAt')
+          TS=$(date -d "$CREATED_AT" +%s)
+          # Deleting releases younger than twelve hours OR older than a week
+          if [ "$TS" -gt "$TWELVE_HOURS_AGO" ] || [ "$TS" -lt "$ONE_WEEK_AGO" ]; then
+            # Don't delete the one we just created
+            if [ "$TAG" != "${{ steps.prep.outputs.tag_name }}" ]; then
+              echo "Deleting pre-release $TAG (Created: $CREATED_AT)"
+              gh release delete "$TAG" --yes --cleanup-tag
+            fi
+          fi
+        done
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

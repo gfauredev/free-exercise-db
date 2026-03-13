@@ -1,0 +1,20 @@
+{
+  "name": "Front Leg Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand next to a chair or other support, holding on with one hand.",
+    "Swing your leg forward, keeping the leg straight. Continue with a downward swing, bringing the leg as far back as your flexibility allows. Repeat 5-10 times, and then switch legs."
+  ],
+  "category": "stretching",
+  "images": [
+    "front_leg_raise/0.jpg",
+    "front_leg_raise/1.jpg"
+  ],
+  "id": "front_leg_raise"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Hip Circle (prone)",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "adductors"
+  ],
+  "instructions": [
+    "Position yourself on your hands and knees on the ground. Maintaining good posture, raise one bent knee off of the ground. This will be your starting position.",
+    "Keeping the knee in a bent position, rotate the femur in an arc, attempting to make a big circle with your knee.",
+    "Perform this slowly for a number of repetitions, and repeat on the other side."
+  ],
+  "category": "stretching",
+  "images": [
+    "hip_circle_prone/0.jpg",
+    "hip_circle_prone/1.jpg"
+  ],
+  "id": "hip_circle_prone"
+}

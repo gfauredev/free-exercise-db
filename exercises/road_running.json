@@ -1,0 +1,27 @@
+{
+  "name": "Road Running",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Begin with a light warm-up walk of 5 minutes to prepare your muscles and joints. Wear appropriate running shoes with good cushioning and support.",
+    "Start at a comfortable jogging pace on a flat or gently varied road surface. Keep your torso upright with a slight forward lean, and swing your arms naturally at your sides with elbows bent at roughly 90 degrees.",
+    "Land with a midfoot strike beneath your hips rather than reaching out with a heel strike, and push off through the ball of your foot to propel yourself forward.",
+    "Breathe rhythmically, inhaling through the nose and exhaling through the mouth. Aim to maintain a conversational pace where you can speak in short sentences.",
+    "Cool down with a 5-minute walk and stretch your calves, hamstrings, quadriceps, and hip flexors after completing your run."
+  ],
+  "category": "cardio",
+  "images": [
+    "road_running/0.jpg",
+    "road_running/1.jpg"
+  ],
+  "id": "road_running"
+}

@@ -11,6 +11,8 @@ exercises.nd.json: $(sources) # output to new line delimited JSON
 exercises.csv: exercises.json # output to csv format
 	in2csv ./exercises.json > $@
 exercises.fr.json: exercises.json $(translations_fr) # merge French translations into exercises
+	# Build a lookup table keyed by exercise id from all fr translation files,
+	# then merge matching name+instructions under .i18n.fr for each exercise.
 	jq -s '(.[1:] | map({(.id): .}) | add // {}) as $$tr | \
 	  .[0] | map(if $$tr[.id] then . + {i18n: {fr: ($$tr[.id] | {name, instructions})}} else . end)' \
 	  exercises.json $(translations_fr) > $@
@@ -29,6 +31,9 @@ rename-exercise: # usage: make rename-exercise OLD=<old_id> NEW=<new_id>
 	rm exercises/$(OLD).json
 	@[ ! -d exercises/$(OLD) ] || mv exercises/$(OLD) exercises/$(NEW)
 	@for lang_dir in translations/*/; do \
-	  [ -f "$${lang_dir}$(OLD).json" ] && mv "$${lang_dir}$(OLD).json" "$${lang_dir}$(NEW).json" || true; \
+	  if [ -f "$${lang_dir}$(OLD).json" ]; then \
+	    mv "$${lang_dir}$(OLD).json" "$${lang_dir}$(NEW).json"; \
+	    echo "Renamed translation $${lang_dir}$(OLD).json -> $${lang_dir}$(NEW).json"; \
+	  fi; \
 	done
 	@echo "Renamed exercise $(OLD) -> $(NEW)"

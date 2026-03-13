@@ -22,51 +22,28 @@ def get_all_exercises():
 def merge_translations(exercises, lang):
     lang_dir = TRANSLATIONS_DIR / lang
     if not lang_dir.exists():
-        return exercises
-
-    # Load i18n lookup if available
-    i18n = {}
-    if I18N_FILE.exists():
-        with open(I18N_FILE, "r") as f:
-            full_i18n = json.load(f)
-            i18n = full_i18n.get(lang, {})
+        return []
 
     translated_exercises = []
     for ex in exercises:
-        new_ex = ex.copy()
-
-        # 1. Apply file-based translations (name, instructions)
+        # 1. Check if the exercise has a full translation file (name AND instructions)
         trans_file = lang_dir / f"{ex['id']}.json"
-        if trans_file.exists():
-            with open(trans_file, "r") as f:
-                trans_data = json.load(f)
-                new_ex.update(
-                    {
-                        "name": trans_data.get("name", ex["name"]),
-                        "instructions": trans_data.get(
-                            "instructions", ex["instructions"]
-                        ),
-                    }
-                )
+        if not trans_file.exists():
+            continue
 
-        # 2. Apply key-based translations (force, level, category, etc.)
-        for field in ["force", "level", "mechanic", "equipment", "category"]:
-            val = ex.get(field)
-            if val and field in i18n and val in i18n[field]:
-                new_ex[field] = i18n[field][val]
+        with open(trans_file, "r") as f:
+            trans_data = json.load(f)
 
-        # 3. Apply muscle translations
-        if "muscles" in i18n:
-            if "primaryMuscles" in ex:
-                new_ex["primaryMuscles"] = [
-                    i18n["muscles"].get(m, m) for m in ex["primaryMuscles"]
-                ]
-            if "secondaryMuscles" in ex:
-                new_ex["secondaryMuscles"] = [
-                    i18n["muscles"].get(m, m) for m in ex["secondaryMuscles"]
-                ]
+        if "name" not in trans_data or "instructions" not in trans_data:
+            continue
 
-        translated_exercises.append(new_ex)
+        # 2. Return ONLY the requested fields
+        translated_exercises.append({
+            "id": ex["id"],
+            "name": trans_data["name"],
+            "instructions": trans_data["instructions"],
+        })
+
     return translated_exercises
 
 
@@ -154,7 +131,7 @@ def main():
         if args.format == "json":
             out = json.dumps(exercises, indent=2, ensure_ascii=False)
         else:
-            out = "".join([json.dumps(ex, ensure_ascii=False) for ex in exercises])
+            out = "\n".join([json.dumps(ex, ensure_ascii=False) for ex in exercises])
 
         if args.output:
             with open(args.output, "w") as f:

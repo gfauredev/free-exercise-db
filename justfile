@@ -22,7 +22,7 @@ build:
 build-ndjson:
 	./scripts/db_manager.py build --format ndjson --output exercises.nd.json
 
-# Build the French version of exercises.json
+# Build the French translations for exercises.json’s names and instructions
 build-fr:
 	./scripts/db_manager.py build --lang fr --output exercises.fr.json
 
@@ -30,8 +30,8 @@ build-fr:
 export-csv: build
 	in2csv exercises.json > exercises.csv
 
-# Rename an exercise (usage: just rename old_id new_id)
-rename old_id new_id:
+# Change an exercise ID (usage: just rename old_id new_id)
+reid old_id new_id:
 	./scripts/db_manager.py rename {{old_id}} {{new_id}}
 
 # Clean up build artifacts

@@ -166,10 +166,10 @@ npm run lint
 ### TODO
 
 - Add bodyweight only missing exercises, with images, all fields properly filled
-  - Australian / Horizontal Pull-Up
+  - Corret Australian Push-Up to Pull-Up
 - Harmonize exercise data
-  - Remove hyphens - from IDs and schema
-  - Ensure every exercise name and ID is singular
+  - ~~Remove hyphens - from IDs and schema~~
+  - ~~Ensure every exercise name and ID is singular~~
   - ~~Use consistent casing and word separating for names~~
   - ~~Make IDs lowercase ASCII letters only~~
   - ~~Fill currently null `force`, `mechanic` and `equipment` fields~~

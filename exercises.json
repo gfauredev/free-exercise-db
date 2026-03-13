@@ -518,7 +518,7 @@
     "id": "ankle_circle"
   },
   {
-    "name": "Ankle On The Knee",
+    "name": "Ankle on the Knee",
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
@@ -636,7 +636,7 @@
     "id": "arnold_dumbbell_press"
   },
   {
-    "name": "Around The World",
+    "name": "Around the World",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -781,7 +781,7 @@
     "id": "axle_deadlift"
   },
   {
-    "name": "Back Flye - With Bands",
+    "name": "Back Flye with Bands",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -1116,7 +1116,7 @@
     "id": "barbell_ab_rollout"
   },
   {
-    "name": "Barbell Ab Rollout - On Knees",
+    "name": "Barbell Ab Rollout on Knees",
     "force": "pull",
     "level": "expert",
     "mechanic": "compound",
@@ -1142,7 +1142,7 @@
     "id": "barbell_ab_rollout_on_knees"
   },
   {
-    "name": "Barbell Bench Press - Medium Grip",
+    "name": "Barbell Bench Press Medium Grip",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -1195,7 +1195,7 @@
     "id": "barbell_curl"
   },
   {
-    "name": "Barbell Curl Lying Against An Incline",
+    "name": "Barbell Curl Lying against an Incline",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -1385,7 +1385,7 @@
     "id": "barbell_hip_thrust"
   },
   {
-    "name": "Barbell Incline Bench Press - Medium Grip",
+    "name": "Barbell Incline Bench Press Medium Grip",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -1453,7 +1453,7 @@
     "instructions": [
       "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack just below shoulder level. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
       "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
-      "Step away from the rack and step forward with your right leg and squat down through your hips, while keeping the torso upright and maintaining balance. Inhale as you go down. Note: Do not allow your knee to go forward beyond your toes as you come down, as this will put undue stress on the knee joint. li>",
+      "Step away from the rack and step forward with your right leg and squat down through your hips, while keeping the torso upright and maintaining balance. Inhale as you go down. Note: Do not allow your knee to go forward beyond your toes as you come down, as this will put undue stress on the knee joint.",
       "Using mainly the heel of your foot, push up and go back to the starting position as you exhale.",
       "Repeat the movement for the recommended amount of repetitions and then perform with the left leg."
     ],
@@ -1572,7 +1572,7 @@
     "id": "barbell_shoulder_press"
   },
   {
-    "name": "Barbell Shrug Behind The Back",
+    "name": "Barbell Shrug behind the Back",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -1703,7 +1703,7 @@
     "id": "barbell_squat"
   },
   {
-    "name": "Barbell Squat To A Bench",
+    "name": "Barbell Squat to a Bench",
     "force": "push",
     "level": "expert",
     "mechanic": "compound",
@@ -1916,7 +1916,7 @@
     "id": "bench_jump"
   },
   {
-    "name": "Bench Press - Powerlifting",
+    "name": "Bench Press Powerlifting",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -1944,7 +1944,7 @@
     "id": "bench_press_powerlifting"
   },
   {
-    "name": "Bench Press - With Bands",
+    "name": "Bench Press with Bands",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -2134,7 +2134,7 @@
     "id": "bent_over_barbell_row"
   },
   {
-    "name": "Bent Over Dumbbell Rear Delt Raise With Head On Bench",
+    "name": "Bent Over Dumbbell Rear Delt Raise with Head on Bench",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -2271,7 +2271,7 @@
     "id": "bent_over_two_dumbbell_row"
   },
   {
-    "name": "Bent Over Two-Dumbbell Row With Palms In",
+    "name": "Bent Over Two-Dumbbell Row with Palms in",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -2554,7 +2554,7 @@
     "id": "bodyweight_walking_lunge"
   },
   {
-    "name": "Bosu Ball Cable Crunch With Side Bend",
+    "name": "Bosu Ball Cable Crunch with Side Bend",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -2583,7 +2583,7 @@
     "id": "bosu_ball_cable_crunch_with_side_bend"
   },
   {
-    "name": "Bottoms-Up Clean From The Hang Position",
+    "name": "Bottoms-Up Clean from the Hang Position",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -2999,7 +2999,7 @@
     "id": "cable_deadlift"
   },
   {
-    "name": "Cable Hammer Curl - Rope Attachment",
+    "name": "Cable Hammer Curl Rope Attachment",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -3546,7 +3546,7 @@
     "id": "calf_press"
   },
   {
-    "name": "Calf Press On The Leg Press Machine",
+    "name": "Calf Press on the Leg Press Machine",
     "force": "push",
     "level": "beginner",
     "mechanic": "isolation",
@@ -3570,7 +3570,7 @@
     "id": "calf_press_on_the_leg_press_machine"
   },
   {
-    "name": "Calf Raise On A Dumbbell",
+    "name": "Calf Raise on a Dumbbell",
     "force": "push",
     "level": "intermediate",
     "mechanic": "isolation",
@@ -3594,7 +3594,7 @@
     "id": "calf_raise_on_a_dumbbell"
   },
   {
-    "name": "Calf Raise - With Bands",
+    "name": "Calf Raise with Bands",
     "force": "push",
     "level": "beginner",
     "mechanic": "isolation",
@@ -3618,7 +3618,7 @@
     "id": "calf_raise_with_bands"
   },
   {
-    "name": "Calf Stretch Elbows Against Wall",
+    "name": "Calf Stretch Elbows against Wall",
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
@@ -3639,7 +3639,7 @@
     "id": "calf_stretch_elbows_against_wall"
   },
   {
-    "name": "Calf Stretch Hands Against Wall",
+    "name": "Calf Stretch Hands against Wall",
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
@@ -3961,7 +3961,7 @@
     "id": "chair_upper_body_stretch"
   },
   {
-    "name": "Chest And Front Of Shoulder Stretch",
+    "name": "Chest and Front of Shoulder Stretch",
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
@@ -4136,7 +4136,7 @@
     "id": "childs_pose"
   },
   {
-    "name": "Chin To Chest Stretch",
+    "name": "Chin to Chest Stretch",
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
@@ -4820,7 +4820,7 @@
     "id": "crossover_reverse_lunge"
   },
   {
-    "name": "Cross Over - With Bands",
+    "name": "Cross Over with Bands",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -4871,7 +4871,7 @@
     "id": "crucifix"
   },
   {
-    "name": "Crunch - Hands Overhead",
+    "name": "Crunch Hands Overhead",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -4918,7 +4918,7 @@
     "id": "crunch"
   },
   {
-    "name": "Crunch - Legs On Exercise Ball",
+    "name": "Crunch Legs on Exercise Ball",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -5106,7 +5106,7 @@
     "id": "decline_barbell_bench_press"
   },
   {
-    "name": "Decline Close-Grip Bench To Skull Crusher",
+    "name": "Decline Close-Grip Bench to Skull Crusher",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -5416,7 +5416,7 @@
     "id": "depth_jump_leap"
   },
   {
-    "name": "Dip - Chest Version",
+    "name": "Dip Chest Version",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -5469,7 +5469,7 @@
     "id": "dip_machine"
   },
   {
-    "name": "Dip - Triceps Version",
+    "name": "Dip Triceps Version",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -6460,7 +6460,7 @@
     "id": "dumbbell_squat"
   },
   {
-    "name": "Dumbbell Squat To A Bench",
+    "name": "Dumbbell Squat to a Bench",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -7402,7 +7402,7 @@
     "id": "front_barbell_squat"
   },
   {
-    "name": "Front Barbell Squat To A Bench",
+    "name": "Front Barbell Squat to a Bench",
     "force": "push",
     "level": "expert",
     "mechanic": "compound",
@@ -7604,7 +7604,7 @@
     "id": "front_plate_raise"
   },
   {
-    "name": "Front Raise And Pullover",
+    "name": "Front Raise and Pullover",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -7659,7 +7659,7 @@
     "id": "front_squat_clean_grip"
   },
   {
-    "name": "Front Squat With Two Kettlebells",
+    "name": "Front Squat with Two Kettlebells",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -8106,7 +8106,7 @@
     "id": "handstand_push_up"
   },
   {
-    "name": "Hang Clean - Below the Knees",
+    "name": "Hang Clean Below the Knees",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -8239,7 +8239,7 @@
     "id": "hanging_pike"
   },
   {
-    "name": "Hang Snatch - Below Knees",
+    "name": "Hang Snatch Below Knees",
     "force": "pull",
     "level": "expert",
     "mechanic": "compound",
@@ -8478,7 +8478,7 @@
     "id": "hip_lift_with_band"
   },
   {
-    "name": "Hug A Ball",
+    "name": "Hug a Ball",
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
@@ -8503,7 +8503,7 @@
     "id": "hug_a_ball"
   },
   {
-    "name": "Hug Knees To Chest",
+    "name": "Hug Knees to Chest",
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
@@ -8582,7 +8582,7 @@
     "id": "hyperextensions_back_extension"
   },
   {
-    "name": "Hyperextensions With No Hyperextension Bench",
+    "name": "Hyperextensions with No Hyperextension Bench",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -8761,7 +8761,7 @@
     "id": "incline_cable_flye"
   },
   {
-    "name": "Incline Dumbbell Bench With Palms Facing In",
+    "name": "Incline Dumbbell Bench with Palms Facing in",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -8840,7 +8840,7 @@
     "id": "incline_dumbbell_flye"
   },
   {
-    "name": "Incline Dumbbell Flye - With A Twist",
+    "name": "Incline Dumbbell Flye with a Twist",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -9294,7 +9294,7 @@
     "id": "isometric_chest_squeeze"
   },
   {
-    "name": "Isometric Neck Exercise - Front And Back",
+    "name": "Isometric Neck Exercise Front and Back",
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
@@ -9317,7 +9317,7 @@
     "id": "isometric_neck_exercise_front_and_back"
   },
   {
-    "name": "Isometric Neck Exercise - Side",
+    "name": "Isometric Neck Exercise Side",
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
@@ -9728,7 +9728,7 @@
     "id": "kettlebell_one_legged_deadlift"
   },
   {
-    "name": "Kettlebell Pass Between The Legs",
+    "name": "Kettlebell Pass Between the Legs",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -10021,7 +10021,7 @@
     "id": "kipping_muscle_up"
   },
   {
-    "name": "Knee Across The Body",
+    "name": "Knee Across the Body",
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
@@ -10116,7 +10116,7 @@
     "id": "kneeling_arm_drill"
   },
   {
-    "name": "Kneeling Cable Crunch With Alternating Oblique Twist",
+    "name": "Kneeling Cable Crunch with Alternating Oblique Twist",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -10488,7 +10488,7 @@
     "id": "lateral_cone_hop"
   },
   {
-    "name": "Lateral Raise - With Bands",
+    "name": "Lateral Raise with Bands",
     "force": "push",
     "level": "beginner",
     "mechanic": "isolation",
@@ -11013,7 +11013,7 @@
     "id": "london_bridge"
   },
   {
-    "name": "Looking At Ceiling",
+    "name": "Looking at Ceiling",
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
@@ -11124,7 +11124,7 @@
     "id": "lower_back_smr"
   },
   {
-    "name": "Low Pulley Row To Neck",
+    "name": "Low Pulley Row to Neck",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -11281,7 +11281,7 @@
     "id": "lying_cambered_barbell_row"
   },
   {
-    "name": "Lying Close-Grip Barbell Triceps Extension Behind The Head",
+    "name": "Lying Close-Grip Barbell Triceps Extension behind the Head",
     "force": "push",
     "level": "intermediate",
     "mechanic": "isolation",
@@ -11305,7 +11305,7 @@
     "id": "lying_close_grip_barbell_triceps_extension_behind_the_head"
   },
   {
-    "name": "Lying Close-Grip Barbell Triceps Press To Chin",
+    "name": "Lying Close-Grip Barbell Triceps Press to Chin",
     "force": "push",
     "level": "intermediate",
     "mechanic": "isolation",
@@ -11329,7 +11329,7 @@
     "id": "lying_close_grip_barbell_triceps_press_to_chin"
   },
   {
-    "name": "Lying Close-Grip Bar Curl On High Pulley",
+    "name": "Lying Close-Grip Bar Curl on High Pulley",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -12335,7 +12335,7 @@
     "id": "oblique_crunch"
   },
   {
-    "name": "Oblique Crunch - On The Floor",
+    "name": "Oblique Crunch on the Floor",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -12384,7 +12384,7 @@
     "id": "olympic_squat"
   },
   {
-    "name": "One Arm Against Wall",
+    "name": "One Arm against Wall",
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
@@ -12420,7 +12420,7 @@
     "instructions": [
       "For this exercise, start out by placing a towel around a chin up bar.",
       "Grab the chin-up bar with your palm facing you. One hand will be grabbing the chin-up bar and the other will be grabbing the towel.",
-      "Bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.v",
+      "Bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
       "Pull your torso up until the bar touches your upper chest by drawing the shoulders and the upper arms down and back. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar.",
       "After a second on the contracted position, start to inhale and slowly lower your torso back to the starting position when your arms are fully extended and the lats are fully stretched.",
       "Repeat this motion for the prescribed amount of repetitions.",
@@ -12726,7 +12726,7 @@
     "id": "one_arm_kettlebell_jerk"
   },
   {
-    "name": "One-Arm Kettlebell Military Press To The Side",
+    "name": "One-Arm Kettlebell Military Press to the Side",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -13228,7 +13228,7 @@
     "id": "one_handed_hang"
   },
   {
-    "name": "One Knee To Chest",
+    "name": "One Knee to Chest",
     "force": "static",
     "level": "beginner",
     "mechanic": "compound",
@@ -13589,7 +13589,7 @@
     "id": "pallof_press"
   },
   {
-    "name": "Pallof Press With Rotation",
+    "name": "Pallof Press with Rotation",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -13621,7 +13621,7 @@
     "id": "pallof_press_with_rotation"
   },
   {
-    "name": "Palms-Down Dumbbell Wrist Curl Over A Bench",
+    "name": "Palms-Down Dumbbell Wrist Curl Over a Bench",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -13647,7 +13647,7 @@
     "id": "palms_down_dumbbell_wrist_curl_over_a_bench"
   },
   {
-    "name": "Palms-Down Wrist Curl Over A Bench",
+    "name": "Palms-Down Wrist Curl Over a Bench",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -13673,7 +13673,7 @@
     "id": "palms_down_wrist_curl_over_a_bench"
   },
   {
-    "name": "Palms-Up Barbell Wrist Curl Over A Bench",
+    "name": "Palms-Up Barbell Wrist Curl Over a Bench",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -13699,7 +13699,7 @@
     "id": "palms_up_barbell_wrist_curl_over_a_bench"
   },
   {
-    "name": "Palms-Up Dumbbell Wrist Curl Over A Bench",
+    "name": "Palms-Up Dumbbell Wrist Curl Over a Bench",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -13948,7 +13948,7 @@
     ],
     "secondaryMuscles": [],
     "instructions": [
-      "Grab two wide-rimmed plates and put them together with the smooth sides facing outward",
+      "Grab two wide-rimmed plates and put them together with the smooth sides facing outward.",
       "Use your fingers to grip the outside part of the plate and your thumb for the other side thus holding both plates together. This is the starting position.",
       "Squeeze the plate with your fingers and thumb. Hold this position for as long as you can.",
       "Repeat for the recommended amount of sets prescribed in your program.",
@@ -14518,7 +14518,7 @@
     "id": "pullup"
   },
   {
-    "name": "Push Press - Behind the Neck",
+    "name": "Push Press behind the Neck",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -14597,7 +14597,7 @@
     "id": "pushup_close_and_wide_hand_positions"
   },
   {
-    "name": "Push-Up - Close Triceps Position",
+    "name": "Push-Up Close Triceps Position",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -14700,7 +14700,7 @@
     "id": "push_up_wide"
   },
   {
-    "name": "Push-Up With Feet Elevated",
+    "name": "Push-Up with Feet Elevated",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -14726,7 +14726,7 @@
     "id": "push_up_with_feet_elevated"
   },
   {
-    "name": "Push-Up With Feet On An Exercise Ball",
+    "name": "Push-Up with Feet on an Exercise Ball",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -15274,7 +15274,7 @@
     "id": "reverse_flye"
   },
   {
-    "name": "Reverse Flye With External Rotation",
+    "name": "Reverse Flye with External Rotation",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "isolation",
@@ -15417,7 +15417,7 @@
       "Start by standing straight with a weighted plate held by both hands and arms fully extended. Use a pronated grip (palms facing down) and make sure your fingers grab the rough side of the plate while your thumb grabs the smooth side. Note: For the best results, grab the weighted plate at an 11:00 and 1:00 o'clock position.",
       "Your feet should be shoulder width apart from each other and the weighted plate should be near the groin area. This is the starting position.",
       "Slowly lift the plate up while keeping the elbows in and the upper arms stationary until your biceps and forearms touch while exhaling. The plate should be evenly aligned with your torso at this point.",
-      "Feel the contraction for a second and begin to lower the weight back down to the starting position while inhaling",
+      "Feel the contraction for a second and begin to lower the weight back down to the starting position while inhaling.",
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
@@ -15823,7 +15823,7 @@
     "id": "rope_straight_arm_pulldown"
   },
   {
-    "name": "Round The World Shoulder Stretch",
+    "name": "Round the World Shoulder Stretch",
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
@@ -17015,7 +17015,7 @@
     "id": "shoulder_circle"
   },
   {
-    "name": "Shoulder Press - With Bands",
+    "name": "Shoulder Press with Bands",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -17340,7 +17340,7 @@
     "id": "side_to_side_box_shuffle"
   },
   {
-    "name": "Side To Side Chin",
+    "name": "Side to Side Chin",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -17583,7 +17583,7 @@
     ],
     "instructions": [
       "Position a box in a rack. Secure a band or rope in place above the box.",
-      "Standing in front of it, step onto the box to a full standing position, letting your other leg remain unsupported. Hold onto the band for balance",
+      "Standing in front of it, step onto the box to a full standing position, letting your other leg remain unsupported. Hold onto the band for balance.",
       ". Continue stepping up and down on the same leg before switching to the opposite side."
     ],
     "category": "strength",
@@ -17800,7 +17800,7 @@
     "id": "skating"
   },
   {
-    "name": "Sled Drag - Harness",
+    "name": "Sled Drag Harness",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -18006,7 +18006,7 @@
     "id": "smith_incline_shoulder_raise"
   },
   {
-    "name": "Smith Machine Behind the Back Shrug",
+    "name": "Smith Machine behind the Back Shrug",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -18341,7 +18341,7 @@
     ],
     "instructions": [
       "To begin, first set the bar to a position that best matches your height. Step under it and position the bar across the back of your shoulders.",
-      "Take the bar with your hands facing forward, unlock it and lift it off the rack by extending your legs. 3",
+      "Take the bar with your hands facing forward, unlock it and lift it off the rack by extending your legs.",
       "Move one foot forward about 30 cm in front of the bar. Extend the other leg out in front of you, holding it off the ground. Look forward at all times and maintain a neutral or slightly arched spine. This will be your starting position.",
       "Maintaining good posture, lower yourself by flexing the knee and hip, going down as far as flexibility allows.",
       "Pause briefly at the bottom and then return to the starting position by driving through the heel of your foot, extending the knee and hip."
@@ -18424,7 +18424,7 @@
     "instructions": [
       "To begin, set the bar on the smith machine to a height that is around the middle of your thighs. Once the correct height is chosen and the bar is loaded, grasp the bar using a pronated (palms forward) grip that is shoulder width apart. You may need some wrist wraps if using a significant amount of weight.",
       "Lift the bar up by fully extending your arms while keeping your back straight. Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",
-      "Keeping the knees stationary, lower the barbell to over the top of your feet by bending at the waist while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Exhale as you perform this movement",
+      "Keeping the knees stationary, lower the barbell to over the top of your feet by bending at the waist while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Exhale as you perform this movement.",
       "Start bringing your torso up straight again as soon as you feel the hamstrings stretch by extending your hips and waist until you are back at the starting position. Inhale as you perform this movement.",
       "Repeat for the recommended amount of repetitions."
     ],
@@ -18480,7 +18480,7 @@
     "instructions": [
       "To begin, place a flat bench 60 cm-90 cm behind the smith machine. Then, set the bar on the height that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
       "Hold on to the bar using both arms at each side (palms facing forward), unlock it and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
-      "Position your legs by placing one foot slightly forward under the bar and extending your other leg back and place the top of your foot on the bench. This will be your starting position",
+      "Position your legs by placing one foot slightly forward under the bar and extending your other leg back and place the top of your foot on the bench. This will be your starting position.",
       "Begin to slowly lower the bar by bending the knee as you maintain a straight posture with the head up. Continue down until the angle between the upper leg and the calf becomes slightly less than 90-degrees (which is the point in which the upper legs are below parallel to the floor). Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knee should make an imaginary straight line with the toes that is perpendicular to the front. If your knee is past that imaginary line (if it is past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly.",
       "Begin to raise the bar as you exhale by pushing the floor with the heel of your foot mainly as you straighten your leg again and go back to the starting position.",
       "Repeat for the recommended amount of repetitions.",
@@ -19223,7 +19223,7 @@
     "id": "standing_barbell_calf_raise"
   },
   {
-    "name": "Standing Barbell Press Behind Neck",
+    "name": "Standing Barbell Press behind Neck",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -19362,7 +19362,7 @@
       "Place a loaded bar at shoulder level in a rack. With a pronated grip at shoulder width, begin with the bar racked across the front of your shoulders. This is your starting position.",
       "Initiate the lift by extending the elbows to press the bar overhead. Avoid locking out the elbow as you move the weight behind your head.",
       "Lower the bar down to the back of the head until your elbow forms a right angle.",
-      "Lift the bar back over your head by extending the elbows",
+      "Lift the bar back over your head by extending the elbows.",
       "Lower the bar down to the starting position.",
       "Alternate in this manner until you complete the recommended amount of repetitions."
     ],
@@ -20147,7 +20147,7 @@
     "id": "standing_palms_in_dumbbell_press"
   },
   {
-    "name": "Standing Palms-Up Barbell Behind The Back Wrist Curl",
+    "name": "Standing Palms-Up Barbell behind the Back Wrist Curl",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -20218,7 +20218,7 @@
     "id": "standing_rope_crunch"
   },
   {
-    "name": "Standing Soleus And Achilles Stretch",
+    "name": "Standing Soleus and Achilles Stretch",
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
@@ -20452,7 +20452,7 @@
     "instructions": [
       "Grasp a couple of dumbbells holding them by your side at arm's length.",
       "Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",
-      "Keeping the knees stationary, lower the dumbbells to over the top of your feet by bending at the waist while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Exhale as you perform this movement",
+      "Keeping the knees stationary, lower the dumbbells to over the top of your feet by bending at the waist while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Exhale as you perform this movement.",
       "Start bringing your torso up straight again by extending your hips and waist until you are back at the starting position. Inhale as you perform this movement.",
       "Repeat for the recommended amount of repetitions."
     ],
@@ -21322,7 +21322,7 @@
     "id": "triceps_pushdown"
   },
   {
-    "name": "Triceps Pushdown - Rope Attachment",
+    "name": "Triceps Pushdown Rope Attachment",
     "force": "push",
     "level": "beginner",
     "mechanic": "isolation",
@@ -21346,7 +21346,7 @@
     "id": "triceps_pushdown_rope_attachment"
   },
   {
-    "name": "Triceps Pushdown - V-Bar Attachment",
+    "name": "Triceps Pushdown V-Bar Attachment",
     "force": "push",
     "level": "beginner",
     "mechanic": "isolation",
@@ -21658,7 +21658,7 @@
     "id": "upright_cable_row"
   },
   {
-    "name": "Upright Row - With Bands",
+    "name": "Upright Row with Bands",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -21999,7 +21999,7 @@
     "id": "weighted_sissy_squat"
   },
   {
-    "name": "Weighted Sit-Up - With Bands",
+    "name": "Weighted Sit-Up with Bands",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "isolation",
@@ -22159,7 +22159,7 @@
     "id": "wide_grip_lat_pulldown"
   },
   {
-    "name": "Wide-Grip Pulldown Behind The Neck",
+    "name": "Wide-Grip Pulldown behind the Neck",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -22329,7 +22329,7 @@
     "secondaryMuscles": [],
     "instructions": [
       "Hang from a pull-up bar using a pronated grip. Your arms and legs should be extended. This will be your starting position.",
-      "Begin by quickly raising one knee as high as you can. Do not swing your body or your legs. 3",
+      "Begin by quickly raising one knee as high as you can. Do not swing your body or your legs.",
       "Immediately reverse the motion, returning that leg to the starting position. Simultaneously raise the opposite knee as high as possible.",
       "Continue alternating between legs until the set is complete."
     ],

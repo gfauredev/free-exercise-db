@@ -129,6 +129,25 @@
           "type": "string"
         }
       ]
+    },
+    "i18n": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "instructions": {
+            "type": "array",
+            "items": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
     }
   },
   "required": [

@@ -1,5 +1,5 @@
 {
-  "name": "Australian Push-Up",
+  "name": "Australian Pull-Up",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -21,8 +21,8 @@
   ],
   "category": "strength",
   "images": [
-    "australian_push_up/0.jpg",
-    "australian_push_up/1.jpg"
+    "australian_pull_up/0.jpg",
+    "australian_pull_up/1.jpg"
   ],
-  "id": "australian_push_up"
+  "id": "australian_pull_up"
 }

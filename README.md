@@ -113,6 +113,9 @@ See also
   - pistol_squat.json
   - road_running.json
   - standing_calf_raise.json
+- Fix forces, e.g. bent_press and pallof_press variants pull instead of push
+- Fix missing equipment, e.g. close_grip_push_up_off_of_a_dumbbell,
+  crunch_legs_on_exercise_ball
 
 [Alternate Incline Dumbbell Curl JSON file]: ./exercises/alternate_incline_dumbbell_curl.json
 [air_bike/0.jpg]: https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/exercises/air_bike/0.jpg

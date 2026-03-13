@@ -1,2 +1,6 @@
 .DS_Store
 .direnv/
+exercises.json
+exercises.fr.json
+exercises.nd.json
+exercises.csv

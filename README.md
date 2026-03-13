@@ -169,6 +169,7 @@ npm run lint
   - Pistol Squat
   - Standing Calf Raise
   - Road Running
+  - Australian / Horizontal Pull-Up
 - Harmonize exercise data
   - Use consistent casing and word separating for names
   - Make IDs lowercase ASCII letters only

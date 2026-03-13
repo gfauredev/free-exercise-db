@@ -24,14 +24,15 @@ jobs:
         nix develop -c just build-fr
     - run: |
         if [[ $GITHUB_REF == refs/tags/v* ]]; then
-          echo "tag_name=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+          TAG_NAME="${GITHUB_REF#refs/tags/}"
+          echo "tag_name=$TAG_NAME" >> $GITHUB_OUTPUT
           echo "prerelease=false" >> $GITHUB_OUTPUT
-          echo "title=Release ${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+          echo "title=$TAG_NAME" >> $GITHUB_OUTPUT
         else
-          TAG="pre-$(date +'%Y%m%d%H%M%S')"
-          echo "tag_name=$TAG" >> $GITHUB_OUTPUT
+          DATE=$(date +'%Y-%m-%d-%H-%M')
+          echo "tag_name=pre-$DATE" >> $GITHUB_OUTPUT
           echo "prerelease=true" >> $GITHUB_OUTPUT
-          echo "title=Pre-release $TAG" >> $GITHUB_OUTPUT
+          echo "title=$DATE" >> $GITHUB_OUTPUT
         fi
       id: prep
     - uses: softprops/action-gh-release@v2

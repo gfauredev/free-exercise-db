@@ -28,6 +28,7 @@
                 check-jsonschema
                 csvkit
                 jq
+                just
                 jsonfmt
                 json2yaml
                 python3

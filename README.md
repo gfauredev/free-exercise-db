@@ -70,39 +70,39 @@ to get a hosted version of the image, eg.
 
 ### Build tasks
 
-There are a number of helpful [Makefile](./Makefile) tasks that you can utilize
+There are a number of helpful [justfile](./justfile) tasks that you can utilize
 
 #### Linting & Check
 
 To lint all the `JSON` files against the [schema.json](./schema.json) use
 
 ```sh
-make lint
+just lint
 ```
 
 To check for non unique IDs, use
 
 ```sh
-make check
+just check
 ```
 
 #### Combining into a single JSON file
 
 If you make changes to any of the exercises or add new ones, to recombine all
 single `JSON` files into a single `JSON` containing an array of objects using
-the following make task
+the following just task
 
 ```sh
-make exercises.json
+just build
 ```
 
 #### Importing into PostgreSQL
 
 To combine all `JSON` files into [Newline Delimeted JSON](http://ndjson.org)
-suitable for import into PostgreSQL use the following make task
+suitable for import into PostgreSQL use the following just task
 
 ```sh
-make exercises.nd.json
+just build-ndjson
 ```
 
 See also

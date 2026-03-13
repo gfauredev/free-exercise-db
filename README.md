@@ -123,11 +123,11 @@ See also
 [Alternate Incline Dumbbell Curl JSON file]: ./exercises/alternate_incline_dumbbell_curl.json
 [cypress]: https://www.cypress.io
 [eslint]: https://eslint.org
-[exercises.json]: https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/dist/exercises.json
+[exercises.json]: https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/exercises.json
 [logout]: https://github.com/gfauredev/LogOut
 [vitest]: https://vitest.dev
 [vue.js]: https://vuejs.org
 [yuhonas]: https://github.com/yuhonas/free-exercise-db
 [yuhonas.github.io/free-exercise-db]: https://yuhonas.github.io/free-exercise-db
-[lite.datasette.io]: https://lite.datasette.io/?json=https://github.com/gfauredev/free-exercise-db/blob/main/dist/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment
-[datasette]: https://lite.datasette.io/?json=https://github.com/gfauredev/free-exercise-db/blob/main/dist/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment
+[lite.datasette.io]: https://lite.datasette.io/?json=https://github.com/gfauredev/free-exercise-db/blob/main/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment
+[datasette]: https://lite.datasette.io/?json=https://github.com/gfauredev/free-exercise-db/blob/main/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment

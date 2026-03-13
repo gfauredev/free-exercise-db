@@ -10,9 +10,8 @@ lang: en
 
 - [What do they look like?](#what-do-they-look-like)
 - [How do I use them?](#how-do-i-use-them)
-  - [Alternatively](#alternatively)
 - [Build tasks](#build-tasks)
-  - [Linting](#linting)
+  - [Linting & Check](#linting-check)
   - [Combining into a single JSON file](#combining-into-a-single-json-file)
   - [Importing into PostgreSQL](#importing-into-postgresql)
 - [TODO](#todo)
@@ -58,19 +57,18 @@ To further explore the data, you can use [datasette].
 
 ### How do I use them?
 
-You can check the repo out and use the `JSON` files and images locally
+Main combined DB `exercises.json`, translated `name` and `instructions` DBs
+`exercises.<language>.json` and translated enums DB `i18n.json` are available
+through [GitHub Releases](releases).
 
-#### Alternatively
-
-You can leverage GitHub's hosting and access the single or combined
-[exercises.json] and prefix any of image path's contained in the `JSON` with
-`https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/exercises/`
-to get a hosted version of the image, eg.
-[air_bike/0.jpg](https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/exercises/air_bike/0.jpg).
+For images, you can leverage GitHub's hostinge prefixing image path's contained
+in `JSON` with
+`https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/exercises/`,
+eg. [air_bike/0.jpg].
 
 ### Build tasks
 
-There are a number of helpful [justfile](./justfile) tasks that you can utilize
+There are a number of helpful [justfile](./justfile) tasks that you can use.
 
 #### Linting & Check
 
@@ -80,7 +78,7 @@ To lint all the `JSON` files against the [schema.json](./schema.json) use
 just lint
 ```
 
-To check for non unique IDs, use
+To check for non-unique IDs, use
 
 ```sh
 just check
@@ -88,9 +86,9 @@ just check
 
 #### Combining into a single JSON file
 
-If you make changes to any of the exercises or add new ones, to recombine all
-single `JSON` files into a single `JSON` containing an array of objects using
-the following just task
+If you make changes to any of the exercises or add new ones, recombine all
+single `JSON` files into a single `JSON` containing an array of objects, using
+the `build` just task
 
 ```sh
 just build
@@ -115,12 +113,9 @@ See also
   - pistol_squat.json
   - road_running.json
   - standing_calf_raise.json
-- Internationalize
-  - Allow exercises to have `name` and `instructions` in different languages
-  - Create `i18n.json` with translations of muscles, forces, categories, levels…
-  - Add translations, at least in French
 
 [Alternate Incline Dumbbell Curl JSON file]: ./exercises/alternate_incline_dumbbell_curl.json
+[air_bike/0.jpg]: https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/exercises/air_bike/0.jpg
 [cypress]: https://www.cypress.io
 [eslint]: https://eslint.org
 [exercises.json]: https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/exercises.json

@@ -1,5 +1,5 @@
 {
-  "name": "Mountain Climbers",
+  "name": "Mountain Climber",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,5 +20,5 @@
     "Mountain_Climbers/0.jpg",
     "Mountain_Climbers/1.jpg"
   ],
-  "id": "mountain_climbers"
+  "id": "mountain_climber"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Weighted Crunches",
+  "name": "Weighted Crunch",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -20,5 +20,5 @@
     "Weighted_Crunches/0.jpg",
     "Weighted_Crunches/1.jpg"
   ],
-  "id": "weighted_crunches"
+  "id": "weighted_crunch"
 }

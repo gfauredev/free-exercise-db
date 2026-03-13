@@ -1,5 +1,5 @@
 {
-  "name": "Lying Leg Curls",
+  "name": "Lying Leg Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,5 +19,5 @@
     "Lying_Leg_Curls/0.jpg",
     "Lying_Leg_Curls/1.jpg"
   ],
-  "id": "lying_leg_curls"
+  "id": "lying_leg_curl"
 }

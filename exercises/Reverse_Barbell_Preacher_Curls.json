@@ -1,5 +1,5 @@
 {
-  "name": "Reverse Barbell Preacher Curls",
+  "name": "Reverse Barbell Preacher Curl",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -22,5 +22,5 @@
     "Reverse_Barbell_Preacher_Curls/0.jpg",
     "Reverse_Barbell_Preacher_Curls/1.jpg"
   ],
-  "id": "reverse_barbell_preacher_curls"
+  "id": "reverse_barbell_preacher_curl"
 }

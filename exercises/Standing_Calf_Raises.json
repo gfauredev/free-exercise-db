@@ -1,5 +1,5 @@
 {
-  "name": "Standing Calf Raises",
+  "name": "Machine Standing Calf Raise",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -20,5 +20,5 @@
     "Standing_Calf_Raises/0.jpg",
     "Standing_Calf_Raises/1.jpg"
   ],
-  "id": "standing_calf_raises"
+  "id": "machine_standing_calf_raise"
 }

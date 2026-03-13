@@ -1,5 +1,5 @@
 {
-  "name": "Bench Dips",
+  "name": "Bench Dip",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -21,5 +21,5 @@
     "Bench_Dips/0.jpg",
     "Bench_Dips/1.jpg"
   ],
-  "id": "bench_dips"
+  "id": "bench_dip"
 }

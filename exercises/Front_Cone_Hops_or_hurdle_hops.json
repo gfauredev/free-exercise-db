@@ -1,5 +1,5 @@
 {
-  "name": "Front Cone Hops (or hurdle hops)",
+  "name": "Front Cone Hop (or hurdle hop)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -26,5 +26,5 @@
     "Front_Cone_Hops_or_hurdle_hops/0.jpg",
     "Front_Cone_Hops_or_hurdle_hops/1.jpg"
   ],
-  "id": "front_cone_hops_or_hurdle_hops"
+  "id": "front_cone_hop_or_hurdle_hop"
 }

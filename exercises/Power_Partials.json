@@ -1,5 +1,5 @@
 {
-  "name": "Power Partials",
+  "name": "Power Partial",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -20,5 +20,5 @@
     "Power_Partials/0.jpg",
     "Power_Partials/1.jpg"
   ],
-  "id": "power_partials"
+  "id": "power_partial"
 }

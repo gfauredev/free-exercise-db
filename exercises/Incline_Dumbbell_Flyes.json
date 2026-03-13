@@ -1,5 +1,5 @@
 {
-  "name": "Incline Dumbbell Flyes",
+  "name": "Incline Dumbbell Flye",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,5 @@
     "Incline_Dumbbell_Flyes/0.jpg",
     "Incline_Dumbbell_Flyes/1.jpg"
   ],
-  "id": "incline_dumbbell_flyes"
+  "id": "incline_dumbbell_flye"
 }

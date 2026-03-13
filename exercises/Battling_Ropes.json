@@ -1,5 +1,5 @@
 {
-  "name": "Battling Ropes",
+  "name": "Battling Rope",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,5 @@
     "Battling_Ropes/0.jpg",
     "Battling_Ropes/1.jpg"
   ],
-  "id": "battling_ropes"
+  "id": "battling_rope"
 }

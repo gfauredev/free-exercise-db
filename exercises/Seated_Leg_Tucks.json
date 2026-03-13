@@ -1,5 +1,5 @@
 {
-  "name": "Seated Leg Tucks",
+  "name": "Seated Leg Tuck",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,5 +18,5 @@
     "Seated_Leg_Tucks/0.jpg",
     "Seated_Leg_Tucks/1.jpg"
   ],
-  "id": "seated_leg_tucks"
+  "id": "seated_leg_tuck"
 }

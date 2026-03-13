@@ -1,5 +1,5 @@
 {
-  "name": "Isometric Wipers",
+  "name": "Isometric Wiper",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,5 @@
     "Isometric_Wipers/0.jpg",
     "Isometric_Wipers/1.jpg"
   ],
-  "id": "isometric_wipers"
+  "id": "isometric_wiper"
 }

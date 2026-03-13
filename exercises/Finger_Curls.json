@@ -1,5 +1,5 @@
 {
-  "name": "Finger Curls",
+  "name": "Finger Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,5 +19,5 @@
     "Finger_Curls/0.jpg",
     "Finger_Curls/1.jpg"
   ],
-  "id": "finger_curls"
+  "id": "finger_curl"
 }

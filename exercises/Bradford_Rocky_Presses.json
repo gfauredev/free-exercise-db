@@ -1,5 +1,5 @@
 {
-  "name": "Bradford and Rocky Presses",
+  "name": "Bradford and Rocky Press",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,5 @@
     "Bradford_Rocky_Presses/0.jpg",
     "Bradford_Rocky_Presses/1.jpg"
   ],
-  "id": "bradford_rocky_presses"
+  "id": "bradford_rocky_press"
 }

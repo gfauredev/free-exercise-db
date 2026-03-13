@@ -1,5 +1,5 @@
 {
-  "name": "Atlas Stones",
+  "name": "Atlas Stone",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -30,5 +30,5 @@
     "Atlas_Stones/0.jpg",
     "Atlas_Stones/1.jpg"
   ],
-  "id": "atlas_stones"
+  "id": "atlas_stone"
 }

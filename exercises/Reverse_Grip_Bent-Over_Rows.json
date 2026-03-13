@@ -1,5 +1,5 @@
 {
-  "name": "Reverse Grip Bent-Over Rows",
+  "name": "Reverse Grip Bent-Over Row",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,5 @@
     "Reverse_Grip_Bent-Over_Rows/0.jpg",
     "Reverse_Grip_Bent-Over_Rows/1.jpg"
   ],
-  "id": "reverse_grip_bent-over_rows"
+  "id": "reverse_grip_bent_over_row"
 }

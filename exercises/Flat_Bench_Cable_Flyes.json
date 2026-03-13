@@ -1,5 +1,5 @@
 {
-  "name": "Flat Bench Cable Flyes",
+  "name": "Flat Bench Cable Flye",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -22,5 +22,5 @@
     "Flat_Bench_Cable_Flyes/0.jpg",
     "Flat_Bench_Cable_Flyes/1.jpg"
   ],
-  "id": "flat_bench_cable_flyes"
+  "id": "flat_bench_cable_flye"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Knee Circles",
+  "name": "Knee Circle",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,5 +20,5 @@
     "Knee_Circles/0.jpg",
     "Knee_Circles/1.jpg"
   ],
-  "id": "knee_circles"
+  "id": "knee_circle"
 }

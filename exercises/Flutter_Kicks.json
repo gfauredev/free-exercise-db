@@ -1,5 +1,5 @@
 {
-  "name": "Flutter Kicks",
+  "name": "Flutter Kick",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -21,5 +21,5 @@
     "Flutter_Kicks/0.jpg",
     "Flutter_Kicks/1.jpg"
   ],
-  "id": "flutter_kicks"
+  "id": "flutter_kick"
 }

@@ -1,0 +1,28 @@
+{
+  "name": "Australian Push-Up",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "Position a bar, table, or sturdy surface at about waist height. Stand facing the bar and grip it with both hands slightly wider than shoulder-width, using an overhand grip.",
+    "Walk your feet forward and lean back until your body is straight and at an angle, with your heels on the ground and arms fully extended. Your body should form a straight line from head to heels. This is the starting position.",
+    "Keeping your body rigid, pull your chest up to the bar by bending your elbows and retracting your shoulder blades. Breathe out as you pull up.",
+    "Pause briefly when your chest touches or nearly reaches the bar.",
+    "Slowly lower yourself back to the starting position with arms fully extended. Breathe in on the way down.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "category": "strength",
+  "images": [
+    "Australian_Push-Up/0.jpg",
+    "Australian_Push-Up/1.jpg"
+  ],
+  "id": "australian_push_up"
+}

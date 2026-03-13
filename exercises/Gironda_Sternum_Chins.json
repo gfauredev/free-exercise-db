@@ -1,5 +1,5 @@
 {
-  "name": "Gironda Sternum Chins",
+  "name": "Gironda Sternum Chin",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,5 @@
     "Gironda_Sternum_Chins/0.jpg",
     "Gironda_Sternum_Chins/1.jpg"
   ],
-  "id": "gironda_sternum_chins"
+  "id": "gironda_sternum_chin"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Hyperextensions (Back Extensions)",
+  "name": "Hyperextension (Back Extension)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -24,5 +24,5 @@
     "Hyperextensions_Back_Extensions/0.jpg",
     "Hyperextensions_Back_Extensions/1.jpg"
   ],
-  "id": "hyperextensions_back_extensions"
+  "id": "hyperextensions_back_extension"
 }

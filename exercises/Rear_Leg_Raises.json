@@ -1,5 +1,5 @@
 {
-  "name": "Rear Leg Raises",
+  "name": "Rear Leg Raise",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,5 +16,5 @@
     "Rear_Leg_Raises/0.jpg",
     "Rear_Leg_Raises/1.jpg"
   ],
-  "id": "rear_leg_raises"
+  "id": "rear_leg_raise"
 }

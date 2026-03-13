@@ -1,5 +1,5 @@
 {
-  "name": "Side Laterals to Front Raise",
+  "name": "Side Lateral to Front Raise",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,5 @@
     "Side_Laterals_to_Front_Raise/0.jpg",
     "Side_Laterals_to_Front_Raise/1.jpg"
   ],
-  "id": "side_laterals_to_front_raise"
+  "id": "side_lateral_to_front_raise"
 }

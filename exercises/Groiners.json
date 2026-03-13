@@ -1,5 +1,5 @@
 {
-  "name": "Groiners",
+  "name": "Groiner",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,5 +17,5 @@
     "Groiners/0.jpg",
     "Groiners/1.jpg"
   ],
-  "id": "groiners"
+  "id": "groiner"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Shoulder Circles",
+  "name": "Shoulder Circle",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,5 +18,5 @@
     "Shoulder_Circles/0.jpg",
     "Shoulder_Circles/1.jpg"
   ],
-  "id": "shoulder_circles"
+  "id": "shoulder_circle"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Front Leg Raises",
+  "name": "Front Leg Raise",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,5 +16,5 @@
     "Front_Leg_Raises/0.jpg",
     "Front_Leg_Raises/1.jpg"
   ],
-  "id": "front_leg_raises"
+  "id": "front_leg_raise"
 }

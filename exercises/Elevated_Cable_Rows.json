@@ -1,5 +1,5 @@
 {
-  "name": "Elevated Cable Rows",
+  "name": "Elevated Cable Row",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,5 @@
     "Elevated_Cable_Rows/0.jpg",
     "Elevated_Cable_Rows/1.jpg"
   ],
-  "id": "elevated_cable_rows"
+  "id": "elevated_cable_row"
 }

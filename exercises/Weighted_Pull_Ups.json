@@ -1,5 +1,5 @@
 {
-  "name": "Weighted Pull Ups",
+  "name": "Weighted Pull Up",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,5 +22,5 @@
     "Weighted_Pull_Ups/0.jpg",
     "Weighted_Pull_Ups/1.jpg"
   ],
-  "id": "weighted_pull_ups"
+  "id": "weighted_pull_up"
 }

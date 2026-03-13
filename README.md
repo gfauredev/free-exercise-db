@@ -110,20 +110,11 @@ See also
 
 ### TODO
 
-- Correct Australian Push-Up to Pull-Up
 - Add image(s) to exercises missing them
-  - australian_push_up.json
+  - australian_pull_up.json
   - pistol_squat.json
   - road_running.json
   - standing_calf_raise.json
-- Complete instructions of exercises missing them
-  - iron_cross.json
-  - one_arm_kettlebell_swing.json
-  - push_press.json
-  - side_bridge.json
-  - side_jackknife.json
-- Remove muscles in secondary muscles already present in primary muscles
-- Convert every value to metric system (meters, kilograms)
 - Internationalize
   - Allow exercises to have `name` and `instructions` in different languages
   - Create `i18n.json` with translations of muscles, forces, categories, levels…

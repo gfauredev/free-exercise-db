@@ -1,5 +1,5 @@
 {
-  "name": "Pullup",
+  "name": "Pull-Up",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,5 @@
     "pullup/0.jpg",
     "pullup/1.jpg"
   ],
-  "id": "pullup"
+  "id": "pull_up"
 }

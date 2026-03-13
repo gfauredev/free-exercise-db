@@ -21,10 +21,10 @@
               [
                 # biome
                 # bun # Faster runtime, bundler, package manager
-                cmake
-                cmake-format
-                cmake-language-server
-                cmake-lint
+                # cmake
+                # cmake-format
+                # cmake-language-server
+                # cmake-lint
                 check-jsonschema
                 csvkit
                 jq

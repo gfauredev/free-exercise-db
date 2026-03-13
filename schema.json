@@ -138,9 +138,7 @@
     "level",
     "mechanic",
     "primaryMuscles",
-    "secondaryMuscles",
     "instructions",
-    "category",
-    "images"
+    "category"
   ]
 }

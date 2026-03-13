@@ -1,5 +1,5 @@
 {
-  description = "Nix-flake web development environment";
+  description = "Nix-flake JSON environment";
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
   outputs =
     { self, nixpkgs }:
@@ -24,6 +24,10 @@
               cmake-language-server
               cmake-lint
               check-jsonschema
+              csvkit
+              jq
+              jsonfmt
+              json2yaml
               taplo # TOML LSP
               # typescript
               # typescript-language-server # TS LSP

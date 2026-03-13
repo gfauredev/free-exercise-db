@@ -12,9 +12,8 @@ exercises.csv: exercises.json # output to csv format
 	in2csv ./exercises.json > $@
 exercises.fr.json: exercises.json $(translations_fr) # merge French translations into exercises
 	# Build a lookup table keyed by exercise id from all fr translation files,
-	# then merge matching name+instructions under .i18n.fr for each exercise.
-	jq -s '(.[1:] | map({(.id): .}) | add // {}) as $$tr | .[0] | map(if $$tr[.id] then . + {i18n: {fr: ($$tr[.id] | {name, instructions})}} else . end)' \
-	  exercises.json $(translations_fr) > $@
+	# then replace top-level name and instructions with French versions for translated exercises.
+	jq -s '(.[1:] | map({(.id): .}) | add // {}) as $$tr | .[0] | map(if $$tr[.id] then . + {name: $$tr[.id].name, instructions: $$tr[.id].instructions} else . end)' exercises.json $(translations_fr) > $@
 lint:
 	check-jsonschema --schemafile ./schema.json $(sources)
 check:

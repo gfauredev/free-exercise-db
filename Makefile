@@ -4,7 +4,7 @@ sources :=$(wildcard ./exercises/**.json)
 
 exercises.json: $(sources)
 	jq -s '.' $^ > $@
-	jsonfmt
+	jsonfmt --write
 exercises.nd.json: $(sources) # output to new line delimited JSON
 	jq -s '.[]' $^ > $@
 exercises.csv: dist/exercises.json # output to csv format

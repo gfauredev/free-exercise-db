@@ -1,5 +1,5 @@
 {
-  "name": "Dip Chest Version",
+  "name": "Chest Dip",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,8 +19,8 @@
   ],
   "category": "strength",
   "images": [
-    "dip_chest_version/0.jpg",
-    "dip_chest_version/1.jpg"
+    "chest_dip/0.jpg",
+    "chest_dip/1.jpg"
   ],
-  "id": "dip_chest_version"
+  "id": "chest_dip"
 }

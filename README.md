@@ -15,13 +15,6 @@ lang: en
   - [Linting](#linting)
   - [Combining into a single JSON file](#combining-into-a-single-json-file)
   - [Importing into PostgreSQL](#importing-into-postgresql)
-- [Browsable frontend](#browsable-frontend)
-  - [Setup](#setup)
-  - [Compile and Hot-Reload for Development](#compile-and-hot-reload-for-development)
-  - [Compile and Minify for Production](#compile-and-minify-for-production)
-  - [Run Unit Tests with Vitest](#run-unit-tests-with-vitest)
-  - [Run End-to-End Tests with Cypress](#run-end-to-end-tests-with-cypress)
-  - [Lint with ESLint](#lint-with-eslint)
 - [TODO](#todo)
 
 <!--toc:end-->
@@ -32,11 +25,11 @@ training app [LogOut].
 ### What do they look like?
 
 All exercises are stored as seperate `JSON` documents and conform to the
-following [JSON Schema](./schema.json) eg.
+following [JSON Schema](./schema.json). Here’s an example :
 
 ```json
 {
-  "id": "Alternate_Incline_Dumbbell_Curl",
+  "id": "alternate_incline_dumbbell_curl",
   "name": "Alternate Incline Dumbbell Curl",
   "force": "pull",
   "level": "beginner",
@@ -53,14 +46,13 @@ following [JSON Schema](./schema.json) eg.
   ],
   "category": "strength",
   "images": [
-    "Alternate_Incline_Dumbbell_Curl/0.jpg",
-    "Alternate_Incline_Dumbbell_Curl/1.jpg"
+    "alternate_incline_dumbbell_curl/0.jpg",
+    "alternate_incline_dumbbell_curl/1.jpg"
   ]
 }
 ```
 
-See
-[Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbell_Curl.json)
+See [Alternate Incline Dumbbell Curl JSON file].
 
 To further explore the data, you can use [datasette].
 
@@ -70,22 +62,28 @@ You can check the repo out and use the `JSON` files and images locally
 
 #### Alternatively
 
-You can leverage github's hosting and access the single or combined
+You can leverage GitHub's hosting and access the single or combined
 [exercises.json] and prefix any of image path's contained in the `JSON` with
 `https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/exercises/`
 to get a hosted version of the image, eg.
-[Air_Bike/0.jpg](https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/exercises/Air_Bike/0.jpg).
+[air_bike/0.jpg](https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/exercises/air_bike/0.jpg).
 
 ### Build tasks
 
 There are a number of helpful [Makefile](./Makefile) tasks that you can utilize
 
-#### Linting
+#### Linting & Check
 
 To lint all the `JSON` files against the [schema.json](./schema.json) use
 
-```
+```sh
 make lint
+```
+
+To check for non unique IDs, use
+
+```sh
+make check
 ```
 
 #### Combining into a single JSON file
@@ -95,7 +93,7 @@ single `JSON` files into a single `JSON` containing an array of objects using
 the following make task
 
 ```sh
-make dist/exercises.json
+make exercises.json
 ```
 
 #### Importing into PostgreSQL
@@ -104,90 +102,40 @@ To combine all `JSON` files into [Newline Delimeted JSON](http://ndjson.org)
 suitable for import into PostgreSQL use the following make task
 
 ```sh
-make dist/exercises.nd.json
+make exercises.nd.json
 ```
 
 See also
 [Importing JSON into PostgreSQL using COPY](https://konbert.com/blog/import-json-into-postgres-using-copy)
 
-### Browsable frontend
-
-There is a simple searchable/browsable frontend to the data written in [Vue.js]
-available at [yuhonas.github.io/free-exercise-db] all related code is in the
-[site](./site) directory
-
-#### Setup
-
-```sh
-npm install
-```
-
-#### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-#### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-#### Run Unit Tests with [Vitest]
-
-```sh
-npm run test:unit
-```
-
-#### Run End-to-End Tests with [Cypress]
-
-```sh
-npm run test:e2e:dev
-```
-
-This runs the end-to-end tests against the Vite development server. It is much
-faster than the production build.
-
-But it's still recommended to test the production build with `test:e2e` before
-deploying (e.g. in CI environments):
-
-```sh
-npm run build
-npm run test:e2e
-```
-
-#### Lint with [ESLint]
-
-```sh
-npm run lint
-```
-
 ### TODO
 
-- Add bodyweight only missing exercises, with images, all fields properly filled
-  - Corret Australian Push-Up to Pull-Up
-- Harmonize exercise data
-  - ~~Remove hyphens - from IDs and schema~~
-  - ~~Ensure every exercise name and ID is singular~~
-  - ~~Use consistent casing and word separating for names~~
-  - ~~Make IDs lowercase ASCII letters only~~
-  - ~~Fill currently null `force`, `mechanic` and `equipment` fields~~
-  - ~~Remove `null` from schema~~
-  - ~~Make equipment field optional and remove equipment: null and equipment:
-    body only from db~~
+- Correct Australian Push-Up to Pull-Up
+- Add image(s) to exercises missing them
+  - australian_push_up.json
+  - pistol_squat.json
+  - road_running.json
+  - standing_calf_raise.json
+- Complete instructions of exercises missing them
+  - iron_cross.json
+  - one_arm_kettlebell_swing.json
+  - push_press.json
+  - side_bridge.json
+  - side_jackknife.json
+- Remove muscles in secondary muscles already present in primary muscles
+- Convert every value to metric system (meters, kilograms)
 - Internationalize
   - Allow exercises to have `name` and `instructions` in different languages
   - Create `i18n.json` with translations of muscles, forces, categories, levels…
   - Add translations, at least in French
 
-[Cypress]: https://www.cypress.io
-[Eslint]: https://eslint.org
+[Alternate Incline Dumbbell Curl JSON file]: ./exercises/alternate_incline_dumbbell_curl.json
+[cypress]: https://www.cypress.io
+[eslint]: https://eslint.org
 [exercises.json]: https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/dist/exercises.json
-[LogOut]: https://github.com/gfauredev/LogOut
 [logout]: https://github.com/gfauredev/LogOut
-[Vitest]: https://vitest.dev
-[Vue.js]: https://vuejs.org
+[vitest]: https://vitest.dev
+[vue.js]: https://vuejs.org
 [yuhonas]: https://github.com/yuhonas/free-exercise-db
 [yuhonas.github.io/free-exercise-db]: https://yuhonas.github.io/free-exercise-db
 [lite.datasette.io]: https://lite.datasette.io/?json=https://github.com/gfauredev/free-exercise-db/blob/main/dist/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment

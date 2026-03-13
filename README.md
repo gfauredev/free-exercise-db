@@ -166,15 +166,16 @@ npm run lint
 ### TODO
 
 - Add bodyweight only missing exercises, with images, all fields properly filled
-  - Pistol Squat
-  - Standing Calf Raise
-  - Road Running
   - Australian / Horizontal Pull-Up
 - Harmonize exercise data
-  - Use consistent casing and word separating for names
-  - Make IDs lowercase ASCII letters only
-  - Fill currently null `force`, `mechanic` and `equipment` fields
-  - Remove `null` from schema
+  - Remove hyphens - from IDs and schema
+  - Ensure every exercise name and ID is singular
+  - ~~Use consistent casing and word separating for names~~
+  - ~~Make IDs lowercase ASCII letters only~~
+  - ~~Fill currently null `force`, `mechanic` and `equipment` fields~~
+  - ~~Remove `null` from schema~~
+  - ~~Make equipment field optional and remove equipment: null and equipment:
+    body only from db~~
 - Internationalize
   - Allow exercises to have `name` and `instructions` in different languages
   - Create `i18n.json` with translations of muscles, forces, categories, levels…

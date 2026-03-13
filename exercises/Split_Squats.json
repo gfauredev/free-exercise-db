@@ -1,5 +1,5 @@
 {
-  "name": "Split Squats",
+  "name": "Split Squat",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,5 +20,5 @@
     "Split_Squats/0.jpg",
     "Split_Squats/1.jpg"
   ],
-  "id": "split_squats"
+  "id": "split_squat"
 }

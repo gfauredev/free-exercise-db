@@ -1,5 +1,5 @@
 {
-  "name": "Underhand Cable Pulldowns",
+  "name": "Underhand Cable Pulldown",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -25,5 +25,5 @@
     "Underhand_Cable_Pulldowns/0.jpg",
     "Underhand_Cable_Pulldowns/1.jpg"
   ],
-  "id": "underhand_cable_pulldowns"
+  "id": "underhand_cable_pulldown"
 }

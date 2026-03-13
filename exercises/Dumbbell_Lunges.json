@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell Lunges",
+  "name": "Dumbbell Lunge",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,5 @@
     "Dumbbell_Lunges/0.jpg",
     "Dumbbell_Lunges/1.jpg"
   ],
-  "id": "dumbbell_lunges"
+  "id": "dumbbell_lunge"
 }

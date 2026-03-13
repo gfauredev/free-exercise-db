@@ -1,5 +1,5 @@
 {
-  "name": "Hip Circles (prone)",
+  "name": "Hip Circle (prone)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,5 +19,5 @@
     "Hip_Circles_prone/0.jpg",
     "Hip_Circles_prone/1.jpg"
   ],
-  "id": "hip_circles_prone"
+  "id": "hip_circle_prone"
 }

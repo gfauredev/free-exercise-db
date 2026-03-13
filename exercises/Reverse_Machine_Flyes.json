@@ -1,5 +1,5 @@
 {
-  "name": "Reverse Machine Flyes",
+  "name": "Reverse Machine Flye",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,5 +19,5 @@
     "Reverse_Machine_Flyes/0.jpg",
     "Reverse_Machine_Flyes/1.jpg"
   ],
-  "id": "reverse_machine_flyes"
+  "id": "reverse_machine_flye"
 }

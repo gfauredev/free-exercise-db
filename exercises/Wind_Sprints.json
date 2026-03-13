@@ -1,5 +1,5 @@
 {
-  "name": "Wind Sprints",
+  "name": "Wind Sprint",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,5 +18,5 @@
     "Wind_Sprints/0.jpg",
     "Wind_Sprints/1.jpg"
   ],
-  "id": "wind_sprints"
+  "id": "wind_sprint"
 }

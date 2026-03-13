@@ -1,5 +1,5 @@
 {
-  "name": "Alternate Heel Touchers",
+  "name": "Alternate Heel Toucher",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,5 +19,5 @@
     "Alternate_Heel_Touchers/0.jpg",
     "Alternate_Heel_Touchers/1.jpg"
   ],
-  "id": "alternate_heel_touchers"
+  "id": "alternate_heel_toucher"
 }

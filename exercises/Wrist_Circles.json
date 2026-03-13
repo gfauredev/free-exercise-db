@@ -1,5 +1,5 @@
 {
-  "name": "Wrist Circles",
+  "name": "Wrist Circle",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -17,5 +17,5 @@
     "Wrist_Circles/0.jpg",
     "Wrist_Circles/1.jpg"
   ],
-  "id": "wrist_circles"
+  "id": "wrist_circle"
 }

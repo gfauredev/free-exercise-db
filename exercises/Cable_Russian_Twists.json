@@ -1,5 +1,5 @@
 {
-  "name": "Cable Russian Twists",
+  "name": "Cable Russian Twist",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,5 @@
     "Cable_Russian_Twists/0.jpg",
     "Cable_Russian_Twists/1.jpg"
   ],
-  "id": "cable_russian_twists"
+  "id": "cable_russian_twist"
 }

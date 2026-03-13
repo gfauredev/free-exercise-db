@@ -1,5 +1,5 @@
 {
-  "name": "Narrow Stance Squats",
+  "name": "Narrow Stance Squat",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -26,5 +26,5 @@
     "Narrow_Stance_Squats/0.jpg",
     "Narrow_Stance_Squats/1.jpg"
   ],
-  "id": "narrow_stance_squats"
+  "id": "narrow_stance_squat"
 }

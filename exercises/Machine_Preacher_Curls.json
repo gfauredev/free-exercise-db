@@ -1,5 +1,5 @@
 {
-  "name": "Machine Preacher Curls",
+  "name": "Machine Preacher Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -20,5 +20,5 @@
     "Machine_Preacher_Curls/0.jpg",
     "Machine_Preacher_Curls/1.jpg"
   ],
-  "id": "machine_preacher_curls"
+  "id": "machine_preacher_curl"
 }

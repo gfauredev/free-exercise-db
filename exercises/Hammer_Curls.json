@@ -1,5 +1,5 @@
 {
-  "name": "Hammer Curls",
+  "name": "Hammer Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -20,5 +20,5 @@
     "Hammer_Curls/0.jpg",
     "Hammer_Curls/1.jpg"
   ],
-  "id": "hammer_curls"
+  "id": "hammer_curl"
 }

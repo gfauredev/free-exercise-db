@@ -1,5 +1,5 @@
 {
-  "name": "Sledgehammer Swings",
+  "name": "Sledgehammer Swing",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -25,5 +25,5 @@
     "Sledgehammer_Swings/0.jpg",
     "Sledgehammer_Swings/1.jpg"
   ],
-  "id": "sledgehammer_swings"
+  "id": "sledgehammer_swing"
 }

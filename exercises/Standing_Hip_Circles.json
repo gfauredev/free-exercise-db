@@ -1,5 +1,5 @@
 {
-  "name": "Standing Hip Circles",
+  "name": "Standing Hip Circle",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -20,5 +20,5 @@
     "Standing_Hip_Circles/0.jpg",
     "Standing_Hip_Circles/1.jpg"
   ],
-  "id": "standing_hip_circles"
+  "id": "standing_hip_circle"
 }

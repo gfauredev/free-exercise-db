@@ -1,5 +1,5 @@
 {
-  "name": "Sit Squats",
+  "name": "Sit Squat",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -21,5 +21,5 @@
     "Sit_Squats/0.jpg",
     "Sit_Squats/1.jpg"
   ],
-  "id": "sit_squats"
+  "id": "sit_squat"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Cocoons",
+  "name": "Cocoon",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,5 +17,5 @@
     "Cocoons/0.jpg",
     "Cocoons/1.jpg"
   ],
-  "id": "cocoons"
+  "id": "cocoon"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Ankle Circles",
+  "name": "Ankle Circle",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -17,5 +17,5 @@
     "Ankle_Circles/0.jpg",
     "Ankle_Circles/1.jpg"
   ],
-  "id": "ankle_circles"
+  "id": "ankle_circle"
 }

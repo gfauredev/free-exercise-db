@@ -1,5 +1,5 @@
 {
-  "name": "Incline Hammer Curls",
+  "name": "Incline Hammer Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,5 +18,5 @@
     "Incline_Hammer_Curls/0.jpg",
     "Incline_Hammer_Curls/1.jpg"
   ],
-  "id": "incline_hammer_curls"
+  "id": "incline_hammer_curl"
 }

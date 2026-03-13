@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Step Ups",
+  "name": "Barbell Step Up",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,5 @@
     "Barbell_Step_Ups/0.jpg",
     "Barbell_Step_Ups/1.jpg"
   ],
-  "id": "barbell_step_ups"
+  "id": "barbell_step_up"
 }

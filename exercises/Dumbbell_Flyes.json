@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell Flyes",
+  "name": "Dumbbell Flye",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -20,5 +20,5 @@
     "Dumbbell_Flyes/0.jpg",
     "Dumbbell_Flyes/1.jpg"
   ],
-  "id": "dumbbell_flyes"
+  "id": "dumbbell_flye"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Power Stairs",
+  "name": "Power Stair",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -27,5 +27,5 @@
     "Power_Stairs/0.jpg",
     "Power_Stairs/1.jpg"
   ],
-  "id": "power_stairs"
+  "id": "power_stair"
 }

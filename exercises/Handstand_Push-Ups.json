@@ -1,5 +1,5 @@
 {
-  "name": "Handstand Push-Ups",
+  "name": "Handstand Push-Up",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -21,5 +21,5 @@
     "Handstand_Push-Ups/0.jpg",
     "Handstand_Push-Ups/1.jpg"
   ],
-  "id": "handstand_push-ups"
+  "id": "handstand_push_up"
 }

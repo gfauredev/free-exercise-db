@@ -1,5 +1,5 @@
 {
-  "name": "Arm Circles",
+  "name": "Arm Circle",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,5 +19,5 @@
     "Arm_Circles/0.jpg",
     "Arm_Circles/1.jpg"
   ],
-  "id": "arm_circles"
+  "id": "arm_circle"
 }

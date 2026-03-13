@@ -1,5 +1,5 @@
 {
-  "name": "Narrow Stance Hack Squats",
+  "name": "Narrow Stance Hack Squat",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -26,5 +26,5 @@
     "Narrow_Stance_Hack_Squats/0.jpg",
     "Narrow_Stance_Hack_Squats/1.jpg"
   ],
-  "id": "narrow_stance_hack_squats"
+  "id": "narrow_stance_hack_squat"
 }

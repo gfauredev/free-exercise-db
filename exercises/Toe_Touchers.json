@@ -1,5 +1,5 @@
 {
-  "name": "Toe Touchers",
+  "name": "Toe Toucher",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -20,5 +20,5 @@
     "Toe_Touchers/0.jpg",
     "Toe_Touchers/1.jpg"
   ],
-  "id": "toe_touchers"
+  "id": "toe_toucher"
 }

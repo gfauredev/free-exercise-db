@@ -1,5 +1,5 @@
 {
-  "name": "Seated Good Mornings",
+  "name": "Seated Good Morning",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,5 +21,5 @@
     "Seated_Good_Mornings/0.jpg",
     "Seated_Good_Mornings/1.jpg"
   ],
-  "id": "seated_good_mornings"
+  "id": "seated_good_morning"
 }

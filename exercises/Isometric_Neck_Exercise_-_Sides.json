@@ -1,5 +1,5 @@
 {
-  "name": "Isometric Neck Exercise - Sides",
+  "name": "Isometric Neck Exercise - Side",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,5 +19,5 @@
     "Isometric_Neck_Exercise_-_Sides/0.jpg",
     "Isometric_Neck_Exercise_-_Sides/1.jpg"
   ],
-  "id": "isometric_neck_exercise_-_sides"
+  "id": "isometric_neck_exercise_side"
 }

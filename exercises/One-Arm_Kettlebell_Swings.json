@@ -1,5 +1,5 @@
 {
-  "name": "One-Arm Kettlebell Swings",
+  "name": "One-Arm Kettlebell Swing",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,5 +19,5 @@
     "One-Arm_Kettlebell_Swings/0.jpg",
     "One-Arm_Kettlebell_Swings/1.jpg"
   ],
-  "id": "one-arm_kettlebell_swings"
+  "id": "one_arm_kettlebell_swing"
 }

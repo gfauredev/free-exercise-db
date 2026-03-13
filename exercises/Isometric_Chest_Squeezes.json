@@ -1,5 +1,5 @@
 {
-  "name": "Isometric Chest Squeezes",
+  "name": "Isometric Chest Squeeze",
   "force": "static",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,5 @@
     "Isometric_Chest_Squeezes/0.jpg",
     "Isometric_Chest_Squeezes/1.jpg"
   ],
-  "id": "isometric_chest_squeezes"
+  "id": "isometric_chest_squeeze"
 }

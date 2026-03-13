@@ -1,5 +1,5 @@
 {
-  "name": "Side To Side Chins",
+  "name": "Side To Side Chin",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -27,5 +27,5 @@
     "Side_To_Side_Chins/0.jpg",
     "Side_To_Side_Chins/1.jpg"
   ],
-  "id": "side_to_side_chins"
+  "id": "side_to_side_chin"
 }

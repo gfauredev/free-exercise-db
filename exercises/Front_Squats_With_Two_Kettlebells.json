@@ -1,5 +1,5 @@
 {
-  "name": "Front Squats With Two Kettlebells",
+  "name": "Front Squat With Two Kettlebells",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,5 +21,5 @@
     "Front_Squats_With_Two_Kettlebells/0.jpg",
     "Front_Squats_With_Two_Kettlebells/1.jpg"
   ],
-  "id": "front_squats_with_two_kettlebells"
+  "id": "front_squat_with_two_kettlebells"
 }

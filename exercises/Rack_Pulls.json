@@ -1,5 +1,5 @@
 {
-  "name": "Rack Pulls",
+  "name": "Rack Pull",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,5 +23,5 @@
     "Rack_Pulls/0.jpg",
     "Rack_Pulls/1.jpg"
   ],
-  "id": "rack_pulls"
+  "id": "rack_pull"
 }

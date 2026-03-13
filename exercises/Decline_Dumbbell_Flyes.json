@@ -1,5 +1,5 @@
 {
-  "name": "Decline Dumbbell Flyes",
+  "name": "Decline Dumbbell Flye",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,5 +20,5 @@
     "Decline_Dumbbell_Flyes/0.jpg",
     "Decline_Dumbbell_Flyes/1.jpg"
   ],
-  "id": "decline_dumbbell_flyes"
+  "id": "decline_dumbbell_flye"
 }

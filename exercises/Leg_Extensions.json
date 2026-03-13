@@ -1,5 +1,5 @@
 {
-  "name": "Leg Extensions",
+  "name": "Leg Extension",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,5 +19,5 @@
     "Leg_Extensions/0.jpg",
     "Leg_Extensions/1.jpg"
   ],
-  "id": "leg_extensions"
+  "id": "leg_extension"
 }

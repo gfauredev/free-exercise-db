@@ -1,5 +1,5 @@
 {
-  "name": "Reverse Flyes With External Rotation",
+  "name": "Reverse Flye With External Rotation",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -22,5 +22,5 @@
     "Reverse_Flyes_With_External_Rotation/0.jpg",
     "Reverse_Flyes_With_External_Rotation/1.jpg"
   ],
-  "id": "reverse_flyes_with_external_rotation"
+  "id": "reverse_flye_with_external_rotation"
 }

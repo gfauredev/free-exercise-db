@@ -1,5 +1,5 @@
 {
-  "name": "Push-Ups - Close Triceps Position",
+  "name": "Push-Up - Close Triceps Position",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,5 +21,5 @@
     "Push-Ups_-_Close_Triceps_Position/0.jpg",
     "Push-Ups_-_Close_Triceps_Position/1.jpg"
   ],
-  "id": "push-ups_-_close_triceps_position"
+  "id": "push_up_close_triceps_position"
 }

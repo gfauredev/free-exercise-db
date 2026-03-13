@@ -1,5 +1,5 @@
 {
-  "name": "Concentration Curls",
+  "name": "Concentration Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,5 @@
     "Concentration_Curls/0.jpg",
     "Concentration_Curls/1.jpg"
   ],
-  "id": "concentration_curls"
+  "id": "concentration_curl"
 }

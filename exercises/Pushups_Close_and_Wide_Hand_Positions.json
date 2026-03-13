@@ -1,5 +1,5 @@
 {
-  "name": "Pushups (Close and Wide Hand Positions)",
+  "name": "Pushup (Close and Wide Hand Positions)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -21,5 +21,5 @@
     "Pushups_Close_and_Wide_Hand_Positions/0.jpg",
     "Pushups_Close_and_Wide_Hand_Positions/1.jpg"
   ],
-  "id": "pushups_close_and_wide_hand_positions"
+  "id": "pushup_close_and_wide_hand_positions"
 }

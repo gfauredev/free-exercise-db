@@ -1,5 +1,5 @@
 {
-  "name": "Hurdle Hops",
+  "name": "Hurdle Hop",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -25,5 +25,5 @@
     "Hurdle_Hops/0.jpg",
     "Hurdle_Hops/1.jpg"
   ],
-  "id": "hurdle_hops"
+  "id": "hurdle_hop"
 }

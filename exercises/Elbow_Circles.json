@@ -1,5 +1,5 @@
 {
-  "name": "Elbow Circles",
+  "name": "Elbow Circle",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,5 +19,5 @@
     "Elbow_Circles/0.jpg",
     "Elbow_Circles/1.jpg"
   ],
-  "id": "elbow_circles"
+  "id": "elbow_circle"
 }

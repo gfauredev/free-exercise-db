@@ -1,5 +1,5 @@
 {
-  "name": "Windmills",
+  "name": "Windmill",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,5 +21,5 @@
     "Windmills/0.jpg",
     "Windmills/1.jpg"
   ],
-  "id": "windmills"
+  "id": "windmill"
 }

@@ -1,11 +1,11 @@
 on:
   push:
     branches: [main]
+    tags: [v*]
   workflow_dispatch:
 
 jobs:
   release:
-    if: github.ref == 'refs/heads/main'
     timeout-minutes: 5
     runs-on: ubuntu-latest
     environment:
@@ -30,6 +30,7 @@ jobs:
         nix develop -c just build
         nix develop -c just build-fr
     - name: Publish Timestamped Pre-Release
+      if: github.ref == 'refs/heads/main'
       run: |
         NOW=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
         gh release create "pre-$(date -u +%Y-%m-%dT%H-%M-%S)" *.json \

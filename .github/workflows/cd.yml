@@ -37,6 +37,7 @@ jobs:
         gh release create "$TAG" *.json --title "$TAG" --notes "Release $TAG"
 
   pages:
+    if: github.ref == 'refs/heads/main'
     timeout-minutes: 5
     runs-on: ubuntu-latest
     environment:

@@ -6,10 +6,20 @@ on:
 
 permissions:
   contents: write
+  id-token: write
 
 jobs:
   release:
+    if: github.ref == 'refs/heads/main'
+    timeout-minutes: 5
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  permissions:
+    pages: write
     steps:
     - uses: actions/checkout@v6
     - uses: cachix/install-nix-action@v31
@@ -19,52 +29,43 @@ jobs:
           extra-substituters = https://cache.garnix.io
           extra-trusted-public-keys = cache.garnix.io:CTFPyKSLcx5RMJKfLo5EEPUObbA78b0YQ2DTCJXqr9g=
     - uses: DeterminateSystems/magic-nix-cache-action@v13
+    - name: Publish Timestamped Pre-Release
+      run: |
+        NOW=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+        gh release create "pre-$(date -u +%Y-%m-%dT%H-%M-%S)" *.json \
+          --prerelease --title "$NOW" --notes "Automated Pre-Release for $NOW"
+    - name: Publish Semantically Versionned Release
+      if: startsWith(github.ref, 'refs/tags/v')
+      run: |
+        TAG=${GITHUB_REF#refs/tags/}
+        gh release create "$TAG" *.json --title "$TAG" --notes "Release $TAG"
     - run: |
         nix develop -c just build
         nix develop -c just build-fr
-    - run: |
-        if [[ $GITHUB_REF == refs/tags/v* ]]; then
-          TAG_NAME="${GITHUB_REF#refs/tags/}"
-          echo "tag_name=$TAG_NAME" >> $GITHUB_OUTPUT
-          echo "prerelease=false" >> $GITHUB_OUTPUT
-          echo "title=$TAG_NAME" >> $GITHUB_OUTPUT
-        else
-          DATE=$(date +'%Y-%m-%d-%H-%M')
-          echo "tag_name=pre-$DATE" >> $GITHUB_OUTPUT
-          echo "prerelease=true" >> $GITHUB_OUTPUT
-          echo "title=$DATE" >> $GITHUB_OUTPUT
-        fi
-      id: prep
-    - uses: softprops/action-gh-release@v2
-      with:
-        tag_name: ${{ steps.prep.outputs.tag_name }}
-        name: ${{ steps.prep.outputs.title }}
-        prerelease: ${{ steps.prep.outputs.prerelease }}
-        files: |
-          exercises.json
-          exercises.*.json
-          i18n.json
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - if: github.ref == 'refs/heads/main'
-      run: | # Cleanup old releases
-        # Get all releases
-        RELEASES=$(gh release list --limit 100 --json tagName,createdAt,isPrerelease)
-        NOW=$(date +%s)
-        TWELVE_HOURS_AGO=$((NOW - 12 * 3600))
-        ONE_WEEK_AGO=$((NOW - 7 * 24 * 3600))
-        echo "$RELEASES" | jq -c '.[] | select(.isPrerelease == true)' | while read -r row; do
-          TAG=$(echo "$row" | jq -r '.tagName')
-          CREATED_AT=$(echo "$row" | jq -r '.createdAt')
-          TS=$(date -d "$CREATED_AT" +%s)
-          # Deleting releases younger than twelve hours OR older than a week
-          if [ "$TS" -gt "$TWELVE_HOURS_AGO" ] || [ "$TS" -lt "$ONE_WEEK_AGO" ]; then
-            # Don't delete the one we just created
-            if [ "$TAG" != "${{ steps.prep.outputs.tag_name }}" ]; then
-              echo "Deleting pre-release $TAG (Created: $CREATED_AT)"
-              gh release delete "$TAG" --yes --cleanup-tag
-            fi
+        mkdir --verbose dist/
+        mv --verbose exercises*.json dist/
+        cp --verbose i18n.json dist/
+    - uses: actions/upload-pages-artifact@v4
+      with: { path: ./dist }
+    - uses: actions/deploy-pages@v4
+      id: deployment
+
+  cleanup:
+    if: github.ref == 'refs/heads/main'
+    timeout-minutes: 5
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+    - run: | # Cleanup rolling releases > 7 days or < 12 hours
+        gh release list --json tagName,createdAt,isPrerelease \
+          --jq '.[]|select(.isPrerelease == true)|"\(.tagName) \(.createdAt)"' \
+        | while read -r OLD_TAG CREATED_AT; do
+          TIMESTAMP=$(date -d "$CREATED_AT" +%s)
+          if [ "$TIMESTAMP" -lt "$(date -d '7 days ago' +%s)" ] || {
+            [ "$TIMESTAMP" -gt "$(date -d '12 hours ago' +%s)" ] &&
+            [ "$TIMESTAMP" -lt "$(date -d '10 minutes ago' +%s)" ]; }; then
+            gh release delete "$OLD_TAG" --yes --cleanup-tag
           fi
         done
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

@@ -1,39 +1,24 @@
-# Default task: List all commands
-default:
+default: # List all commands
 	@just --list
-
-# Lint all exercises against the schema
-lint:
+lint: # Lint all exercises against the schema
 	check-jsonschema --schemafile schema.json exercises/*.json
-
-# Check for duplicate IDs
-check:
+check: # Check for duplicate IDs
 	./scripts/db_manager.py check
-
-# Format all JSON files
-format:
+format: # Format all JSON files
 	jsonfmt --write exercises/*.json translations/**/*.json
-
-# Build the combined exercises.json (English)
-build:
+build: # Build the combined exercises.json (English)
 	./scripts/db_manager.py build --output exercises.json
-
-# Build the combined exercises.nd.json (NDJSON)
-build-ndjson:
+build-ndjson: # Build the combined exercises.nd.json (NDJSON)
 	./scripts/db_manager.py build --format ndjson --output exercises.nd.json
-
-# Build the French translations for exercises.json’s names and instructions
-build-fr:
+build-fr: # Build exercises.json’s names and instructions French translations
 	./scripts/db_manager.py build --lang fr --output exercises.fr.json
-
-# Export to CSV (requires exercises.json to be built)
-export-csv: build
+export-csv: build # Export to CSV (requires exercises.json to be built)
 	in2csv exercises.json > exercises.csv
-
-# Change an exercise ID (usage: just rename old_id new_id)
-reid old_id new_id:
+reid old_id new_id: # Change an exercise ID (usage: just rename old_id new_id)
 	./scripts/db_manager.py rename {{old_id}} {{new_id}}
-
-# Clean up build artifacts
-clean:
-	rm -f exercises.json exercises.nd.json exercises.fr.json exercises.csv
+clean: # Clean up build artifacts
+	rm --recursive --verbose exercises.json exercises*.json exercises.csv dist/
+dist: build build-fr # Package artifacts
+	mkdir --verbose dist/
+	mv --verbose exercises*.json dist/
+	cp --verbose i18n.json dist/

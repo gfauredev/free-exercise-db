@@ -1,7 +1,6 @@
 on:
   push:
     branches: [main]
-    tags: ['v*']
   workflow_dispatch:
 
 permissions:
@@ -29,6 +28,9 @@ jobs:
           extra-substituters = https://cache.garnix.io
           extra-trusted-public-keys = cache.garnix.io:CTFPyKSLcx5RMJKfLo5EEPUObbA78b0YQ2DTCJXqr9g=
     - uses: DeterminateSystems/magic-nix-cache-action@v13
+    - run: |
+        nix develop -c just build
+        nix develop -c just build-fr
     - name: Publish Timestamped Pre-Release
       run: |
         NOW=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
@@ -40,8 +42,6 @@ jobs:
         TAG=${GITHUB_REF#refs/tags/}
         gh release create "$TAG" *.json --title "$TAG" --notes "Release $TAG"
     - run: |
-        nix develop -c just build
-        nix develop -c just build-fr
         mkdir --verbose dist/
         mv --verbose exercises*.json dist/
         cp --verbose i18n.json dist/

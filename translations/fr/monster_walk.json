@@ -1,0 +1,9 @@
+{
+  "id": "monster_walk",
+  "name": "Marche du monstre",
+  "instructions": [
+    "Placez un élastique autour des deux chevilles et un autre autour des deux genoux. La tension doit être suffisante pour qu'ils soient serrés quand les pieds sont à la largeur des épaules.",
+    "Commencez par faire de petits pas vers l'avant en alternant pied gauche et pied droit.",
+    "Après plusieurs pas, faites exactement l'inverse en marchant vers l'arrière jusqu'au point de départ."
+  ]
+}

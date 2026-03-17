@@ -1,0 +1,10 @@
+{
+  "id": "linear_acceleration_wall_drill",
+  "name": "Exercice d'accélération linéaire au mur",
+  "instructions": [
+    "Appuyez-vous contre un mur à environ 45 degrés. Les pieds doivent être joints, fessiers contractés.",
+    "Commencez par lever rapidement le genou droit, marquez une pause, puis frappez le sol directement vers le bas.",
+    "Changez de jambe, levez le genou opposé, puis frappez le sol directement vers le bas.",
+    "Répétez une fois de plus avec la jambe droite, et dès que le pied droit touche le sol, enchaînez rapidement en alternant gauche et droite aussi vite que possible."
+  ]
+}

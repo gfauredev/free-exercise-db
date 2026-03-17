@@ -1,0 +1,11 @@
+{
+  "id": "one_arm_dumbbell_preacher_curl",
+  "name": "Curl pupitre unilatéral à l'haltère",
+  "instructions": [
+    "Saisissez un haltère de la main droite et posez le bras sur le pupitre ou banc incliné. L'haltère doit être à hauteur des épaules. Ce sera votre position de départ.",
+    "En inspirant, descendez lentement l'haltère jusqu'à ce que le bras soit tendu et le biceps complètement étiré.",
+    "En expirant, utilisez les biceps pour remonter l'haltère jusqu'à contraction complète et retour à hauteur des épaules. N'oubliez pas de faire monter l'auriculaire plus haut que le pouce pour assurer une contraction complète.",
+    "Contractez fort les biceps en position haute pendant une seconde et répétez pour le nombre de répétitions recommandé.",
+    "Changez de bras et répétez."
+  ]
+}

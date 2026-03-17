@@ -1,0 +1,10 @@
+{
+  "id": "battling_rope",
+  "name": "Corde de combat",
+  "instructions": [
+    "Pour cet exercice, vous aurez besoin d'une corde lourde ancrée en son centre à 4,5 m à 6 m de distance. Debout face à la corde, prenez une extrémité dans chaque main avec les bras tendus sur les côtés. Ce sera votre position de départ.",
+    "Initiez le mouvement en levant rapidement un bras au niveau de l'épaule aussi vite que possible.",
+    "Lorsque ce bras redescend à la position de départ, levez le bras opposé.",
+    "Continuez à alterner les bras gauche et droit, en faisant claquer les cordes de haut en bas aussi vite que possible."
+  ]
+}

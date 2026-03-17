@@ -1,0 +1,10 @@
+{
+  "id": "chair_leg_extended_stretch",
+  "name": "Étirement de Jambe Étendue sur Chaise",
+  "instructions": [
+    "Asseyez-vous droit sur une chaise et saisissez les côtés du siège.",
+    "Levez une jambe en étendant le genou et en fléchissant la cheville.",
+    "Déplacez lentement cette jambe vers l'extérieur aussi loin que possible, puis ramenez-la au centre et abaissez-la.",
+    "Répétez pour l'autre jambe."
+  ]
+}

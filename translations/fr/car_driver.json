@@ -1,0 +1,10 @@
+{
+  "id": "car_driver",
+  "name": "Volant",
+  "instructions": [
+    "En position debout, tenez un disque de barre avec les deux mains aux positions 3 h et 9 h. Les paumes doivent se faire face et les bras étendus droit devant vous. Ce sera votre position de départ.",
+    "Initiez le mouvement en faisant pivoter le disque aussi loin que possible d'un côté. Utilisez le même type de mouvement que pour tourner un volant d'un côté.",
+    "Inversez le mouvement en le tournant entièrement du côté opposé.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "one_arm_dumbbell_row",
+  "name": "Tirage unilatéral à l'haltère",
+  "instructions": [
+    "Choisissez un banc plat et placez un haltère de chaque côté.",
+    "Posez le genou droit sur l'extrémité du banc, penchez le torse vers l'avant jusqu'à ce que le haut du corps soit parallèle au sol, posez la main droite sur l'autre extrémité du banc pour le soutien.",
+    "Saisissez l'haltère au sol de la main gauche, paume vers le torse. Ce sera votre position de départ.",
+    "Tirez l'haltère directement vers le côté de la poitrine, coude proche du corps, torse immobile. Expirez lors de cette phase. Conseil : concentrez-vous sur la contraction des muscles du dos, pas des bras.",
+    "Redescendez l'haltère en inspirant.",
+    "Répétez pour le nombre de répétitions indiqué.",
+    "Changez de côté et répétez avec l'autre bras."
+  ]
+}

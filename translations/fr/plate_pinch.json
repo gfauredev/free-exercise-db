@@ -1,0 +1,11 @@
+{
+  "id": "plate_pinch",
+  "name": "Pincement de disque",
+  "instructions": [
+    "Saisissez deux disques à bord large et placez-les faces lisses vers l'extérieur.",
+    "Utilisez les doigts pour saisir l'extérieur du disque et le pouce pour l'autre côté, maintenant ainsi les deux disques ensemble. Ce sera votre position de départ.",
+    "Serrez le disque avec les doigts et le pouce. Maintenez cette position le plus longtemps possible.",
+    "Répétez pour le nombre de séries prescrit.",
+    "Changez de bras et répétez."
+  ]
+}

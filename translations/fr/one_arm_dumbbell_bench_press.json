@@ -1,0 +1,13 @@
+{
+  "id": "one_arm_dumbbell_bench_press",
+  "name": "Développé couché unilatéral à l'haltère",
+  "instructions": [
+    "Allongez-vous sur un banc plat avec un haltère sur une cuisse.",
+    "Utilisez la cuisse pour vous aider à monter l'haltère à la hauteur des épaules. Utilisez l'autre main pour aider à positionner l'haltère.",
+    "À hauteur des épaules, faites pivoter le poignet de façon à ce que la paume soit vers l'avant. Ce sera votre position de départ.",
+    "Descendez lentement l'haltère sur le côté en inspirant. Gardez un contrôle total. Conseil : utilisez la main libre pour aider si nécessaire au début.",
+    "En expirant, poussez l'haltère vers le haut avec les pectoraux. Verrouillez les bras, contractez la poitrine, maintenez une seconde. Conseil : la descente doit durer au moins deux fois plus longtemps que la montée.",
+    "Répétez pour le nombre de répétitions prescrit.",
+    "Changez de bras et répétez."
+  ]
+}

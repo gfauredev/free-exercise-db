@@ -1,0 +1,14 @@
+{
+  "id": "standing_cable_wood_chop",
+  "name": "Bûcheron au câble debout",
+  "instructions": [
+    "Fixez une poignée standard sur la tour et positionnez le câble en position haute.",
+    "Côté vers la tour, saisissez la poignée d'une main et éloignez-vous. Bras tendu aligné avec le câble, pieds à largeur d'épaules.",
+    "Levez l'autre main et saisissez la poignée des deux mains, bras tendus.",
+    "En un mouvement, tirez la poignée vers le bas et en travers du corps vers le genou avant en faisant pivoter le torse.",
+    "Dos et bras droits, gainage solide, pivotez le pied arrière et fléchissez les genoux.",
+    "Revenez lentement à la position neutre.",
+    "Répétez jusqu'à l'échec.",
+    "Repositionnez-vous et répétez de l'autre côté."
+  ]
+}

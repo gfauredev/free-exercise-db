@@ -1,0 +1,9 @@
+{
+  "id": "single_dumbbell_raise",
+  "name": "Élévation à un haltère",
+  "instructions": [
+    "Stance large, tenez un haltère à deux mains en saisissant la tête de l'haltère plutôt que la poignée. Les bras tendus et pendant à la taille. Ce sera votre position de départ.",
+    "Levez le poids jusqu'au-dessus du niveau des épaules, bras tendus. Le torse et les hanches doivent rester immobiles.",
+    "Revenez à la position de départ et répétez pour le nombre de répétitions recommandé."
+  ]
+}

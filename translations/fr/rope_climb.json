@@ -1,0 +1,11 @@
+{
+  "id": "rope_climb",
+  "name": "Grimper à la corde",
+  "instructions": [
+    "Saisissez la corde à deux mains au-dessus de la tête. Tirez sur la corde en faisant un petit saut.",
+    "Enroulez la corde autour d'une jambe, utilisant les pieds pour pincer la corde. Atteignez aussi haut que possible avec les bras, en serrant fermement la corde.",
+    "Relâchez la corde des pieds en vous tirant avec les bras, ramenant les genoux vers la poitrine.",
+    "Resécurisez les pieds sur la corde, puis levez-vous pour prendre une nouvelle prise haute. Continuez jusqu'en haut.",
+    "Pour descendre, desserrez la prise des pieds sur la corde en glissant vers le bas d'un mouvement de main sur main."
+  ]
+}

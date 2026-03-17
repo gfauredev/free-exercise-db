@@ -1,0 +1,10 @@
+{
+  "id": "stride_jump_crossover",
+  "name": "Saut foulée croisée",
+  "instructions": [
+    "Commencez en position athlétique.",
+    "Sautez lateralement en croisant les jambes pour traverser la ligne.",
+    "Atterrissez sur les deux jambes en absorbant l'impact.",
+    "Répétez de l'autre côté pour le nombre de répétitions recommandé."
+  ]
+}

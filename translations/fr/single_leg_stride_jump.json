@@ -1,0 +1,9 @@
+{
+  "id": "single_leg_stride_jump",
+  "name": "Saut foulé une jambe",
+  "instructions": [
+    "Tenez-vous sur le côté d'une box avec le pied intérieur dessus, près du bord.",
+    "Balancez les bras vers le haut en poussant sur la jambe du dessus, sautant aussi haut que possible. Essayez de monter le genou opposé.",
+    "Atterrissez dans la même position de départ, utilisant la jambe intérieure pour décélérer l'impact."
+  ]
+}

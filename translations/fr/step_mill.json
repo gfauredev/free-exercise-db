@@ -1,0 +1,10 @@
+{
+  "id": "step_mill",
+  "name": "Escalier mécanique",
+  "instructions": [
+    "Montez sur le stepmill et sélectionnez la vitesse et le programme désirés.",
+    "Maintenez une bonne posture en montant les marches, ne vous appuyez pas sur les rambardes.",
+    "Continuez pour la durée ou la distance désirée.",
+    "Descendez en toute sécurité à la fin de la séance."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "wrist_rotations_with_straight_bar",
+  "name": "Rotations de poignets avec barre droite",
+  "instructions": [
+    "Tenez une barre à deux mains, paumes vers le bas, mains à largeur d'épaules. C'est votre position de départ.",
+    "En alternant les mains, effectuez le mouvement en étendant le poignet comme si vous rouliez un journal. Continuez à alterner jusqu'à l'échec.",
+    "Inversez le mouvement en fléchissant le poignet, dans la direction opposée. Continuez à alterner jusqu'à l'échec."
+  ]
+}

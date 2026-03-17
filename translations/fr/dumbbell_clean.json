@@ -1,0 +1,11 @@
+{
+  "id": "dumbbell_clean",
+  "name": "Épaulé aux Haltères",
+  "instructions": [
+    "Commencez debout avec un haltère dans chaque main, pieds écartés à la largeur des épaules.",
+    "Abaissez les haltères au sol en fléchissant les hanches et les genoux, en reculant les fesses jusqu'à ce que les haltères touchent le sol. Ceci est votre position de départ.",
+    "Pour amorcer le mouvement, sautez violemment vers le haut en étendant les hanches, les genoux et les chevilles pour accélérer les haltères vers le haut. En prise neutre, gardez les bras tendus jusqu'à l'extension complète.",
+    "Après l'extension complète, refléchissez les hanches et les genoux pour recevoir la charge en position de squat. Laissez les bras se fléchir en guidant les haltères vers les épaules.",
+    "En position de squat avec la charge, étendez les hanches et les genoux pour terminer en position debout, haltères aux épaules."
+  ]
+}

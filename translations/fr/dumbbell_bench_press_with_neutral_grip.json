@@ -1,0 +1,10 @@
+{
+  "id": "dumbbell_bench_press_with_neutral_grip",
+  "name": "Développé Couché aux Haltères en Prise Neutre",
+  "instructions": [
+    "Prenez un haltère dans chaque main et allongez-vous sur un banc plat. Les pieds doivent être à plat sur le sol et les omoplates rétractées.",
+    "En prise neutre, paumes se faisant face, commencez avec les bras tendus directement au-dessus de vous, perpendiculaires au sol. Ceci est votre position de départ.",
+    "Amorcez le mouvement en fléchissant les coudes, en abaissant les bras vers les côtés. Descendez jusqu'à ce que les haltères soient à hauteur du torse.",
+    "Faites une pause, puis étendez les coudes et revenez à la position de départ."
+  ]
+}

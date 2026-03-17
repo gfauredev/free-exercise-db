@@ -1,0 +1,10 @@
+{
+  "id": "dumbbell_bicep_curl",
+  "name": "Curl Biceps aux Haltères",
+  "instructions": [
+    "Debout, bras tendus le long du corps, un haltère dans chaque main. Gardez les coudes près du torse et faites pivoter les paumes vers l'avant. Ceci est votre position de départ.",
+    "En maintenant les bras fixes, expirez et montez les haltères en contractant les biceps. Continuez à soulever jusqu'à contraction complète des biceps, les haltères à hauteur d'épaule. Maintenez la position contractée une brève seconde en serrant les biceps.",
+    "Inspirez et redescendez lentement les haltères à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
+}

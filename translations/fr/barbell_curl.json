@@ -1,0 +1,11 @@
+{
+  "id": "barbell_curl",
+  "name": "Curl à la barre",
+  "instructions": [
+    "Tenez-vous droit en tenant une barre avec une prise à largeur d'épaules. La paume de vos mains doit être orientée vers l'avant et les coudes doivent être proches du torse. Ce sera votre position de départ.",
+    "En gardant les bras supérieurs immobiles, fléchissez les poids vers l'avant en contractant les biceps en expirant. Conseil : seuls les avant-bras doivent bouger.",
+    "Continuez le mouvement jusqu'à ce que vos biceps soient complètement contractés et que la barre soit au niveau des épaules. Maintenez la position contractée pendant une seconde et serrez fortement les biceps.",
+    "Ramenez lentement la barre à la position de départ en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
+}

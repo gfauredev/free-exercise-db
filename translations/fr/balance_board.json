@@ -1,0 +1,9 @@
+{
+  "id": "balance_board",
+  "name": "Plateau d'équilibre",
+  "instructions": [
+    "Placez un plateau d'équilibre devant vous.",
+    "Montez dessus et essayez de vous équilibrer.",
+    "Maintenez l'équilibre aussi longtemps que désiré."
+  ]
+}

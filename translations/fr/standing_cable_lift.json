@@ -1,0 +1,14 @@
+{
+  "id": "standing_cable_lift",
+  "name": "Élévation diagonale au câble debout",
+  "instructions": [
+    "Fixez une poignée standard sur la tour et positionnez le câble en position basse.",
+    "Côté vers la tour, saisissez la poignée d'une main et éloignez-vous. Bras tendu aligné avec le câble, pieds à largeur d'épaules.",
+    "Accroupissez-vous légèrement et saisissez la poignée des deux mains, bras tendus.",
+    "En un mouvement, tirez la poignée vers le haut et en travers du corps jusqu'à ce que les bras soient tendus au-dessus de la tête.",
+    "Dos droit, bras proches du corps, pivotez le pied arrière et tendez les jambes pour une amplitude complète.",
+    "Revenez lentement à la position neutre.",
+    "Répétez jusqu'à l'échec.",
+    "Repositionnez-vous et répétez de l'autre côté."
+  ]
+}

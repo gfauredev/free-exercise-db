@@ -1,0 +1,11 @@
+{
+  "id": "smith_machine_bench_press",
+  "name": "Développé couché à la machine Smith",
+  "instructions": [
+    "Placez un banc plat sous la machine Smith. Allongez-vous, saisissez la barre en prise pronée plus large que la largeur d'épaules, déverrouillez et tendez les bras. C'est votre position de départ.",
+    "En inspirant, descendez lentement jusqu'à ce que la barre touche le milieu de la poitrine.",
+    "Après une seconde de pause, remontez la barre en expirant en contractant les pectoraux. Verrouillez les bras, maintenez une seconde, puis redescendez lentement.",
+    "Répétez pour le nombre de répétitions prescrit.",
+    "Raccrochez la barre sur le rack à la fin."
+  ]
+}

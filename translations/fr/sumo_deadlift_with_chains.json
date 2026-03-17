@@ -1,0 +1,10 @@
+{
+  "id": "sumo_deadlift_with_chains",
+  "name": "Soulevé de terre sumo avec chaînes",
+  "instructions": [
+    "Installez des chaînes sur la barre et adoptez une stance sumo très large.",
+    "Penchez-vous à la hanche pour saisir la barre avec les mains à l'intérieur des jambes.",
+    "Soulevez la barre en poussant sur le sol jusqu'à extension complète. Les chaînes augmentent la résistance à mesure que vous montez.",
+    "Redescendez de façon contrôlée et répétez."
+  ]
+}

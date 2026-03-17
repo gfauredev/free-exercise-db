@@ -1,0 +1,9 @@
+{
+  "id": "rocket_jump",
+  "name": "Saut fusée",
+  "instructions": [
+    "Commencez en position détendue, pieds à la largeur des épaules, bras le long du corps.",
+    "Pour initier le mouvement, accroupissez-vous à mi-chemin et rebondissez aussi haut que possible.",
+    "Étendez complètement tout le corps en atteignant aussi haut que possible vers le plafond. À l'atterrissage, amortissez l'impact avec les jambes."
+  ]
+}

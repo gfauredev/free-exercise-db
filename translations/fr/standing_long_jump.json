@@ -1,0 +1,9 @@
+{
+  "id": "standing_long_jump",
+  "name": "Saut en longueur debout",
+  "instructions": [
+    "Tenez-vous debout, pieds à la largeur des hanches, légèrement fléchis aux genoux. Ce sera votre position de départ.",
+    "Balancez les bras vers l'arrière puis vers l'avant en explosant vers l'avant et vers le haut.",
+    "Atterrissez sur les deux pieds, genoux fléchis pour absorber l'impact."
+  ]
+}

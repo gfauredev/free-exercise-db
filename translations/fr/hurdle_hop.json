@@ -1,0 +1,10 @@
+{
+  "id": "hurdle_hop",
+  "name": "Saut de haies",
+  "instructions": [
+    "Disposez une rangée de haies ou de petites barrières à quelques pas d'intervalle.",
+    "Debout devant la première haie, pieds à la largeur des épaules. Ce sera votre position de départ.",
+    "Sautez par-dessus la première haie avec les deux pieds en balançant les deux bras.",
+    "Amortissez l'impact en fléchissant les genoux, puis rebondissez pour sauter par-dessus la haie suivante. Continuez jusqu'à avoir sauté par-dessus toutes les haies."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "dumbbell_seated_box_jump",
+  "name": "Saut sur Boîte Assis aux Haltères",
+  "instructions": [
+    "Positionnez une boîte à quelques pas d'un banc. Tenez un haltère contre la poitrine avec les deux mains et asseyez-vous sur le banc face à la boîte. Ceci est votre position de départ.",
+    "Plantez fermement les pieds au sol, penchez-vous légèrement en avant et étendez les hanches et les genoux pour sauter vers le haut et l'avant.",
+    "Atterrissez sur la boîte avec les deux pieds en amortissant l'impact en fléchissant les hanches et les genoux.",
+    "Descendez de la boîte et revenez à la position de départ."
+  ]
+}

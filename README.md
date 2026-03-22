@@ -109,7 +109,6 @@ See also
 ### TODO
 
 - Add image(s) to exercises missing them
-  - australian_pull_up.json
   - pistol_squat.json
   - road_running.json
   - standing_calf_raise.json

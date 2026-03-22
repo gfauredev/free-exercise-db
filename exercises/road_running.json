@@ -20,8 +20,7 @@
   ],
   "category": "cardio",
   "images": [
-    "road_running/0.jpg",
-    "road_running/1.jpg"
+    "road_running.png"
   ],
   "id": "road_running"
 }

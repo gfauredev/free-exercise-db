@@ -106,6 +106,10 @@ just build-ndjson
 See also
 [Importing JSON into PostgreSQL using COPY](https://konbert.com/blog/import-json-into-postgres-using-copy)
 
+## TODO
+
+- Publish images in GitHub Pages via CD as per the JSON, use Git LFS
+
 [Alternate Incline Dumbbell Curl JSON file]: ./exercises/alternate_incline_dumbbell_curl.json
 [air_bike/0.jpg]: https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/exercises/air_bike/0.jpg
 [cypress]: https://www.cypress.io

@@ -108,7 +108,18 @@ See also
 
 ## TODO
 
-- Publish images in GitHub Pages via CD as per the JSON, use Git LFS
+- Allow to know if non-static cardio exercises uses reps, distance or both
+  - `force: continuous` ?
+- Host the full repository (all the files) on GitHub Pages (allow using Git LFS)
+  - Schema: `schema.json`
+  - Combined JSON DB: `exercises.json`
+  - Internationalized combined JSON DBs: `exercises.$lang.json`
+  - Internationalized enum values: `i18n.json`
+  - Individual JSON exercises: `exercises/$exercise.json`
+  - Individual internationalized exercises: `translations/$lang/$exercise.json`
+  - Exercise image(s): `images/$exercise/*.avif`
+- Move images to a separate directory `images/`
+- Create a simple `index.html` explaining what’s this and how to use it
 
 [Alternate Incline Dumbbell Curl JSON file]: ./exercises/alternate_incline_dumbbell_curl.json
 [air_bike/0.jpg]: https://raw.githubusercontent.com/gfauredev/free-exercise-db/main/exercises/air_bike/0.jpg

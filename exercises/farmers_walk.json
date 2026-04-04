@@ -1,6 +1,6 @@
 {
   "name": "Farmer's Walk",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",

@@ -1,6 +1,6 @@
 {
   "name": "Backward Drag",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

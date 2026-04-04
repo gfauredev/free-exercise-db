@@ -1,6 +1,6 @@
 {
   "name": "Upper Back-Leg Grab",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

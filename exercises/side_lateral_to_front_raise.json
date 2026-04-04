@@ -1,6 +1,6 @@
 {
   "name": "Side Lateral to Front Raise",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",

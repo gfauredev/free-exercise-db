@@ -1,6 +1,6 @@
 {
   "name": "Standing Hip Flexor",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

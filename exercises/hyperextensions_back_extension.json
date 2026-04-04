@@ -1,6 +1,6 @@
 {
   "name": "Hyperextension (Back Extension)",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",

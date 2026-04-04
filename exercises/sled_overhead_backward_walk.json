@@ -1,6 +1,6 @@
 {
   "name": "Sled Overhead Backward Walk",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

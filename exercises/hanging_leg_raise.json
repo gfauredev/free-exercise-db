@@ -1,6 +1,6 @@
 {
   "name": "Hanging Leg Raise",
-  "force": "pull",
+  "movement": "pull",
   "level": "expert",
   "mechanic": "isolation",
   "primaryMuscles": [

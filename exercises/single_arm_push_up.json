@@ -1,6 +1,6 @@
 {
   "name": "Single-Arm Push-Up",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "primaryMuscles": [

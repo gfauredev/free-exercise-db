@@ -1,6 +1,6 @@
 {
   "name": "Stiff Leg Barbell Good Morning",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",

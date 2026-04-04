@@ -1,6 +1,6 @@
 {
   "name": "Squat Jerk",
-  "force": "push",
+  "movement": "push",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",

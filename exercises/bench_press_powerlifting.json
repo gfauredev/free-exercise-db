@@ -1,6 +1,6 @@
 {
   "name": "Bench Press Powerlifting",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

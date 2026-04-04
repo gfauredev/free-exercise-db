@@ -1,6 +1,6 @@
 {
   "name": "Snatch from Blocks",
-  "force": "pull",
+  "movement": "pull",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",

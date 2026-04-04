@@ -1,6 +1,6 @@
 {
   "name": "Front Raise and Pullover",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",

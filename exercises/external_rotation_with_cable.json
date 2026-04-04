@@ -1,6 +1,6 @@
 {
   "name": "External Rotation with Cable",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",

@@ -1,6 +1,6 @@
 {
   "name": "Chest Push (single response)",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "medicine ball",

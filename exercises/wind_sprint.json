@@ -1,6 +1,6 @@
 {
   "name": "Wind Sprint",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

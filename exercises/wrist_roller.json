@@ -1,6 +1,6 @@
 {
   "name": "Wrist Roller",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",

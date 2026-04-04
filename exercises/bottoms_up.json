@@ -1,6 +1,6 @@
 {
   "name": "Bottoms Up",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

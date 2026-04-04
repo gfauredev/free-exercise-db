@@ -1,6 +1,6 @@
 {
   "name": "EZ-Bar Skullcrusher",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "e-z curl bar",

@@ -1,6 +1,6 @@
 {
   "name": "Smith Machine One-Arm Upright Row",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",

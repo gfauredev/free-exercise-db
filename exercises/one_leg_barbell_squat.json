@@ -1,6 +1,6 @@
 {
   "name": "One Leg Barbell Squat",
-  "force": "push",
+  "movement": "push",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",

@@ -1,6 +1,6 @@
 {
   "name": "Pushup (Close and Wide Hand Positions)",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

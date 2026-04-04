@@ -1,6 +1,6 @@
 {
   "name": "Decline Reverse Crunch",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

@@ -1,6 +1,6 @@
 {
   "name": "Incline Push-Up Depth Jump",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

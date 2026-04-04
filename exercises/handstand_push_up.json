@@ -1,6 +1,6 @@
 {
   "name": "Handstand Push-Up",
-  "force": "push",
+  "movement": "push",
   "level": "expert",
   "mechanic": "compound",
   "primaryMuscles": [

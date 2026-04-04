@@ -1,6 +1,6 @@
 {
   "name": "Reverse Grip Bent-Over Row",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

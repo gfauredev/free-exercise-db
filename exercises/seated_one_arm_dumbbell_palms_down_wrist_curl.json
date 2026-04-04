@@ -1,6 +1,6 @@
 {
   "name": "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "dumbbell",

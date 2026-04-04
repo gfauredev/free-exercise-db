@@ -1,6 +1,6 @@
 {
   "name": "Rocket Jump",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

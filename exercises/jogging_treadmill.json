@@ -1,6 +1,6 @@
 {
   "name": "Treadmill Jogging",
-  "force": "push",
+  "movement": "continuous",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",

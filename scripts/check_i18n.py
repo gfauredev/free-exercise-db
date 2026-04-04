@@ -17,7 +17,7 @@ def check_enum_translations():
         i18n = json.load(f)
 
     enums = {
-        "force": schema["properties"]["force"]["enum"],
+        "movement": schema["properties"]["movement"]["enum"],
         "level": schema["properties"]["level"]["enum"],
         "mechanic": schema["properties"]["mechanic"]["enum"],
         "equipment": schema["properties"]["equipment"]["enum"],

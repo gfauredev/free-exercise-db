@@ -1,6 +1,6 @@
 {
   "name": "Smith Machine Incline Bench Press",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",

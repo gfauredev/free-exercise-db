@@ -1,6 +1,6 @@
 {
   "name": "Standing Dumbbell Upright Row",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",

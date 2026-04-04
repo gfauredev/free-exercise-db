@@ -1,6 +1,6 @@
 {
   "name": "Bent-Arm Dumbbell Pullover",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "dumbbell",

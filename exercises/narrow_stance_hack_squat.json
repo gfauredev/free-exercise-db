@@ -1,6 +1,6 @@
 {
   "name": "Narrow Stance Hack Squat",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "machine",

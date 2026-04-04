@@ -1,6 +1,6 @@
 {
   "name": "Mixed Grip Chin",
-  "force": "pull",
+  "movement": "pull",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "other",

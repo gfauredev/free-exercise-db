@@ -1,6 +1,6 @@
 {
   "name": "Band Skull Crusher",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "bands",

@@ -1,6 +1,6 @@
 {
   "name": "Standing Barbell Calf Raise",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",

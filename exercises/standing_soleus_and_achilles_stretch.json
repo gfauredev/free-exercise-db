@@ -1,6 +1,6 @@
 {
   "name": "Standing Soleus and Achilles Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

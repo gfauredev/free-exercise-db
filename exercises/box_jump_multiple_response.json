@@ -1,6 +1,6 @@
 {
   "name": "Box Jump (Multiple Response)",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

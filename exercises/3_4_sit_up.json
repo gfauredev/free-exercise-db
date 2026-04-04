@@ -1,6 +1,6 @@
 {
   "name": "3/4 Sit-Up",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

@@ -1,6 +1,6 @@
 {
   "name": "Dumbbell Incline Row",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",

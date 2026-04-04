@@ -1,6 +1,6 @@
 {
   "name": "Upright Row with Bands",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "bands",

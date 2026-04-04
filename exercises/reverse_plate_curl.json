@@ -1,6 +1,6 @@
 {
   "name": "Reverse Plate Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",

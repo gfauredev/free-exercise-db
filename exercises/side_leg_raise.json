@@ -1,6 +1,6 @@
 {
   "name": "Side Leg Raise",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

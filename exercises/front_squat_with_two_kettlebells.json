@@ -1,6 +1,6 @@
 {
   "name": "Front Squat with Two Kettlebells",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",

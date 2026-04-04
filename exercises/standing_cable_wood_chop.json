@@ -1,6 +1,6 @@
 {
   "name": "Standing Cable Wood Chop",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",

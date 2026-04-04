@@ -1,6 +1,6 @@
 {
   "name": "Narrow Stance Leg Press",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "machine",

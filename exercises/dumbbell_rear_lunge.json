@@ -1,6 +1,6 @@
 {
   "name": "Dumbbell Rear Lunge",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "dumbbell",

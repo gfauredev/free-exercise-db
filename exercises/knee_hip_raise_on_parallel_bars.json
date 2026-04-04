@@ -1,6 +1,6 @@
 {
   "name": "Knee and Hip Raise on Parallel Bars",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",

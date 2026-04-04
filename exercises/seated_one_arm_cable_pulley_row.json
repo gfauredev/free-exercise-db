@@ -1,6 +1,6 @@
 {
   "name": "Seated One-Arm Cable Pulley Row",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "cable",

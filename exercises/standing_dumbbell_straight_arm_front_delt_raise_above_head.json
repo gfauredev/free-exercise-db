@@ -1,6 +1,6 @@
 {
   "name": "Standing Dumbbell Straight-Arm Front Delt Raise Above Head",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "dumbbell",

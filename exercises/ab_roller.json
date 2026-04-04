@@ -1,6 +1,6 @@
 {
   "name": "Ab Roller",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",

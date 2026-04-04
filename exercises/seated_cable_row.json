@@ -1,6 +1,6 @@
 {
   "name": "Seated Cable Row",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",

@@ -1,6 +1,6 @@
 {
   "name": "Standing Long Jump",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

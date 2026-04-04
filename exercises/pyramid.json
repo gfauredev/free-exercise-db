@@ -1,6 +1,6 @@
 {
   "name": "Pyramid",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "exercise ball",

@@ -1,6 +1,6 @@
 {
   "name": "Rack Pull with Bands",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

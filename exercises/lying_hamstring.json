@@ -1,6 +1,6 @@
 {
   "name": "Lying Hamstring",
-  "force": "static",
+  "movement": "isometric",
   "level": "expert",
   "mechanic": "isolation",
   "equipment": "other",

@@ -1,6 +1,6 @@
 {
   "name": "Hug a Ball",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "exercise ball",

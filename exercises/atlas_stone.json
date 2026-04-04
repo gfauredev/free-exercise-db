@@ -1,6 +1,6 @@
 {
   "name": "Atlas Stone",
-  "force": "pull",
+  "movement": "pull",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "other",

@@ -1,6 +1,6 @@
 {
   "name": "Rope Straight-Arm Pulldown",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",

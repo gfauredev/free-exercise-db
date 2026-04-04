@@ -1,6 +1,6 @@
 {
   "name": "Push-Up Close Triceps Position",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "primaryMuscles": [

@@ -1,6 +1,6 @@
 {
   "name": "Vertical Swing",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",

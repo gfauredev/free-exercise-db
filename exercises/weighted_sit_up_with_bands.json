@@ -1,6 +1,6 @@
 {
   "name": "Weighted Sit-Up with Bands",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "other",

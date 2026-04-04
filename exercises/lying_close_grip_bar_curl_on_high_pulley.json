@@ -1,6 +1,6 @@
 {
   "name": "Lying Close-Grip Bar Curl on High Pulley",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",

@@ -1,6 +1,6 @@
 {
   "name": "Reverse Barbell Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",

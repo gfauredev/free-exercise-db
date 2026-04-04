@@ -1,6 +1,6 @@
 {
   "name": "Band Good Morning",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "bands",

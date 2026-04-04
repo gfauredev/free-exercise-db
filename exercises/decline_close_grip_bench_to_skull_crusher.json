@@ -1,6 +1,6 @@
 {
   "name": "Decline Close-Grip Bench to Skull Crusher",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

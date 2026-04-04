@@ -1,6 +1,6 @@
 {
   "name": "Clean Deadlift",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",

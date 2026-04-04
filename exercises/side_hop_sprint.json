@@ -1,6 +1,6 @@
 {
   "name": "Side Hop-Sprint",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

@@ -1,6 +1,6 @@
 {
   "name": "Side to Side Box Shuffle",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

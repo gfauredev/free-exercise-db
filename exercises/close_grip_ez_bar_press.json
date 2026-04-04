@@ -1,6 +1,6 @@
 {
   "name": "Close-Grip EZ-Bar Press",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "e-z curl bar",

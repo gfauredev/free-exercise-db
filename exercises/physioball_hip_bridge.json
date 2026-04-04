@@ -1,6 +1,6 @@
 {
   "name": "Physioball Hip Bridge",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "exercise ball",

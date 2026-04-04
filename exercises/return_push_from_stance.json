@@ -1,6 +1,6 @@
 {
   "name": "Return Push from Stance",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "medicine ball",

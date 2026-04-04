@@ -1,6 +1,6 @@
 {
   "name": "EZ-Bar Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "e-z curl bar",

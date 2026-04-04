@@ -1,6 +1,6 @@
 {
   "name": "Close-Grip EZ-Bar Curl with Band",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "e-z curl bar",

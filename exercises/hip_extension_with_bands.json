@@ -1,6 +1,6 @@
 {
   "name": "Hip Extension with Bands",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "bands",

@@ -1,6 +1,6 @@
 {
   "name": "Jackknife Sit-Up",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

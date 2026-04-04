@@ -1,6 +1,6 @@
 {
   "name": "Standing One-Arm Dumbbell Curl Over Incline Bench",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",

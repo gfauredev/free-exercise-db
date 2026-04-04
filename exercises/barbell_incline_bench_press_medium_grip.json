@@ -1,6 +1,6 @@
 {
   "name": "Barbell Incline Bench Press Medium Grip",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",

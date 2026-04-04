@@ -1,6 +1,6 @@
 {
   "name": "Bodyweight Walking Lunge",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

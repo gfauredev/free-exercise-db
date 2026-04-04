@@ -1,6 +1,6 @@
 {
   "name": "Clean and Jerk",
-  "force": "push",
+  "movement": "push",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",

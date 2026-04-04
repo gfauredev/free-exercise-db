@@ -1,6 +1,6 @@
 {
   "name": "Platform Hamstring Slide",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",

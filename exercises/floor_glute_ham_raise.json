@@ -1,6 +1,6 @@
 {
   "name": "Floor Glute-Ham Raise",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "primaryMuscles": [

@@ -1,6 +1,6 @@
 {
   "name": "Freehand Jump Squat",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "primaryMuscles": [

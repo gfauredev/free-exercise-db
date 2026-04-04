@@ -1,6 +1,6 @@
 {
   "name": "Flat Bench Lying Leg Raise",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

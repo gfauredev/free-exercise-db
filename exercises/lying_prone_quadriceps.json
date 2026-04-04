@@ -1,6 +1,6 @@
 {
   "name": "Lying Prone Quadriceps",
-  "force": "static",
+  "movement": "isometric",
   "level": "expert",
   "mechanic": "isolation",
   "primaryMuscles": [

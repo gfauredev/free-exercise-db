@@ -1,6 +1,6 @@
 {
   "name": "Seated Band Hamstring Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",

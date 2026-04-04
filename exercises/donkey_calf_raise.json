@@ -1,6 +1,6 @@
 {
   "name": "Donkey Calf Raise",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "other",

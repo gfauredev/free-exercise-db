@@ -1,6 +1,6 @@
 {
   "name": "Standing One-Arm Cable Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "cable",

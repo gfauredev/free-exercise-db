@@ -1,6 +1,6 @@
 {
   "name": "Chest Stretch on Stability Ball",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "exercise ball",

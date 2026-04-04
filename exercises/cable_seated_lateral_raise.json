@@ -1,6 +1,6 @@
 {
   "name": "Cable Seated Lateral Raise",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",

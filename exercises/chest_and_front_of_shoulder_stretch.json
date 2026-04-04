@@ -1,6 +1,6 @@
 {
   "name": "Chest and Front of Shoulder Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",

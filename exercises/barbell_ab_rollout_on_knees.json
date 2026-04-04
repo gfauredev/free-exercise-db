@@ -1,6 +1,6 @@
 {
   "name": "Barbell Ab Rollout on Knees",
-  "force": "pull",
+  "movement": "pull",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",

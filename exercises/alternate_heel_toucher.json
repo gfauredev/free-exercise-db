@@ -1,6 +1,6 @@
 {
   "name": "Alternate Heel Toucher",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

@@ -1,6 +1,6 @@
 {
   "name": "Two-Arm Dumbbell Preacher Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",

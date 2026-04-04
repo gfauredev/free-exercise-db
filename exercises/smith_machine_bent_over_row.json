@@ -1,6 +1,6 @@
 {
   "name": "Smith Machine Bent Over Row",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",

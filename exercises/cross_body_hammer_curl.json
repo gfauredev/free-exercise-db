@@ -1,6 +1,6 @@
 {
   "name": "Cross Body Hammer Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",

@@ -1,6 +1,6 @@
 {
   "name": "Ab Crunch Machine",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "machine",

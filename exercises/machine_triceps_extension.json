@@ -1,6 +1,6 @@
 {
   "name": "Machine Triceps Extension",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",

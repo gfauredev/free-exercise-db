@@ -1,6 +1,6 @@
 {
   "name": "Bent Press",
-  "force": "pull",
+  "movement": "pull",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "kettlebells",

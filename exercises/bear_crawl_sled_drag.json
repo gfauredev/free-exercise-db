@@ -1,6 +1,6 @@
 {
   "name": "Bear Crawl Sled Drag",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

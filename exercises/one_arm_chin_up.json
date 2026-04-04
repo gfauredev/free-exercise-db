@@ -1,6 +1,6 @@
 {
   "name": "One Arm Chin-Up",
-  "force": "pull",
+  "movement": "pull",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "other",

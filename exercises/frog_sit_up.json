@@ -1,6 +1,6 @@
 {
   "name": "Frog Sit-Up",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "primaryMuscles": [

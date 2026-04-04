@@ -1,6 +1,6 @@
 {
   "name": "Inchworm",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

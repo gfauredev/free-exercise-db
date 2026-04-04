@@ -1,6 +1,6 @@
 {
   "name": "Wide Stance Stiff Legs",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

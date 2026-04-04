@@ -1,6 +1,6 @@
 {
   "name": "Lying Glute",
-  "force": "static",
+  "movement": "isometric",
   "level": "expert",
   "mechanic": "isolation",
   "primaryMuscles": [

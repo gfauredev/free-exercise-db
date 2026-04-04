@@ -1,6 +1,6 @@
 {
   "name": "Rope Jumping",
-  "force": "push",
+  "movement": "continuous",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",

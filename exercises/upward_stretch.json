@@ -1,6 +1,6 @@
 {
   "name": "Upward Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

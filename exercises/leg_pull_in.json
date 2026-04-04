@@ -1,6 +1,6 @@
 {
   "name": "Leg Pull-In",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

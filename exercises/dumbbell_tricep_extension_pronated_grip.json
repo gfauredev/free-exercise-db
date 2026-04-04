@@ -1,6 +1,6 @@
 {
   "name": "Dumbbell Tricep Extension -Pronated Grip",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",

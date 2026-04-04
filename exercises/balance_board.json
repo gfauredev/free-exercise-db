@@ -1,6 +1,6 @@
 {
   "name": "Balance Board",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

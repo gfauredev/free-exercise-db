@@ -1,6 +1,6 @@
 {
   "name": "Smith Machine Hang Power Clean",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "machine",

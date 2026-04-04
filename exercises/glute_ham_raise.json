@@ -1,6 +1,6 @@
 {
   "name": "Glute Ham Raise",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "machine",

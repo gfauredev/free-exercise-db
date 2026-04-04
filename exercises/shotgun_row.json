@@ -1,6 +1,6 @@
 {
   "name": "Shotgun Row",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",

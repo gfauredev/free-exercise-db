@@ -1,6 +1,6 @@
 {
   "name": "Cable Chest Press",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",

@@ -1,6 +1,6 @@
 {
   "name": "Quad Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "other",

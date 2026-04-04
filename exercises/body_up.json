@@ -1,6 +1,6 @@
 {
   "name": "Body-Up",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "isolation",
   "primaryMuscles": [

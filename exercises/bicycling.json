@@ -1,6 +1,6 @@
 {
   "name": "Bicycling",
-  "force": "push",
+  "movement": "continuous",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

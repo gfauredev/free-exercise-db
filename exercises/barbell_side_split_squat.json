@@ -1,6 +1,6 @@
 {
   "name": "Barbell Side Split Squat",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",

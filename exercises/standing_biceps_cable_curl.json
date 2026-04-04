@@ -1,6 +1,6 @@
 {
   "name": "Standing Biceps Cable Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",

@@ -1,6 +1,6 @@
 {
   "name": "Close-Grip Front Lat Pulldown",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",

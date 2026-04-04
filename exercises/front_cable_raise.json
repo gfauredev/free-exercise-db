@@ -1,6 +1,6 @@
 {
   "name": "Front Cable Raise",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",

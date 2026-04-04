@@ -1,6 +1,6 @@
 {
   "name": "One-Arm Flat Bench Dumbbell Flye",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",

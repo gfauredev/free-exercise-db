@@ -1,6 +1,6 @@
 {
   "name": "Incline Push-Up Medium",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

@@ -1,6 +1,6 @@
 {
   "name": "Barbell Ab Rollout",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

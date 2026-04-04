@@ -1,6 +1,6 @@
 {
   "name": "Seated Hamstring and Calf Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "other",

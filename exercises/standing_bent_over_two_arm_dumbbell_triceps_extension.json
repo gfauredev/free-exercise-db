@@ -1,6 +1,6 @@
 {
   "name": "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",

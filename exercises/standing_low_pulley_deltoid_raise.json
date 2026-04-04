@@ -1,6 +1,6 @@
 {
   "name": "Standing Low-Pulley Deltoid Raise",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",

@@ -1,6 +1,6 @@
 {
   "name": "Calf Stretch Elbows against Wall",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

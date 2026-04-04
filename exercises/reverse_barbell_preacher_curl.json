@@ -1,6 +1,6 @@
 {
   "name": "Reverse Barbell Preacher Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "e-z curl bar",

@@ -9,12 +9,13 @@
     "name": {
       "type": "string"
     },
-    "force": {
+    "movement": {
       "type": "string",
       "enum": [
-        "static",
+        "push",
         "pull",
-        "push"
+        "isometric",
+        "continuous"
       ]
     },
     "level": {
@@ -153,7 +154,7 @@
   "required": [
     "id",
     "name",
-    "force",
+    "movement",
     "level",
     "mechanic",
     "primaryMuscles",

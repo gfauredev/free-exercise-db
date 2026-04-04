@@ -1,6 +1,6 @@
 {
   "name": "Seated Close-Grip Concentration Barbell Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "barbell",

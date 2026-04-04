@@ -1,6 +1,6 @@
 {
   "name": "Smith Machine Close-Grip Bench Press",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",

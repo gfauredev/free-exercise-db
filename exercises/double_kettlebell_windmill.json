@@ -1,6 +1,6 @@
 {
   "name": "Double Kettlebell Windmill",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",

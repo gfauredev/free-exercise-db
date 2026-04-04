@@ -1,6 +1,6 @@
 {
   "name": "Machine Shoulder (Military) Press",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",

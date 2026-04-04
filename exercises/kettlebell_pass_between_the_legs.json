@@ -1,6 +1,6 @@
 {
   "name": "Kettlebell Pass Between the Legs",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",

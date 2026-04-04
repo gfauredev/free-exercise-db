@@ -1,6 +1,6 @@
 {
   "name": "Incline Dumbbell Flye",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",

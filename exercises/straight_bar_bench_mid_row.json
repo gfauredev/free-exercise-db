@@ -1,6 +1,6 @@
 {
   "name": "Straight Bar Bench Mid Row",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",

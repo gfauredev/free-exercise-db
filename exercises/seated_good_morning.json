@@ -1,6 +1,6 @@
 {
   "name": "Seated Good Morning",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

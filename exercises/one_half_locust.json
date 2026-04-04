@@ -1,6 +1,6 @@
 {
   "name": "One Half Locust",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

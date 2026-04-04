@@ -1,6 +1,6 @@
 {
   "name": "Standing Dumbbell Calf Raise",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "dumbbell",

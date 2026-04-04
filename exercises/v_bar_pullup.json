@@ -1,6 +1,6 @@
 {
   "name": "V-Bar Pullup",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

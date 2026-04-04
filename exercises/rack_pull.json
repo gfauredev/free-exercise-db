@@ -1,6 +1,6 @@
 {
   "name": "Rack Pull",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

@@ -1,6 +1,6 @@
 {
   "name": "Single-Leg Lateral Hop",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

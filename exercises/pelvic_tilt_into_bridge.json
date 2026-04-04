@@ -1,6 +1,6 @@
 {
   "name": "Pelvic Tilt Into Bridge",
-  "force": "static",
+  "movement": "isometric",
   "level": "intermediate",
   "mechanic": "compound",
   "primaryMuscles": [

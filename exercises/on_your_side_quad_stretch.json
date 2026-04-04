@@ -1,6 +1,6 @@
 {
   "name": "On Your Side Quad Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

@@ -1,6 +1,6 @@
 {
   "name": "Overhead Triceps",
-  "force": "static",
+  "movement": "isometric",
   "level": "expert",
   "mechanic": "isolation",
   "primaryMuscles": [

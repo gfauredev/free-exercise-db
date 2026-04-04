@@ -1,6 +1,6 @@
 {
   "name": "Pallof Press with Rotation",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",

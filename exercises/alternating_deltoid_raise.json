@@ -1,6 +1,6 @@
 {
   "name": "Alternating Deltoid Raise",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",

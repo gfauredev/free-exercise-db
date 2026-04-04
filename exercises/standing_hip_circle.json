@@ -1,6 +1,6 @@
 {
   "name": "Standing Hip Circle",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

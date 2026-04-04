@@ -1,6 +1,6 @@
 {
   "name": "Rocking Standing Calf Raise",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",

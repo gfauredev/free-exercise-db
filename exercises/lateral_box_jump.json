@@ -1,6 +1,6 @@
 {
   "name": "Lateral Box Jump",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

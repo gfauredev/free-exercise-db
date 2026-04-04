@@ -1,6 +1,6 @@
 {
   "name": "Hurdle Hop",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

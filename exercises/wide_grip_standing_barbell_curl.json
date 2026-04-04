@@ -1,6 +1,6 @@
 {
   "name": "Wide-Grip Standing Barbell Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",

@@ -1,6 +1,6 @@
 {
   "name": "Kettlebell Seesaw Press",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",

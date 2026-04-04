@@ -1,6 +1,6 @@
 {
   "name": "Stairmaster",
-  "force": "push",
+  "movement": "continuous",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "machine",

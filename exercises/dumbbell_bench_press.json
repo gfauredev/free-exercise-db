@@ -1,6 +1,6 @@
 {
   "name": "Dumbbell Bench Press",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",

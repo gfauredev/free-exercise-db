@@ -1,6 +1,6 @@
 {
   "name": "Kneeling Cable Crunch with Alternating Oblique Twist",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",

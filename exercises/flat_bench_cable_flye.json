@@ -1,6 +1,6 @@
 {
   "name": "Flat Bench Cable Flye",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "cable",

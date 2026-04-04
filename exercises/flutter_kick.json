@@ -1,6 +1,6 @@
 {
   "name": "Flutter Kick",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

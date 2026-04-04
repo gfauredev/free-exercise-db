@@ -1,6 +1,6 @@
 {
   "name": "Decline EZ Bar Triceps Extension",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",

@@ -1,6 +1,6 @@
 {
   "name": "Band Hip Adduction",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "bands",

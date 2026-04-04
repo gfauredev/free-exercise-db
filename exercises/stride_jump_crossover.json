@@ -1,6 +1,6 @@
 {
   "name": "Stride Jump Crossover",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

@@ -1,6 +1,6 @@
 {
   "name": "Neck-SMR",
-  "force": "static",
+  "movement": "isometric",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "other",

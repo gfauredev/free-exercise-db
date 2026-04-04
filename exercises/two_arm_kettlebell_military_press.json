@@ -1,6 +1,6 @@
 {
   "name": "Two-Arm Kettlebell Military Press",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",

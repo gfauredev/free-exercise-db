@@ -1,6 +1,6 @@
 {
   "name": "Power Clean from Blocks",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

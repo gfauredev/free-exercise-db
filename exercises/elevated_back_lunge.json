@@ -1,6 +1,6 @@
 {
   "name": "Elevated Back Lunge",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

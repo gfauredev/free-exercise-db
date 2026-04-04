@@ -1,6 +1,6 @@
 {
   "name": "Seated Flat Bench Leg Pull-In",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

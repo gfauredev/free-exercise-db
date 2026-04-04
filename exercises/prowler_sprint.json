@@ -1,6 +1,6 @@
 {
   "name": "Prowler Sprint",
-  "force": "push",
+  "movement": "continuous",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

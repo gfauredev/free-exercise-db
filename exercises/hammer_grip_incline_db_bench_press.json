@@ -1,6 +1,6 @@
 {
   "name": "Hammer Grip Incline DB Bench Press",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",

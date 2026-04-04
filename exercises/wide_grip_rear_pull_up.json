@@ -1,6 +1,6 @@
 {
   "name": "Wide-Grip Rear Pull-Up",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "primaryMuscles": [

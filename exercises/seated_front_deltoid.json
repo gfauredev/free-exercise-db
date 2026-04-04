@@ -1,6 +1,6 @@
 {
   "name": "Seated Front Deltoid",
-  "force": "static",
+  "movement": "isometric",
   "level": "expert",
   "mechanic": "isolation",
   "primaryMuscles": [

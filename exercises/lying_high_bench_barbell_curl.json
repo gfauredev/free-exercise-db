@@ -1,6 +1,6 @@
 {
   "name": "Lying High Bench Barbell Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "barbell",

@@ -1,6 +1,6 @@
 {
   "name": "Upright Barbell Row",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",

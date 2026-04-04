@@ -1,6 +1,6 @@
 {
   "name": "Crunch Hands Overhead",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

@@ -1,6 +1,6 @@
 {
   "name": "Torso Rotation",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "exercise ball",

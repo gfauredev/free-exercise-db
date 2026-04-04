@@ -1,6 +1,6 @@
 {
   "name": "Dip Machine",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",

@@ -1,6 +1,6 @@
 {
   "name": "Exercise Ball Pull-In",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "exercise ball",

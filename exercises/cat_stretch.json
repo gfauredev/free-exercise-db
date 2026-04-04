@@ -1,6 +1,6 @@
 {
   "name": "Cat Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

@@ -1,6 +1,6 @@
 {
   "name": "External Rotation",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",

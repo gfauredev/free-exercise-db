@@ -1,6 +1,6 @@
 {
   "name": "Leverage Deadlift",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",

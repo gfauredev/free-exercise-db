@@ -1,6 +1,6 @@
 {
   "name": "Barbell Hack Squat",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

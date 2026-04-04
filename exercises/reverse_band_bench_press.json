@@ -1,6 +1,6 @@
 {
   "name": "Reverse Band Bench Press",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

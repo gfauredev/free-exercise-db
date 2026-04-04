@@ -1,6 +1,6 @@
 {
   "name": "One Handed Hang",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",

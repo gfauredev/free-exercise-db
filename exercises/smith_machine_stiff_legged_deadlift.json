@@ -1,6 +1,6 @@
 {
   "name": "Smith Machine Stiff-Legged Deadlift",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",

@@ -1,6 +1,6 @@
 {
   "name": "Round the World Shoulder Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",

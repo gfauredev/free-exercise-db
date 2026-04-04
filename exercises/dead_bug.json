@@ -1,6 +1,6 @@
 {
   "name": "Dead Bug",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

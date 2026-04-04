@@ -1,6 +1,6 @@
 {
   "name": "Full Range-Of-Motion Lat Pulldown",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "cable",

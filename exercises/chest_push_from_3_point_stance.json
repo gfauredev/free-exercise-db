@@ -1,6 +1,6 @@
 {
   "name": "Chest Push from 3 point stance",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "medicine ball",

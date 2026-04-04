@@ -1,6 +1,6 @@
 {
   "name": "Looking at Ceiling",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

@@ -1,6 +1,6 @@
 {
   "name": "Intermediate Hip Flexor and Quad Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",

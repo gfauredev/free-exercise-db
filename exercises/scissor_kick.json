@@ -1,6 +1,6 @@
 {
   "name": "Scissor Kick",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

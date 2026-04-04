@@ -1,6 +1,6 @@
 {
   "name": "High Cable Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "cable",

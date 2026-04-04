@@ -1,6 +1,6 @@
 {
   "name": "Hang Snatch Below Knees",
-  "force": "pull",
+  "movement": "pull",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",

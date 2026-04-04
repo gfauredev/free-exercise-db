@@ -1,6 +1,6 @@
 {
   "name": "One Knee to Chest",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

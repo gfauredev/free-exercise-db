@@ -1,6 +1,6 @@
 {
   "name": "Standing Palms-In Dumbbell Press",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "dumbbell",

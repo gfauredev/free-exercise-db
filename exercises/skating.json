@@ -1,6 +1,6 @@
 {
   "name": "Skating",
-  "force": "push",
+  "movement": "continuous",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",

@@ -1,6 +1,6 @@
 {
   "name": "Cable Judo Flip",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",

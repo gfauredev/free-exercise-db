@@ -1,9 +1,10 @@
 {
   "fr": {
-    "force": {
+    "movement": {
       "pull": "traction",
       "push": "poussée",
-      "static": "statique"
+      "isometric": "isométrique",
+      "continuous": "continu"
     },
     "level": {
       "beginner": "débutant",
@@ -57,10 +58,11 @@
     }
   },
   "es": {
-    "force": {
+    "movement": {
       "pull": "tracción",
       "push": "empuje",
-      "static": "estático"
+      "isometric": "isométrico",
+      "continuous": "continuo"
     },
     "level": {
       "beginner": "principiante",

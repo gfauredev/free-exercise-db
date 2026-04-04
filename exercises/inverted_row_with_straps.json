@@ -1,6 +1,6 @@
 {
   "name": "Inverted Row with Straps",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

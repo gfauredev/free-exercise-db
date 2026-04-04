@@ -1,6 +1,6 @@
 {
   "name": "Knee Tuck Jump",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

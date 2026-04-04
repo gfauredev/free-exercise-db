@@ -1,6 +1,6 @@
 {
   "name": "Parallel Bar Dip",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

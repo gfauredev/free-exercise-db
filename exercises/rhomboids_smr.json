@@ -1,6 +1,6 @@
 {
   "name": "Rhomboids-SMR",
-  "force": "static",
+  "movement": "isometric",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "foam roll",

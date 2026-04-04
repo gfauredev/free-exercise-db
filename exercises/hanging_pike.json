@@ -1,6 +1,6 @@
 {
   "name": "Hanging Pike",
-  "force": "pull",
+  "movement": "pull",
   "level": "expert",
   "mechanic": "compound",
   "primaryMuscles": [

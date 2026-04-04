@@ -1,6 +1,6 @@
 {
   "name": "Bodyweight Squat",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

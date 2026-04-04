@@ -1,6 +1,6 @@
 {
   "name": "One-Arm Overhead Kettlebell Squat",
-  "force": "push",
+  "movement": "push",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "kettlebells",

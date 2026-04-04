@@ -1,6 +1,6 @@
 {
   "name": "Seated Barbell Twist",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",

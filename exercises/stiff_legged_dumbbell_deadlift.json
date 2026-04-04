@@ -1,6 +1,6 @@
 {
   "name": "Stiff-Legged Dumbbell Deadlift",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",

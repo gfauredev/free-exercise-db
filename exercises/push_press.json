@@ -1,6 +1,6 @@
 {
   "name": "Push Press",
-  "force": "push",
+  "movement": "push",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",

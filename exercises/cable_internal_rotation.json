@@ -1,6 +1,6 @@
 {
   "name": "Cable Internal Rotation",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",

@@ -1,6 +1,6 @@
 {
   "name": "Bench Jump",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "primaryMuscles": [

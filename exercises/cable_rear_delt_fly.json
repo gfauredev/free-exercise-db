@@ -1,6 +1,6 @@
 {
   "name": "Cable Rear Delt Fly",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",

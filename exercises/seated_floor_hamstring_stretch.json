@@ -1,6 +1,6 @@
 {
   "name": "Seated Floor Hamstring Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

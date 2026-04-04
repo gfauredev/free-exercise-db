@@ -1,6 +1,6 @@
 {
   "name": "Single-Cone Sprint Drill",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

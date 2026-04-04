@@ -1,6 +1,6 @@
 {
   "name": "Overhead Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

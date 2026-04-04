@@ -1,6 +1,6 @@
 {
   "name": "Heavy Bag Thrust",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

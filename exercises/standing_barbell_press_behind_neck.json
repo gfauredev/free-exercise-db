@@ -1,6 +1,6 @@
 {
   "name": "Standing Barbell Press behind Neck",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

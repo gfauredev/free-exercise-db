@@ -1,6 +1,6 @@
 {
   "name": "Press Sit-Up",
-  "force": "push",
+  "movement": "push",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",

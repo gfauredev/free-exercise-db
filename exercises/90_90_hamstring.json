@@ -1,6 +1,6 @@
 {
   "name": "90/90 Hamstring",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

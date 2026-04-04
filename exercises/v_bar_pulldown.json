@@ -1,6 +1,6 @@
 {
   "name": "V-Bar Pulldown",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "cable",

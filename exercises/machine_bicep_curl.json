@@ -1,6 +1,6 @@
 {
   "name": "Machine Bicep Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",

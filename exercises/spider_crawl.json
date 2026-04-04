@@ -1,6 +1,6 @@
 {
   "name": "Spider Crawl",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

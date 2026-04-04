@@ -1,6 +1,6 @@
 {
   "name": "T-Bar Row with Handle",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",

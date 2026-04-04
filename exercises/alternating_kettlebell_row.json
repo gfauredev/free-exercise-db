@@ -1,6 +1,6 @@
 {
   "name": "Alternating Kettlebell Row",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "kettlebells",

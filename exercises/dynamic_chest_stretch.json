@@ -1,6 +1,6 @@
 {
   "name": "Dynamic Chest Stretch",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

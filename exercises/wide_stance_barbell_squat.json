@@ -1,6 +1,6 @@
 {
   "name": "Wide Stance Barbell Squat",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

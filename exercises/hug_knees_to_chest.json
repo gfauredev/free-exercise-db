@@ -1,6 +1,6 @@
 {
   "name": "Hug Knees to Chest",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

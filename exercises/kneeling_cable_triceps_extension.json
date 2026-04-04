@@ -1,6 +1,6 @@
 {
   "name": "Kneeling Cable Triceps Extension",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "cable",

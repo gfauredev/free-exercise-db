@@ -1,6 +1,6 @@
 {
   "name": "One-Arm Side Lateral",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",

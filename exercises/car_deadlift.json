@@ -1,6 +1,6 @@
 {
   "name": "Car Deadlift",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",

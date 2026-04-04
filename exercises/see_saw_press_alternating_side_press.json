@@ -1,6 +1,6 @@
 {
   "name": "See-Saw Press (Alternating Side Press)",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "dumbbell",

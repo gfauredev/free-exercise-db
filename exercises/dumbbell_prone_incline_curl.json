@@ -1,6 +1,6 @@
 {
   "name": "Dumbbell Prone Incline Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "dumbbell",

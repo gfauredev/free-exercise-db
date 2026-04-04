@@ -1,6 +1,6 @@
 {
   "name": "Standing Toe Touch",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

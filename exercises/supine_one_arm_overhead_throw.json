@@ -1,6 +1,6 @@
 {
   "name": "Supine One-Arm Overhead Throw",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "medicine ball",

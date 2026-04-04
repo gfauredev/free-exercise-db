@@ -1,6 +1,6 @@
 {
   "name": "Push-Up with Feet on an Exercise Ball",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "exercise ball",

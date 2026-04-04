@@ -1,6 +1,6 @@
 {
   "name": "Cable Russian Twist",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",

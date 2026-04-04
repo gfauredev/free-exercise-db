@@ -1,6 +1,6 @@
 {
   "name": "Sumo Deadlift with Bands",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

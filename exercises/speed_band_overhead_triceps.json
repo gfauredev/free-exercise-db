@@ -1,6 +1,6 @@
 {
   "name": "Speed Band Overhead Triceps",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "bands",

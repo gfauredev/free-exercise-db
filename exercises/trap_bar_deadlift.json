@@ -1,6 +1,6 @@
 {
   "name": "Trap Bar Deadlift",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

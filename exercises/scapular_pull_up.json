@@ -1,6 +1,6 @@
 {
   "name": "Scapular Pull-Up",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

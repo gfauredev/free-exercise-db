@@ -1,6 +1,6 @@
 {
   "name": "Standing Elevated Quad Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",

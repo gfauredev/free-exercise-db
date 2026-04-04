@@ -1,6 +1,6 @@
 {
   "name": "Smith Machine Calf Raise",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",

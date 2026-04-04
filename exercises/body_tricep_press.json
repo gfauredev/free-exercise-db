@@ -1,6 +1,6 @@
 {
   "name": "Body Tricep Press",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

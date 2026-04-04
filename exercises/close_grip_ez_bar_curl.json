@@ -1,6 +1,6 @@
 {
   "name": "Close-Grip EZ Bar Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",

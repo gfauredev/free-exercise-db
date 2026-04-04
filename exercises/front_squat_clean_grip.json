@@ -1,6 +1,6 @@
 {
   "name": "Front Squat (Clean Grip)",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

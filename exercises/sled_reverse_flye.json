@@ -1,6 +1,6 @@
 {
   "name": "Sled Reverse Flye",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",

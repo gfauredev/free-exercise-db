@@ -1,6 +1,6 @@
 {
   "name": "Low Cable Crossover",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",

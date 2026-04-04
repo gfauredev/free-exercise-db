@@ -1,6 +1,6 @@
 {
   "name": "Deadlift with Chains",
-  "force": "pull",
+  "movement": "pull",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",

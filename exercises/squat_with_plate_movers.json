@@ -1,6 +1,6 @@
 {
   "name": "Squat with Plate Movers",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

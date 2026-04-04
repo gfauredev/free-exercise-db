@@ -1,6 +1,6 @@
 {
   "name": "One-Arm Kettlebell Floor Press",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",

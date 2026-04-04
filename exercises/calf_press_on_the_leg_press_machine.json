@@ -1,6 +1,6 @@
 {
   "name": "Calf Press on the Leg Press Machine",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",

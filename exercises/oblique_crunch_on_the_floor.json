@@ -1,6 +1,6 @@
 {
   "name": "Oblique Crunch on the Floor",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

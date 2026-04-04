@@ -1,6 +1,6 @@
 {
   "name": "Internal Rotation with Band",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "bands",

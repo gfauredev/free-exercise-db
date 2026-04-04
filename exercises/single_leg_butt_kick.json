@@ -1,6 +1,6 @@
 {
   "name": "Single Leg Butt Kick",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

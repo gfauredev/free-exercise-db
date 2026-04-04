@@ -1,6 +1,6 @@
 {
   "name": "Wrist Rotations with Straight Bar",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",

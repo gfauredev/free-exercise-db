@@ -1,6 +1,6 @@
 {
   "name": "Barbell Incline Shoulder Raise",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",

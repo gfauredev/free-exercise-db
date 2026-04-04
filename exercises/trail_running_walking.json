@@ -1,6 +1,6 @@
 {
   "name": "Trail Running and Walking",
-  "force": "push",
+  "movement": "continuous",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

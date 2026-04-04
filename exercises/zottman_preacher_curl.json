@@ -1,6 +1,6 @@
 {
   "name": "Zottman Preacher Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "dumbbell",

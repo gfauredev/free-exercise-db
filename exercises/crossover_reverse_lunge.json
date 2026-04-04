@@ -1,6 +1,6 @@
 {
   "name": "Crossover Reverse Lunge",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "primaryMuscles": [

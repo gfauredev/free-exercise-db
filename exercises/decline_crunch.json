@@ -1,6 +1,6 @@
 {
   "name": "Decline Crunch",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "primaryMuscles": [

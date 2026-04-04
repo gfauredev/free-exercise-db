@@ -1,6 +1,6 @@
 {
   "name": "Front Barbell Squat to a Bench",
-  "force": "push",
+  "movement": "push",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",

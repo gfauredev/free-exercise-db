@@ -1,6 +1,6 @@
 {
   "name": "Seated Biceps",
-  "force": "static",
+  "movement": "isometric",
   "level": "expert",
   "mechanic": "isolation",
   "primaryMuscles": [

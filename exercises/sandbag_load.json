@@ -1,6 +1,6 @@
 {
   "name": "Sandbag Load",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

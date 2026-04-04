@@ -1,6 +1,6 @@
 {
   "name": "Landmine 180's",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",

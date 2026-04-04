@@ -1,6 +1,6 @@
 {
   "name": "World's Greatest Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "intermediate",
   "mechanic": "compound",
   "primaryMuscles": [

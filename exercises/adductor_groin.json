@@ -1,6 +1,6 @@
 {
   "name": "Adductor and Groin",
-  "force": "static",
+  "movement": "isometric",
   "level": "intermediate",
   "mechanic": "isolation",
   "primaryMuscles": [

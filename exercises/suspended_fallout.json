@@ -1,6 +1,6 @@
 {
   "name": "Suspended Fallout",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "other",

@@ -1,6 +1,6 @@
 {
   "name": "Medicine Ball Chest Pass",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "medicine ball",

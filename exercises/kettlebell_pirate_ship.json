@@ -1,6 +1,6 @@
 {
   "name": "Kettlebell Pirate Ship",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "kettlebells",

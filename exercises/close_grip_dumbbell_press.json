@@ -1,6 +1,6 @@
 {
   "name": "Close-Grip Dumbbell Press",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",

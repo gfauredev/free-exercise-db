@@ -1,6 +1,6 @@
 {
   "name": "London Bridge",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",

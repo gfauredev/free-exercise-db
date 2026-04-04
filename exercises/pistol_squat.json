@@ -1,6 +1,6 @@
 {
   "name": "Pistol Squat",
-  "force": "push",
+  "movement": "push",
   "level": "expert",
   "mechanic": "compound",
   "primaryMuscles": [

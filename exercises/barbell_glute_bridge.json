@@ -1,6 +1,6 @@
 {
   "name": "Barbell Glute Bridge",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

@@ -1,6 +1,6 @@
 {
   "name": "Chain Handle Extension",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "other",

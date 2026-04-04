@@ -1,6 +1,6 @@
 {
   "name": "Dumbbell Lying Pronation",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "dumbbell",

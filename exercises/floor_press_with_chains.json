@@ -1,6 +1,6 @@
 {
   "name": "Floor Press with Chains",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",

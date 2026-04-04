@@ -1,6 +1,6 @@
 {
   "name": "Seated Side Lateral Raise",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",

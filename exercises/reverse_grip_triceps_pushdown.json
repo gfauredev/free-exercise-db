@@ -1,6 +1,6 @@
 {
   "name": "Reverse Grip Triceps Pushdown",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",

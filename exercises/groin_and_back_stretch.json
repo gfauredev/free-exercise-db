@@ -1,6 +1,6 @@
 {
   "name": "Groin and Back Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "intermediate",
   "mechanic": "compound",
   "primaryMuscles": [

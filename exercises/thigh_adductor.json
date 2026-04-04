@@ -1,6 +1,6 @@
 {
   "name": "Thigh Adductor",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",

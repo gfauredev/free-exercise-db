@@ -18,7 +18,7 @@ def main():
 
         id = data.get("id")
         name = data.get("name", "").lower()
-        force = data.get("force")
+        movement = data.get("movement")
         images = data.get("images", [])
 
         # 1. Check for empty images
@@ -26,18 +26,18 @@ def main():
             print(f"Warning: {id} has an empty images array")
             empty_images_count += 1
 
-        # 2. Check for force consistency
-        if search("\bpress\b|\bthrow\b", name) and force not in ("push", "static"):
+        # 2. Check for movement consistency
+        if search("\bpress\b|\bthrow\b", name) and movement not in ("push", "isometric"):
             print(
-                f"Potential force inconsistency: {id} ({name}) is '{force}' but has '{name}' in name (expected push)"
+                f"Potential movement inconsistency: {id} ({name}) is '{movement}' but has '{name}' in name (expected push)"
             )
             force_inconsistencies += 1
-        if (search("\bcurl\b|\brow\b|\bpull\b", name)) and force not in (
+        if (search("\bcurl\b|\brow\b|\bpull\b", name)) and movement not in (
             "pull",
-            "static",
+            "isometric",
         ):
             print(
-                f"Potential force inconsistency: {id} ({name}) is '{force}' but has '{name}' in name (expected pull)"
+                f"Potential movement inconsistency: {id} ({name}) is '{movement}' but has '{name}' in name (expected pull)"
             )
             force_inconsistencies += 1
 

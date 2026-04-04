@@ -1,6 +1,6 @@
 {
   "name": "External Rotation with Band",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "bands",

@@ -1,6 +1,6 @@
 {
   "name": "Palms-Down Wrist Curl Over a Bench",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",

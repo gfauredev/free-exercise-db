@@ -1,6 +1,6 @@
 {
   "name": "Bent-Knee Hip Raise",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

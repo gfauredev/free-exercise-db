@@ -1,6 +1,6 @@
 {
   "name": "Calves-SMR",
-  "force": "static",
+  "movement": "isometric",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "foam roll",

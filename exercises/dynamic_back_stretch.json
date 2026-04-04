@@ -1,6 +1,6 @@
 {
   "name": "Dynamic Back Stretch",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

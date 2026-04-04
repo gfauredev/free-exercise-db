@@ -1,6 +1,6 @@
 {
   "name": "Glute Kickback",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

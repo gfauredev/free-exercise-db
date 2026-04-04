@@ -1,6 +1,6 @@
 {
   "name": "Knee Circle",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

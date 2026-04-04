@@ -1,6 +1,6 @@
 {
   "name": "Seated Leg Tuck",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

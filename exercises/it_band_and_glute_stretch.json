@@ -1,6 +1,6 @@
 {
   "name": "IT Band and Glute Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "other",

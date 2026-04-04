@@ -1,6 +1,6 @@
 {
   "name": "Open Palm Kettlebell Clean",
-  "force": "pull",
+  "movement": "pull",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "kettlebells",

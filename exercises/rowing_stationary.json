@@ -1,6 +1,6 @@
 {
   "name": "Stationary Rowing",
-  "force": "pull",
+  "movement": "continuous",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "machine",

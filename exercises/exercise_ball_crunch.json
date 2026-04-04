@@ -1,6 +1,6 @@
 {
   "name": "Exercise Ball Crunch",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "exercise ball",

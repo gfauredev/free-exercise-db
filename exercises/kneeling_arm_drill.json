@@ -1,6 +1,6 @@
 {
   "name": "Kneeling Arm Drill",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

@@ -1,6 +1,6 @@
 {
   "name": "Close-Grip Push-Up off of a Dumbbell",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "primaryMuscles": [

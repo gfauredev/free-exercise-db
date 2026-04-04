@@ -1,6 +1,6 @@
 {
   "name": "Hip Lift with Band",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "bands",

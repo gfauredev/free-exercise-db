@@ -1,6 +1,6 @@
 {
   "name": "Kettlebell Turkish Get-Up (Squat style)",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",

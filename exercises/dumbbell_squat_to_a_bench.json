@@ -1,6 +1,6 @@
 {
   "name": "Dumbbell Squat to a Bench",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "dumbbell",

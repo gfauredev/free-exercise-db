@@ -1,6 +1,6 @@
 {
   "name": "Smith Single-Leg Split Squat",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",

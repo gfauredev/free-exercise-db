@@ -1,6 +1,6 @@
 {
   "name": "Sled Drag Harness",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

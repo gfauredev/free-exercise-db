@@ -1,6 +1,6 @@
 {
   "name": "Single Leg Glute Bridge",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

@@ -1,6 +1,6 @@
 {
   "name": "Overhead Lat",
-  "force": "static",
+  "movement": "isometric",
   "level": "expert",
   "mechanic": "isolation",
   "equipment": "other",

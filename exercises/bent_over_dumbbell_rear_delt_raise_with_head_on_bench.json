@@ -1,6 +1,6 @@
 {
   "name": "Bent Over Dumbbell Rear Delt Raise with Head on Bench",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",

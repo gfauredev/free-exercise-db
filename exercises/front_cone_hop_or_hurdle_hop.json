@@ -1,6 +1,6 @@
 {
   "name": "Front Cone Hop (or hurdle hop)",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

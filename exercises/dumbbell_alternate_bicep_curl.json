@@ -1,6 +1,6 @@
 {
   "name": "Dumbbell Alternate Bicep Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",

@@ -1,6 +1,6 @@
 {
   "name": "Hip Circle (prone)",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

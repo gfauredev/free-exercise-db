@@ -1,6 +1,6 @@
 {
   "name": "Incline Dumbbell Bench with Palms Facing in",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",

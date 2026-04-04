@@ -1,6 +1,6 @@
 {
   "name": "Lateral Cone Hop",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

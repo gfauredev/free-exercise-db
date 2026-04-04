@@ -1,6 +1,6 @@
 {
   "name": "Straight-Arm Dumbbell Pullover",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "dumbbell",

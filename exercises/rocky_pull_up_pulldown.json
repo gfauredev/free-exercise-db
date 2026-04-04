@@ -1,6 +1,6 @@
 {
   "name": "Rocky Pull-Up and Pulldown",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",

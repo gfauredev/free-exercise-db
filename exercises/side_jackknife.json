@@ -1,6 +1,6 @@
 {
   "name": "Side Jackknife",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

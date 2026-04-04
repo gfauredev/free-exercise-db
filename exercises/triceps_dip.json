@@ -1,6 +1,6 @@
 {
   "name": "Triceps Dip",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

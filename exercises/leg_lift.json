@@ -1,6 +1,6 @@
 {
   "name": "Leg Lift",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "isolation",
   "primaryMuscles": [

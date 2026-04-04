@@ -1,6 +1,6 @@
 {
   "name": "Kettlebell Figure 8",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",

@@ -1,6 +1,6 @@
 {
   "name": "Box Squat with Bands",
-  "force": "push",
+  "movement": "push",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",

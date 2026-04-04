@@ -1,6 +1,6 @@
 {
   "name": "Chair Upper Body Stretch",
-  "force": "static",
+  "movement": "isometric",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",

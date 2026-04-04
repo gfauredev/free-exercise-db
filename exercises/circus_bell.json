@@ -1,6 +1,6 @@
 {
   "name": "Circus Bell",
-  "force": "push",
+  "movement": "push",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "other",

@@ -1,6 +1,6 @@
 {
   "name": "Step-Up with Knee Raise",
-  "force": "push",
+  "movement": "push",
   "level": "beginner",
   "mechanic": "compound",
   "primaryMuscles": [

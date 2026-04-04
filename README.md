@@ -26,7 +26,7 @@ following [JSON Schema](./schema.json). Here’s an example :
 {
   "id": "alternate_incline_dumbbell_curl",
   "name": "Alternate Incline Dumbbell Curl",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
@@ -104,8 +104,8 @@ See also
 
 ## TODO
 
-- Allow to know if non-static cardio exercises uses reps, distance or both
-  - `force: continuous` ?
+- Allow to know if non-isometric cardio exercises uses reps, distance or both
+  - `movement: continuous` ✓
 - Host the full repository (all the files) on GitHub Pages (allow using Git LFS)
   - Schema: `schema.json`
   - Combined JSON DB: `exercises.json`
@@ -127,5 +127,5 @@ See also
 [vue.js]: https://vuejs.org
 [yuhonas]: https://github.com/yuhonas/free-exercise-db
 [yuhonas.github.io/free-exercise-db]: https://yuhonas.github.io/free-exercise-db
-[lite.datasette.io]: https://lite.datasette.io/?json=https://github.com/gfauredev/free-exercise-db/blob/main/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment
-[datasette]: https://lite.datasette.io/?json=https://github.com/gfauredev/free-exercise-db/blob/main/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment
+[lite.datasette.io]: https://lite.datasette.io/?json=https://github.com/gfauredev/free-exercise-db/blob/main/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=movement&_facet=level&_facet=equipment
+[datasette]: https://lite.datasette.io/?json=https://github.com/gfauredev/free-exercise-db/blob/main/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=movement&_facet=level&_facet=equipment

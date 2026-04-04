@@ -1,6 +1,6 @@
 {
   "name": "Sledgehammer Swing",
-  "force": "pull",
+  "movement": "pull",
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",

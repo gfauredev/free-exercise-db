@@ -1,6 +1,6 @@
 {
   "name": "Wide-Grip Pulldown behind the Neck",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "cable",

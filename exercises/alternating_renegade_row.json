@@ -1,6 +1,6 @@
 {
   "name": "Alternating Renegade Row",
-  "force": "pull",
+  "movement": "pull",
   "level": "expert",
   "mechanic": "compound",
   "equipment": "kettlebells",

@@ -1,6 +1,6 @@
 {
   "name": "Linear Depth Jump",
-  "force": "push",
+  "movement": "push",
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",

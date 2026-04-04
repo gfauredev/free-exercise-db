@@ -1,6 +1,6 @@
 {
   "name": "Weighted Ball Side Bend",
-  "force": "pull",
+  "movement": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "exercise ball",
